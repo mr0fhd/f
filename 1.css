@@ -5,7 +5,7 @@
 	background-color: #0e0d0c;
 	}
 	
-	.FHD .user_profile__body::before {
+	.FHD .user_profile__body::before. {
 	content: "";
 	position: absolute;
 	top: 0;
