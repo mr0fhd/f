@@ -1,4 +1,164 @@
-.FHD #user_profile {
-    -webkit-text-stroke: medium;
-    background: wheat;
+
+.FHD .user_profile__body {	
+	position: relative;
+	padding-top: 130px !important; /* مسافة تحت الكفر حتى ما تغطي الصورة */
+	background-color: #0e0d0c;
+	}
+	
+	.FHD .user_profile__body::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 149px;
+	width: 100%;
+	background-image: url(https://b.top4top.io/p_3445fc1gt1.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	border-radius: 10px 10px 0 0;
+	border-bottom: 2px solid #c59b65a8;
+	z-index: 1;
+	}
+
+	.FHD .user_profile__body__country_flag {
+	display: inline-block;
+	background-color: #1a1a1a;
+	border: 1px solid #c59b65;
+	color: #d1b88c;
+	font-size: 12px;
+	border-radius: 6px;
+	padding: 3px 10px;
+	margin: 5px 4px;
+	}
+	
+	
+	.FHD .user_profile__body__avatar {
+    border: 2px solid #c59b65;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 0;
+    left: 50px;
+    transform: translateX(-50%);
+    box-shadow: 0 0 10px #000;
+    z-index: 10;
 }
+	.FHD .user_profile__body.modal-body {
+	padding-top: 46px !important;
+	background: rgb(0 0 0 / 89%);
+	color: #d5c3a3;
+	font-family: 'Cairo', sans-serif;
+	}
+	
+	.FHD .user_profile__body__status {
+	position: relative;
+	top: -24px;
+	color: #e0cba7 !important;
+	font-size: 12px;
+	height: 26px;
+	text-align: center;
+	text-shadow: 0 0 5px black !important;
+	display: flex
+	;
+	}
+	
+	.FHD .user_profile__body__country_flag {
+	display: flex
+	;
+	align-items: center;
+	justify-content: center;
+	margin-top: -2px;
+	font-size: 0.7rem;
+	color: #c4b28f;
+	width: 24%;
+	float: inline-end;
+	}
+	
+	.FHD .user_profile__footer__actions__item_group {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border: 1px solid #C59B65;
+	background-color: #1f1b18;
+	padding: 0.2em 0.5em;
+	margin-top: 5px;
+	font-size: 0.6rem;
+	border-radius: 6px;
+	box-shadow: inset 0 0 8px rgba(197, 155, 101, 0.2);
+	color: #f5eade;
+	}
+	
+	.FHD .user_profile__footer__actions__item .btn {
+	font-size: 0.5rem; 
+	width: 100%;
+	height: 36px;
+	padding: 8px;
+	text-align: center;
+	color: #fbeedb; 
+	margin: 0;
+	outline: 1px dashed #C59B65;
+	outline-offset: -6px;
+	background: linear-gradient(145deg, #3c2b23, #1f1b18); 
+	border-radius: 5px;
+	border: 1px solid #C59B65;
+	box-shadow: 8px 3px 5px -3px black, 0 0 10px #C59B65;
+	position: relative;
+	transition: all 0.3s ease-in-out;
+	}
+	.FHD .modal-header {
+	background: #1f1c18 !important;
+	border: 2px solid #c59b65 !important;
+	border-radius: 8px !important;
+	box-shadow: 0 0 10px #000000aa, inset 0 0 6px #00000066;
+	padding: 6px 12px;
+	display: flex
+	;
+	align-items: center;
+	gap: 10px;
+	}
+
+	.FHD .modal-header .username__wrapper {
+	font-size: 13px;
+	font-weight: bold;
+	letter-spacing: 0.4px;
+	text-transform: uppercase;
+	font-family: 'Cairo', sans-serif;
+	max-width: 75%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	display: inline-block;
+	}
+	.FHD .user_profile__body__room {
+	border: none !important;
+	}
+    .FHD #user_profile__body__user_details {
+    margin-top: 4px;
+    background-color: #1f1c18 !important;
+    padding: 1px;
+    border-radius: 5px;
+    border: 1px double #C59B65;
+    box-shadow: inset 0 0 15px rgba(197, 155, 101, 0.4);
+    color: #e0d9d0;
+    font-family: 'Cairo', sans-serif;
+}	
+	.FHD .user_profile__body__status {
+	margin-top: 53px !important;
+	text-align: center;
+	font-weight: bold;
+	}
+	.FHD .modal-content {
+	top: -4px;
+	padding: 5px;
+	border-radius: 10px !important;
+	box-shadow: 0 0 25px rgba(197, 155, 101, 0.8), inset 0 0 10px rgba(0, 0, 0, 0.6);
+	border: 4px double #c59b65 !important;
+	background: linear-gradient(145deg, #1a1a1a, #2a2a2a) !important;
+	background-blend-mode: overlay;
+	color: #e8d8c3;
+	transition: all 0.3s ease-in-out;
+	overflow: hidden;
+	}
+	
