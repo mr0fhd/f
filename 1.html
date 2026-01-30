@@ -1,0 +1,698 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // 🔶 شريط الأزرار
+  const holder = document.getElementById('login-btn-holder');
+  if (holder) {
+    holder.innerHTML = '';
+    const buttons = [
+      { href: "/rules", icon: "fas fa-music", text: "القوانين" },
+      { href: "https://facebook.com", icon: "fab fa-facebook-f", text: "فيسبوك" },
+      { href: "#", icon: "fas fa-mobile-alt", text: "التطبيق" },
+      { href: "https://t.me/", icon: "fas fa-user-shield", text: "الإدارة", target: "_blank" },
+      { href: "https://instagram.com/", icon: "fab fa-instagram", text: "انستغرام", target: "_blank" }
+    ];
+    holder.style.cssText = `
+      display: flex; flex-wrap: nowrap; justify-content: space-between; overflow: hidden;
+      width: 100%; padding: 6px 8px; background: linear-gradient(to right, #111, #1a1a1a);
+      border-radius: 10px; box-shadow: 0 0 10px #FFD70055; margin: 10px 0; gap: 4px;
+    `;
+    buttons.forEach(btnData => {
+      const btn = document.createElement('a');
+      btn.href = btnData.href;
+      btn.target = btnData.target || "_self";
+      btn.className = "btn fancy-btn";
+      btn.style.cssText = `
+        flex: 1; display: flex; align-items: center; justify-content: center;
+        background: linear-gradient(to bottom, #111, #222); border: 1px solid #FFD70055;
+        color: #FFD700; padding: 8px 0; font-size: 13px; font-weight: bold;
+        text-decoration: none; border-radius: 6px; transition: all 0.3s ease; white-space: nowrap;
+      `;
+      btn.innerHTML = `<i class="${btnData.icon}" style="margin-left: 5px;"></i> ${btnData.text}`;
+      btn.addEventListener('mouseenter', () => {
+        btn.style.background = "#FFD700";
+        btn.style.color = "#000";
+        btn.style.boxShadow = "0 0 8px #FFD700aa";
+      });
+      btn.addEventListener('mouseleave', () => {
+        btn.style.background = "linear-gradient(to bottom, #111, #222)";
+        btn.style.color = "#FFD700";
+        btn.style.boxShadow = "none";
+      });
+      holder.appendChild(btn);
+    });
+  }
+
+  // 🔸 تغيير أيقونات الواجهة
+  [['.chat__body__message-input__leave_room', 'fa-sign-out', ['fas','fa-door-open']],
+   ['.chat__body__message-input__clear', 'fa-trash', ['fas','fa-trash-can']],
+   ['.chat__body__message-input__share', 'fa-share-alt', ['fas','fa-photo-film']]
+  ].forEach(([sel, old, add]) => {
+    const el = document.querySelector(sel);
+    if (el) { el.classList.remove(old); el.classList.add(...add); }
+  });
+
+  // 🔸 تنسيق أيقونة السمايل
+  const smileInterval = setInterval(() => {
+    const smile = document.getElementById('chat__body__message-input__face');
+    if (smile) {
+      Object.assign(smile.style, {
+        width: '28px', height: '28px', borderRadius: '50%',
+        border: '2px solid #cfa84c',
+        boxShadow: '0 0 6px rgba(207,168,76,0.6)',
+        padding: '2px'
+      });
+      smile.src = 'https://cdn-icons-png.flaticon.com/512/742/742751.png';
+      clearInterval(smileInterval);
+    }
+  }, 300);
+
+  // 🔸 أيقونة اليوتيوب
+  const ytInterval = setInterval(() => {
+    const yt = document.getElementById('chat_pane_youtube__icon');
+    if (yt) {
+      yt.className = 'fab fa-youtube';
+      clearInterval(ytInterval);
+    }
+  }, 500);
+
+  // 🔸 تبويبات الدخول
+  document.querySelectorAll('#tabs .nav-item').forEach(tab => {
+    const link = tab.querySelector('a');
+    const icon = tab.querySelector('.fa');
+    if (link && icon) {
+      link.style.cssText = "display:inline-flex;align-items:center;justify-content:center;padding:6px 12px;background:linear-gradient(to bottom,#111,#222);border:1px solid #FFD70055;color:#FFD700!important;font-size:13px;font-weight:bold;text-decoration:none;border-radius:10px;box-shadow:0 0 4px #FFD70033;transition:all 0.3s ease;";
+      icon.style.marginLeft = '5px';
+      icon.style.color = '#FFD700';
+      ['mouseenter','mouseleave','mousedown','mouseup'].forEach(evt => {
+        link.addEventListener(evt, () => {
+          link.style.boxShadow = evt === 'mouseenter' ? '0 0 8px #FFD700aa' : '0 0 4px #FFD70033';
+          link.style.transform = evt === 'mousedown' ? 'scale(0.98)' : 'scale(1)';
+          icon.style.color = '#FFD700';
+        });
+      });
+    }
+  });
+
+  // 🔸 حركة نبض + توهج عند الضغط
+  const style = document.createElement('style');
+  style.textContent = `
+    @keyframes goldenPulse {
+      0% { box-shadow: 0 0 5px #FFD70033; transform: scale(1); }
+      50% { box-shadow: 0 0 15px #FFD700AA; transform: scale(1.05); }
+      100% { box-shadow: 0 0 5px #FFD70033; transform: scale(1); }
+    }
+    .golden-pulse { animation: goldenPulse 0.4s ease; }
+
+    @keyframes glowFlash {
+      0% { box-shadow: 0 0 3px #FFD70088; }
+      50% { box-shadow: 0 0 12px #FFD700; }
+      100% { box-shadow: 0 0 3px #FFD70088; }
+    }
+    .active-glow { animation: glowFlash 0.5s ease-in-out; }
+  `;
+  document.head.appendChild(style);
+
+  document.querySelectorAll('#tabs .nav-item a').forEach(link => {
+    link.addEventListener('click', () => {
+      link.classList.remove('golden-pulse');
+      void link.offsetWidth;
+      link.classList.add('golden-pulse');
+    });
+  });
+
+  // 🔸 توهج زر القائمة السفلى
+  document.querySelectorAll('#chat__footer__menu li').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.classList.add('active-glow');
+      setTimeout(() => btn.classList.remove('active-glow'), 500);
+    });
+  });
+
+  // 🔸 زر بحث يوتيوب
+  const btn = document.getElementById("chat_pane_youtube__submit");
+  if (btn) {
+    btn.addEventListener("click", function(e) {
+      e.preventDefault();
+      const input = document.getElementById("chat_pane_youtube__input");
+      const val = input.value.trim();
+      if (!val) {
+        alert("يرجى كتابة شيء للبحث عنه في اليوتيوب.");
+        input.focus();
+        return;
+      }
+      const url = val.includes("youtube.com") || val.includes("youtu.be")
+        ? val : `https://www.youtube.com/results?search_query=${encodeURIComponent(val)}`;
+      window.open(url, '_blank');
+    });
+  }
+
+  // 🔸 تنسيق هيدر النوافذ
+  function stylePaneHeader(paneId, titleText) {
+    const pane = document.getElementById(paneId);
+    if (!pane) return;
+    const header = pane.querySelector('.chat_pane__header');
+    const title = pane.querySelector('.chat_pane__header__title');
+    const closeBtn = pane.querySelector('.chat_pane__header__close');
+    if (header && title && closeBtn) {
+      header.classList.add("styled-pane-header");
+      title.textContent = titleText;
+      title.classList.add("styled-pane-title");
+      closeBtn.classList.add("styled-pane-close");
+      pane.classList.add("styled-pane");
+    }
+  }
+
+  const headers = [
+    { id: "chat__body__users-pane", title: "المتواجدين" },
+    { id: "chat__body__conversations_pane", title: "المحادثات الخاصة" },
+    { id: "chat__body__rooms_pane", title: "غرف الدردشة" },
+    { id: "chat__body__wall_pane", title: "الحائط" },
+    { id: "chat__body__settings_pane", title: "الإعدادات" },
+    { id: "chat__body__others-pane", title: "إضافات أخرى" }
+  ];
+
+  let tries = 0;
+  const interval = setInterval(() => {
+    let allReady = true;
+    headers.forEach(({ id, title }) => {
+      const pane = document.getElementById(id);
+      if (pane && !pane.dataset.styled) {
+        stylePaneHeader(id, title);
+        pane.dataset.styled = "true";
+      } else if (!pane) {
+        allReady = false;
+      }
+    });
+    tries++;
+    if (allReady || tries > 20) clearInterval(interval);
+  }, 400);
+
+  // 🔸 تحديث Placeholder حقل البحث
+  let searchTries = 0;
+  const maxTries = 20;
+  const placeholderInterval = setInterval(() => {
+    const input = document.querySelector('.chat_pane__search');
+    if (input) {
+      input.placeholder = "🔍 ابحث عن عضو";
+      clearInterval(placeholderInterval);
+    } else if (++searchTries >= maxTries) {
+      clearInterval(placeholderInterval);
+    }
+  }, 300);
+
+  // 🔸 تحسين تمرير الاستوري
+  const storyBoard = document.getElementById("story-board");
+  if (storyBoard) {
+    storyBoard.style.scrollSnapType = "x mandatory";
+    storyBoard.querySelectorAll(".story-board--item").forEach((item) => {
+      item.style.scrollSnapAlign = "start";
+    });
+    storyBoard.addEventListener("wheel", function (e) {
+      if (e.deltaY !== 0) {
+        e.preventDefault();
+        storyBoard.scrollLeft += e.deltaY;
+      }
+    }, { passive: false });
+
+    let isTouching = false;
+    let startX = 0;
+    let scrollLeft = 0;
+
+    storyBoard.addEventListener("touchstart", (e) => {
+      isTouching = true;
+      startX = e.touches[0].pageX;
+      scrollLeft = storyBoard.scrollLeft;
+    });
+    storyBoard.addEventListener("touchmove", (e) => {
+      if (!isTouching) return;
+      const x = e.touches[0].pageX;
+      const walk = (startX - x);
+      storyBoard.scrollLeft = scrollLeft + walk;
+    });
+    storyBoard.addEventListener("touchend", () => {
+      isTouching = false;
+    });
+  }
+
+  // 🔸 منع قفز الشاشة عند الكيبورد
+  window.addEventListener('focusout', () => setTimeout(() => window.scrollTo(0, 0), 50));
+});
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const notificationsBtn = document.getElementById("others--notifications");
+  const othersPane = document.getElementById("chat__body__others-pane");
+  const notificationsPane = document.getElementById("chat__body__notifications-pane");
+
+  if (notificationsBtn && othersPane && notificationsPane) {
+    notificationsBtn.addEventListener("click", function () {
+      // إخفاء لوحة الإضافات
+      othersPane.style.display = "none";
+
+      // إظهار لوحة الإشعارات في الأعلى
+      notificationsPane.style.display = "block";
+      notificationsPane.style.zIndex = "9999"; // تأكد أنها فوق
+    });
+  }
+});
+</script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // 🔶 شريط الأزرار
+  const holder = document.getElementById('login-btn-holder');
+  if (holder) {
+    holder.innerHTML = '';
+    const buttons = [
+      { href: "/rules", icon: "fas fa-music", text: "القوانين" },
+      { href: "https://facebook.com", icon: "fab fa-facebook-f", text: "فيسبوك" },
+      { href: "#", icon: "fas fa-mobile-alt", text: "التطبيق" },
+      { href: "https://t.me/", icon: "fas fa-user-shield", text: "الإدارة", target: "_blank" },
+      { href: "https://instagram.com/", icon: "fab fa-instagram", text: "انستغرام", target: "_blank" }
+    ];
+    holder.style.cssText = `
+      display: flex; flex-wrap: nowrap; justify-content: space-between; overflow: hidden;
+      width: 100%; padding: 6px 8px; background: linear-gradient(to right, #111, #1a1a1a);
+      border-radius: 10px; box-shadow: 0 0 10px #FFD70055; margin: 10px 0; gap: 4px;
+    `;
+    buttons.forEach(btnData => {
+      const btn = document.createElement('a');
+      btn.href = btnData.href;
+      btn.target = btnData.target || "_self";
+      btn.className = "btn fancy-btn";
+      btn.style.cssText = `
+        flex: 1; display: flex; align-items: center; justify-content: center;
+        background: linear-gradient(to bottom, #111, #222); border: 1px solid #FFD70055;
+        color: #FFD700; padding: 8px 0; font-size: 13px; font-weight: bold;
+        text-decoration: none; border-radius: 6px; transition: all 0.3s ease; white-space: nowrap;
+      `;
+      btn.innerHTML = `<i class="${btnData.icon}" style="margin-left: 5px;"></i> ${btnData.text}`;
+      btn.addEventListener('mouseenter', () => {
+        btn.style.background = "#FFD700";
+        btn.style.color = "#000";
+        btn.style.boxShadow = "0 0 8px #FFD700aa";
+      });
+      btn.addEventListener('mouseleave', () => {
+        btn.style.background = "linear-gradient(to bottom, #111, #222)";
+        btn.style.color = "#FFD700";
+        btn.style.boxShadow = "none";
+      });
+      holder.appendChild(btn);
+    });
+  }
+
+  // 🔸 تغيير أيقونات الواجهة
+  [['.chat__body__message-input__leave_room', 'fa-sign-out', ['fas','fa-door-open']],
+   ['.chat__body__message-input__clear', 'fa-trash', ['fas','fa-trash-can']],
+   ['.chat__body__message-input__share', 'fa-share-alt', ['fas','fa-photo-film']]
+  ].forEach(([sel, old, add]) => {
+    const el = document.querySelector(sel);
+    if (el) { el.classList.remove(old); el.classList.add(...add); }
+  });
+
+  // 🔸 تنسيق أيقونة السمايل
+  const smileInterval = setInterval(() => {
+    const smile = document.getElementById('chat__body__message-input__face');
+    if (smile) {
+      Object.assign(smile.style, {
+        width: '28px', height: '28px', borderRadius: '50%',
+        border: '2px solid #cfa84c',
+        boxShadow: '0 0 6px rgba(207,168,76,0.6)',
+        padding: '2px'
+      });
+      smile.src = 'https://cdn-icons-png.flaticon.com/512/742/742751.png';
+      clearInterval(smileInterval);
+    }
+  }, 300);
+
+  // 🔸 أيقونة اليوتيوب
+  const ytInterval = setInterval(() => {
+    const yt = document.getElementById('chat_pane_youtube__icon');
+    if (yt) {
+      yt.className = 'fab fa-youtube';
+      clearInterval(ytInterval);
+    }
+  }, 500);
+
+  // 🔸 تبويبات الدخول
+  document.querySelectorAll('#tabs .nav-item').forEach(tab => {
+    const link = tab.querySelector('a');
+    const icon = tab.querySelector('.fa');
+    if (link && icon) {
+      link.style.cssText = "display:inline-flex;align-items:center;justify-content:center;padding:6px 12px;background:linear-gradient(to bottom,#111,#222);border:1px solid #FFD70055;color:#FFD700!important;font-size:13px;font-weight:bold;text-decoration:none;border-radius:10px;box-shadow:0 0 4px #FFD70033;transition:all 0.3s ease;";
+      icon.style.marginLeft = '5px';
+      icon.style.color = '#FFD700';
+      ['mouseenter','mouseleave','mousedown','mouseup'].forEach(evt => {
+        link.addEventListener(evt, () => {
+          link.style.boxShadow = evt === 'mouseenter' ? '0 0 8px #FFD700aa' : '0 0 4px #FFD70033';
+          link.style.transform = evt === 'mousedown' ? 'scale(0.98)' : 'scale(1)';
+          icon.style.color = '#FFD700';
+        });
+      });
+    }
+  });
+
+  // 🔸 حركة نبض + توهج عند الضغط
+  const style = document.createElement('style');
+  style.textContent = `
+    @keyframes goldenPulse {
+      0% { box-shadow: 0 0 5px #FFD70033; transform: scale(1); }
+      50% { box-shadow: 0 0 15px #FFD700AA; transform: scale(1.05); }
+      100% { box-shadow: 0 0 5px #FFD70033; transform: scale(1); }
+    }
+    .golden-pulse { animation: goldenPulse 0.4s ease; }
+
+    @keyframes glowFlash {
+      0% { box-shadow: 0 0 3px #FFD70088; }
+      50% { box-shadow: 0 0 12px #FFD700; }
+      100% { box-shadow: 0 0 3px #FFD70088; }
+    }
+    .active-glow { animation: glowFlash 0.5s ease-in-out; }
+  `;
+  document.head.appendChild(style);
+
+  document.querySelectorAll('#tabs .nav-item a').forEach(link => {
+    link.addEventListener('click', () => {
+      link.classList.remove('golden-pulse');
+      void link.offsetWidth;
+      link.classList.add('golden-pulse');
+    });
+  });
+
+  // 🔸 توهج زر القائمة السفلى
+  document.querySelectorAll('#chat__footer__menu li').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.classList.add('active-glow');
+      setTimeout(() => btn.classList.remove('active-glow'), 500);
+    });
+  });
+
+  // 🔸 زر بحث يوتيوب
+  const btn = document.getElementById("chat_pane_youtube__submit");
+  if (btn) {
+    btn.addEventListener("click", function(e) {
+      e.preventDefault();
+      const input = document.getElementById("chat_pane_youtube__input");
+      const val = input.value.trim();
+      if (!val) {
+        alert("يرجى كتابة شيء للبحث عنه في اليوتيوب.");
+        input.focus();
+        return;
+      }
+      const url = val.includes("youtube.com") || val.includes("youtu.be")
+        ? val : `https://www.youtube.com/results?search_query=${encodeURIComponent(val)}`;
+      window.open(url, '_blank');
+    });
+  }
+
+  // 🔸 تنسيق هيدر النوافذ
+  function stylePaneHeader(paneId, titleText) {
+    const pane = document.getElementById(paneId);
+    if (!pane) return;
+    const header = pane.querySelector('.chat_pane__header');
+    const title = pane.querySelector('.chat_pane__header__title');
+    const closeBtn = pane.querySelector('.chat_pane__header__close');
+    if (header && title && closeBtn) {
+      header.classList.add("styled-pane-header");
+      title.textContent = titleText;
+      title.classList.add("styled-pane-title");
+      closeBtn.classList.add("styled-pane-close");
+      pane.classList.add("styled-pane");
+    }
+  }
+
+  const headers = [
+    { id: "chat__body__users-pane", title: "المتواجدين" },
+    { id: "chat__body__conversations_pane", title: "المحادثات الخاصة" },
+    { id: "chat__body__rooms_pane", title: "غرف الدردشة" },
+    { id: "chat__body__wall_pane", title: "الحائط" },
+    { id: "chat__body__settings_pane", title: "الإعدادات" },
+    { id: "chat__body__others-pane", title: "إضافات أخرى" }
+  ];
+
+  let tries = 0;
+  const interval = setInterval(() => {
+    let allReady = true;
+    headers.forEach(({ id, title }) => {
+      const pane = document.getElementById(id);
+      if (pane && !pane.dataset.styled) {
+        stylePaneHeader(id, title);
+        pane.dataset.styled = "true";
+      } else if (!pane) {
+        allReady = false;
+      }
+    });
+    tries++;
+    if (allReady || tries > 20) clearInterval(interval);
+  }, 400);
+
+  // 🔸 تحديث Placeholder حقل البحث
+  let searchTries = 0;
+  const maxTries = 20;
+  const placeholderInterval = setInterval(() => {
+    const input = document.querySelector('.chat_pane__search');
+    if (input) {
+      input.placeholder = "🔍 ابحث عن عضو";
+      clearInterval(placeholderInterval);
+    } else if (++searchTries >= maxTries) {
+      clearInterval(placeholderInterval);
+    }
+  }, 300);
+
+  // 🔸 تحسين تمرير الاستوري
+  const storyBoard = document.getElementById("story-board");
+  if (storyBoard) {
+    storyBoard.style.scrollSnapType = "x mandatory";
+    storyBoard.querySelectorAll(".story-board--item").forEach((item) => {
+      item.style.scrollSnapAlign = "start";
+    });
+    storyBoard.addEventListener("wheel", function (e) {
+      if (e.deltaY !== 0) {
+        e.preventDefault();
+        storyBoard.scrollLeft += e.deltaY;
+      }
+    }, { passive: false });
+
+    let isTouching = false;
+    let startX = 0;
+    let scrollLeft = 0;
+
+    storyBoard.addEventListener("touchstart", (e) => {
+      isTouching = true;
+      startX = e.touches[0].pageX;
+      scrollLeft = storyBoard.scrollLeft;
+    });
+    storyBoard.addEventListener("touchmove", (e) => {
+      if (!isTouching) return;
+      const x = e.touches[0].pageX;
+      const walk = (startX - x);
+      storyBoard.scrollLeft = scrollLeft + walk;
+    });
+    storyBoard.addEventListener("touchend", () => {
+      isTouching = false;
+    });
+  }
+
+  // 🔸 منع قفز الشاشة عند الكيبورد
+  window.addEventListener('focusout', () => setTimeout(() => window.scrollTo(0, 0), 50));
+});
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const notificationsBtn = document.getElementById("others--notifications");
+  const othersPane = document.getElementById("chat__body__others-pane");
+  const notificationsPane = document.getElementById("chat__body__notifications-pane");
+
+  if (notificationsBtn && othersPane && notificationsPane) {
+    notificationsBtn.addEventListener("click", function () {
+      // إخفاء لوحة الإضافات
+      othersPane.style.display = "none";
+
+      // إظهار لوحة الإشعارات في الأعلى
+      notificationsPane.style.display = "block";
+      notificationsPane.style.zIndex = "9999"; // تأكد أنها فوق
+    });
+  }
+});
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+/* ===== زر الأصوات ===== */
+button#sound-toggle {
+    position: absolute;
+    top: 6px;
+    width: 55px;
+    height: 55px;
+    right: 8px;
+    background: #222;
+    color: #fff;
+    border: none;
+    border-radius: 8px 24px 24px 8px;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;
+}
+#sound-toggle[data-enabled="true"] {
+    background: #2ecc71;
+    color: #042;
+}
+#sound-toggle:hover { transform: scale(1.02); }
+
+/* ===== الرسائل Linen ===== */
+.public_message.linen.js-join { border-left:5px solid #2ecc71!important; background:linear-gradient(90deg, rgba(46, 204, 113, 0.08), #7fffd4); color:aquamarine!important; animation:fadeIn 0.6s ease; }
+.public_message.linen.js-leave { border-left:5px solid #e74c3c!important; background:linear-gradient(90deg, rgba(46, 204, 113, 0.08), #c11200); color:red!important; animation:fadeOut 0.6s ease; }
+.public_message.linen.js-move { border-left:5px solid #f1c40f!important; background:linear-gradient(90deg, rgba(46, 204, 113, 0.08), #f1c40f); color:yellow!important; animation:pulse 0.9s ease-in-out; }
+.public_message.linen.js-kick { border:2px solid #D51919!important; border-radius:10px; background:linear-gradient(90deg, rgba(46, 204, 113, 0.08), #D51919); box-shadow:0 0 6px rgba(255,30,30,0.9),0 0 12px rgba(255,30,30,0.6), inset 0 0 6px rgba(255,30,30,0.8), inset 0 0 10px rgba(255,30,30,0.5); color:red!important; animation:shake 0.5s ease-in-out; }
+
+/* Hover */
+.public_message.linen:hover, .public_message:not(.linen):hover { transform:scale(1.01); transition: transform 0.2s ease; }
+
+/* Reply */
+.public_message--reply {
+    background: linear-gradient(90deg, rgba(46, 204, 113, 0.08), #9b59b6);
+    color: #9b59b6;
+    font-weight: bold;
+    animation: replyFade 0.6s ease;
+    border-radius: 6px;
+    border: 2px solid rgb(158 113 186);
+    border-left: 5px solid #9b59b6;
+}
+.public_message--reply:hover { transform:scale(1.02); transition: transform 0.2s ease; }
+
+/* Public / AD */
+.public_message.public_message_ad { border-left:5px solid #e67e22; background:linear-gradient(90deg, rgba(230,126,34,0.08), rgba(230,126,34,0.2)); color:#e67e22; font-weight:bold; animation:adFade 0.6s ease; border-radius:6px; }
+.public_message.public_message_ad:hover { transform:scale(1.02); transition: transform 0.2s ease; }
+
+/* Keyframes */
+@keyframes fadeIn { from {opacity:0; transform:translateY(-6px)} to {opacity:1; transform:translateY(0)} }
+@keyframes fadeOut { from {opacity:0.9} to {opacity:0.35} }
+@keyframes pulse {0%,100%{transform:scale(1)}50%{transform:scale(1.03)}}
+@keyframes shake {0%,100%{transform:translateX(0)}25%{transform:translateX(-4px)}75%{transform:translateX(4px)}}
+@keyframes replyFade {from{opacity:0; transform:translateY(4px)} to{opacity:1; transform:translateY(0)}}
+@keyframes adFade {from{opacity:0; transform:translateY(-4px)} to{opacity:1; transform:translateY(0)}}
+</style>
+
+<script>
+(function(){
+  let audioCtx=null;
+  let soundsEnabled=false;
+
+  function ensureAudioContext() {
+    if(!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    if(audioCtx.state==='suspended') audioCtx.resume();
+  }
+
+  function playTone({freq=440,duration=0.12,type='sine',gain=0.12}={}) {
+    if(!audioCtx) return;
+    const now = audioCtx.currentTime;
+    const osc = audioCtx.createOscillator();
+    const g = audioCtx.createGain();
+    osc.type = type;
+    osc.frequency.setValueAtTime(freq, now);
+    g.gain.setValueAtTime(gain, now);
+    g.gain.exponentialRampToValueAtTime(0.001, now+duration);
+    osc.connect(g); g.connect(audioCtx.destination);
+    osc.start(now); osc.stop(now+duration);
+  }
+
+  const soundMap={
+    join: ()=>{ playTone({freq:720,type:'sine'}); setTimeout(()=>playTone({freq:950,type:'triangle'}),80); },
+    leave: ()=>{ playTone({freq:400,type:'sine'}); setTimeout(()=>playTone({freq:300,type:'sine'}),100); },
+    move: ()=>{ playTone({freq:800,duration:0.08,type:'square'}); },
+    kick: ()=>{ playTone({freq:180,duration:0.15,type:'square'}); setTimeout(()=>playTone({freq:120,duration:0.25,type:'sawtooth'}),100); },
+    message: ()=>{ playTone({freq:520,duration:0.08,type:'square'}); },
+    reply: ()=>{ playTone({freq:660,duration:0.15,type:'sawtooth',gain:0.2}); },
+    ad: ()=>{ 
+      playTone({freq:780,duration:0.18,type:'triangle',gain:0.25});
+      setTimeout(()=>playTone({freq:880,duration:0.15,type:'sawtooth',gain:0.2}),80);
+    }
+  };
+
+  function processMessages(){
+    // 🔹 الرسائل العامة / AD فقط
+    document.querySelectorAll('.public_message.public_message_ad').forEach(msg=>{
+      if(msg.dataset.processed_ad==='true') return;
+      if(soundsEnabled){ ensureAudioContext(); soundMap.ad(); }
+      msg.dataset.processed_ad='true';
+    });
+
+    // 🔹 Linen events بدون AD
+    document.querySelectorAll('.public_message.linen:not(.public_message_ad)').forEach(msg=>{
+      if(msg.dataset.processed==='true') return;
+      const text = msg.innerText.trim();
+      let eventType=null;
+      if(text.includes('دخل')){ msg.classList.add('js-join'); msg.innerHTML=msg.innerHTML.replace(/هذا المستخدم قد دخل.*/g,'✨ هذا المستخدم نوّر المكـان'); eventType='join'; }
+      else if(text.includes('غادر')){ msg.classList.add('js-leave'); eventType='leave'; }
+      else if(text.includes('إنتقل إلى')){ msg.classList.add('js-move'); const content=msg.querySelector('.public_message__content'); if(content) content.innerHTML='<span>هذا المستخدم إنتقل إلى غرفة اخرى</span>'; eventType='move'; }
+      else if(text.includes('تم طرده من الدردشة')){ msg.classList.add('js-kick'); const content=msg.querySelector('.public_message__content'); if(content) content.innerHTML='<span>تم طرده من الدردشة</span>'; eventType='kick'; }
+
+      if(soundsEnabled && eventType && soundMap[eventType]){ ensureAudioContext(); soundMap[eventType](); }
+      msg.dataset.processed='true';
+    });
+
+    // 🔹 رسائل Reply فقط (لا يشغل message)
+    document.querySelectorAll('.public_message--reply:not(.public_message_ad)').forEach(msg=>{
+      if(msg.dataset.processed_reply==='true') return;
+      if(soundsEnabled){ ensureAudioContext(); soundMap.reply(); }
+      msg.dataset.processed_reply='true';
+    });
+
+    // 🔹 الرسائل العادية (غير AD و غير Reply)
+    document.querySelectorAll('.public_message:not(.linen):not(.public_message_ad):not(.public_message--reply)').forEach(msg=>{
+      if(msg.dataset.processed_message==='true') return;
+      if(soundsEnabled){ ensureAudioContext(); soundMap.message(); }
+      msg.dataset.processed_message='true';
+    });
+  }
+
+  function init(){
+    const settingsPane=document.querySelector('#chat__body');
+    if(!settingsPane){ setTimeout(init,500); return; }
+
+    let toggleBtn=document.getElementById('sound-toggle');
+    if(!toggleBtn){
+      toggleBtn=document.createElement('button');
+      toggleBtn.id='sound-toggle';
+      toggleBtn.dataset.enabled='false';
+      toggleBtn.textContent='🔇 تفعيل الأصوات';
+      settingsPane.appendChild(toggleBtn);
+    }
+
+    const saved=localStorage.getItem('chat_sounds_enabled');
+    if(saved==='true'){ soundsEnabled=true; toggleBtn.dataset.enabled='true'; toggleBtn.textContent='🔊 الأصوات مفعّلة'; }
+
+    processMessages();
+    const observer=new MutationObserver(processMessages);
+    observer.observe(document.body,{childList:true,subtree:true});
+
+    toggleBtn.addEventListener('click',()=>{
+      ensureAudioContext();
+      soundsEnabled=!soundsEnabled;
+      toggleBtn.dataset.enabled=soundsEnabled?'true':'false';
+      toggleBtn.textContent=soundsEnabled?'🔊 الأصوات مفعّلة':'🔇 تفعيل الأصوات';
+      localStorage.setItem('chat_sounds_enabled',soundsEnabled?'true':'false');
+      if(soundsEnabled) playTone({freq:880});
+    });
+  }
+
+  if(document.readyState==='loading'){ document.addEventListener('DOMContentLoaded',init); }
+  else{ init(); }
+})();
+</script>
