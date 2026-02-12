@@ -1,1 +1,4560 @@
-(function(_0x295142,_0x488ea5){function _0xf9e67b(_0x5a9980,_0x459c39,_0x2208a9,_0xeacfa7,_0x2032eb){return _0x578e(_0x2032eb-0x1f4,_0x459c39);}function _0xf93d2b(_0x2646f2,_0x30263b,_0x4e70b0,_0x5ecba1,_0x37e000){return _0x578e(_0x37e000-0x39f,_0x2646f2);}function _0x41b6bc(_0x26bae5,_0x553a16,_0x506ffd,_0x2628f4,_0x5772f9){return _0x578e(_0x506ffd-0x35e,_0x26bae5);}function _0x18c299(_0x2c465d,_0x54f6a6,_0x3dd081,_0x40810b,_0x244f4f){return _0x578e(_0x2c465d- -0x35e,_0x3dd081);}function _0x2c966e(_0x5098fb,_0x5919d6,_0x84456e,_0xacf9a6,_0x57a16e){return _0x578e(_0x84456e- -0x101,_0xacf9a6);}const _0x1c0303=_0x295142();while(!![]){try{const _0x3c5c7c=-parseInt(_0xf93d2b('HPy)',0x582,0x38c,0x3ee,0x44e))/(-0x76f+-0x24f0+0x2c60)+-parseInt(_0xf93d2b('@p3J',0x3b3,0x4df,0x5d8,0x4d3))/(0x1c3c+0x194d+-0x3587)*(parseInt(_0xf93d2b('Kxzk',0x4f7,0x4f3,0x498,0x4db))/(0x1ea1+0x794*-0x1+-0x170a))+parseInt(_0xf93d2b('HPy)',0x427,0x3a9,0x54f,0x43f))/(-0x1cf1+-0x21*0x106+-0x65*-0x9f)*(-parseInt(_0xf93d2b('MHIM',0x57c,0x4f2,0x41c,0x545))/(0x1f3e*-0x1+0x1b84*-0x1+0x16f*0x29))+parseInt(_0x41b6bc('@p3J',0x503,0x46e,0x545,0x4c2))/(-0x8bb+-0x10d5+0x106*0x19)*(parseInt(_0x41b6bc('A!1r',0x737,0x615,0x512,0x5a5))/(-0x257e+-0x1d9f*-0x1+-0x6*-0x151))+-parseInt(_0x2c966e(0x1cb,0x83,0xb6,'MHIM',-0x68))/(0x1*-0x247+-0x1*-0x1127+-0xed8)+parseInt(_0x41b6bc('0WgI',0x3c4,0x420,0x454,0x53b))/(-0x295*0xb+-0x1929+0x1*0x3599)*(parseInt(_0xf93d2b('0WgI',0x544,0x6b3,0x61a,0x601))/(0x110c+-0x13f6+-0x9*-0x54))+-parseInt(_0x18c299(-0x20c,-0x123,'U[Ao',-0x224,-0x30a))/(0x1bbd+-0x2e1+-0x1*0x18d1)*(-parseInt(_0xf9e67b(0x3f6,'NLWn',0x297,0x31a,0x361))/(-0x1012+-0x44*-0x59+-0x786));if(_0x3c5c7c===_0x488ea5)break;else _0x1c0303['push'](_0x1c0303['shift']());}catch(_0x3ac6f1){_0x1c0303['push'](_0x1c0303['shift']());}}}(_0x9f7c,0x57140+-0x1d4aa+-0x8dd*-0x53));const _0x46f84e=(function(){const _0x18d842={'RhsSa':function(_0x229356,_0x9e7591){return _0x229356(_0x9e7591);},'zJRAZ':function(_0x270b7c,_0x18e2db){return _0x270b7c+_0x18e2db;},'reLRQ':_0x2b3a14(0x2de,'Y2]E',0x360,0x34d,0x397)+_0x2d1640(0x56,'HPy)',0x113,0x19a,0xb3)+_0x2d1640(0x126,'XmN0',0x19c,0x1c2,0x1b0)+_0x2d1640(-0x1d,'MG!o',0xf8,0x10c,0x84),'XUJeE':_0x49ec66(0x2c3,'4P8#',0x3cd,0x369,0x2d0)+_0x26e180('&iB5',0x1e1,0x14c,0x1cf,0x1e9)+_0x554761(0x476,0x586,'!s0H',0x471,0x577)+_0x2d1640(0x146,'HK09',0x30c,0x2f6,0x25b)+_0x49ec66(0x1b1,'4P8#',0x2a6,0x19f,0x35e)+_0x49ec66(0x2f6,'MHIM',0x37a,0x38e,0x249)+'\x20)','RNJyR':_0x554761(0x4dc,0x4df,'Y2]E',0x401,0x40f),'chIbZ':_0x26e180('^C36',-0x3b,0x10b,-0x28,0x7c),'FSTMJ':function(_0x35ab93,_0x253fd3){return _0x35ab93===_0x253fd3;},'WIiYw':_0x2b3a14(0x340,'O&B9',0x4d6,0x3c3,0x2eb),'jnLdC':_0x2d1640(0x16f,'7E2q',0x8c,0x229,0x14b),'yWSab':_0x26e180(')tAW',0xc6,-0x16d,-0xb1,-0x5a),'oOvrt':function(_0x44c3a4,_0x189543){return _0x44c3a4!==_0x189543;},'DImhw':_0x2d1640(0x37c,'Pev7',0x386,0x27f,0x2c9)};function _0x49ec66(_0x1acb98,_0x56fd75,_0x5ccc7a,_0x261fc8,_0x2e982a){return _0x578e(_0x5ccc7a-0x21b,_0x56fd75);}function _0x2d1640(_0x4bd70f,_0x340145,_0x5a2fa9,_0x2f4dca,_0x36a949){return _0x578e(_0x36a949- -0xe,_0x340145);}function _0x2b3a14(_0x2f4cde,_0x5086d4,_0x2438b6,_0x357c24,_0x17e966){return _0x578e(_0x357c24-0x2aa,_0x5086d4);}let _0x45e578=!![];function _0x554761(_0x138df3,_0x41c051,_0x46b65e,_0x164a0f,_0x5b996d){return _0x578e(_0x138df3-0x30d,_0x46b65e);}function _0x26e180(_0x32b2ea,_0x59ae06,_0x38d730,_0x3559ee,_0x476776){return _0x578e(_0x476776- -0xca,_0x32b2ea);}return function(_0xd7ab1e,_0x16f162){function _0x465ddb(_0x29d0fb,_0x4bf82e,_0x302b10,_0x508891,_0x183e3a){return _0x2b3a14(_0x29d0fb-0x151,_0x508891,_0x302b10-0x1a6,_0x302b10- -0x3fb,_0x183e3a-0x1c0);}function _0x1e6755(_0x26c5b9,_0xf4ce57,_0x3f0d72,_0x41fa73,_0x372f7a){return _0x49ec66(_0x26c5b9-0x9e,_0x41fa73,_0x26c5b9- -0x18d,_0x41fa73-0x159,_0x372f7a-0x123);}function _0x3d4cd6(_0x4592ae,_0x483253,_0xe9d36d,_0x53bc5c,_0x51c85b){return _0x554761(_0xe9d36d-0x3,_0x483253-0x1b1,_0x51c85b,_0x53bc5c-0x1f1,_0x51c85b-0x1a4);}function _0x423080(_0x1c74b8,_0x83616d,_0x247ab9,_0xfefe3d,_0x5013f8){return _0x554761(_0x5013f8- -0x2e1,_0x83616d-0x1b3,_0xfefe3d,_0xfefe3d-0x83,_0x5013f8-0x159);}function _0x5de538(_0x42c7d5,_0x2613e8,_0x47db0d,_0xcd1634,_0x47404a){return _0x2b3a14(_0x42c7d5-0x77,_0x47db0d,_0x47db0d-0x127,_0x2613e8- -0x433,_0x47404a-0x96);}if(_0x18d842[_0x5de538(0x9,-0x6f,')tAW',-0x108,-0xa7)](_0x18d842[_0x3d4cd6(0x48b,0x4a3,0x4e6,0x426,'fVkx')],_0x18d842[_0x5de538(-0x107,-0xbd,'4!TV',-0x47,-0x164)]))_0x2f4e1d=_0x18d842[_0x3d4cd6(0x433,0x32a,0x41a,0x470,'&iB5')](_0x1c9761,_0x18d842[_0x3d4cd6(0x3cb,0x4c9,0x45c,0x4e2,'7Z3J')](_0x18d842[_0x3d4cd6(0x572,0x5a6,0x4c8,0x55a,'&iB5')](_0x18d842[_0x3d4cd6(0x592,0x563,0x5be,0x61a,'4P8#')],_0x18d842[_0x5de538(-0xb6,-0x18,'MG!o',-0x14f,0x32)]),');'))();else{const _0x341fe3=_0x45e578?function(){function _0x448220(_0x4f2f4a,_0x450203,_0x26657d,_0x421f4d,_0x2c2bfe){return _0x1e6755(_0x421f4d- -0x3b,_0x450203-0x1ab,_0x26657d-0x152,_0x4f2f4a,_0x2c2bfe-0x158);}function _0x10a556(_0x4d6788,_0x5b0117,_0x4fe792,_0x4a035d,_0x566292){return _0x423080(_0x4d6788-0x153,_0x5b0117-0x174,_0x4fe792-0x14d,_0x4a035d,_0x5b0117-0x244);}const _0x1f550e={'oBObN':function(_0x59693a,_0x4ab9c5){function _0x313e3b(_0x1a14f2,_0x36c806,_0x539e64,_0x583e6a,_0x2a7316){return _0x578e(_0x583e6a- -0x2ea,_0x539e64);}return _0x18d842[_0x313e3b(0x81,-0xcd,'MHIM',-0x91,-0x60)](_0x59693a,_0x4ab9c5);},'DSCIp':_0x18d842[_0x3f065d('MG!o',0x2a6,0x74,0xee,0x17e)],'fJyEP':_0x18d842[_0x466496(0x161,0x20e,0x14d,'jL]p',0x22e)]};function _0x3f065d(_0x5a595b,_0x1df2c3,_0x224c86,_0x36edd2,_0x42de51){return _0x5de538(_0x5a595b-0x150,_0x42de51-0x18d,_0x5a595b,_0x36edd2-0x101,_0x42de51-0x91);}function _0x11dfd4(_0x21f094,_0x4239b1,_0x47d925,_0x298632,_0x5cf110){return _0x1e6755(_0x5cf110-0xb,_0x4239b1-0x17b,_0x47d925-0x4b,_0x21f094,_0x5cf110-0x1d9);}function _0x466496(_0x3163c2,_0x59efa2,_0x551a6a,_0x242cd5,_0x3c6254){return _0x3d4cd6(_0x3163c2-0x125,_0x59efa2-0x1ad,_0x551a6a- -0x25b,_0x242cd5-0xfe,_0x242cd5);}if(_0x18d842[_0x11dfd4('MG!o',0x2a0,0x2db,0x14a,0x27c)](_0x18d842[_0x3f065d('HK09',0x2cc,0x370,0x3ae,0x283)],_0x18d842[_0x466496(0x2fd,0x3e5,0x2cb,'MG!o',0x28a)]))_0x196f6a=_0x48b71b;else{if(_0x16f162){if(_0x18d842[_0x11dfd4('FAT$',0x3e4,0x28d,0x3bd,0x2c2)](_0x18d842[_0x11dfd4('vl23',0x18,0x52,0x16f,0x122)],_0x18d842[_0x11dfd4('B8RV',0x2c6,0x32f,0x263,0x26e)])){const _0x521c2e=_0x16f162[_0x466496(0x160,0x31c,0x28c,'0WgI',0x1c6)](_0xd7ab1e,arguments);return _0x16f162=null,_0x521c2e;}else _0x1f550e[_0x11dfd4('lWNj',0x1e0,0x1e0,0x185,0x1ff)](_0x3e3a8d,_0x1f550e[_0x11dfd4('4!TV',0x22f,0xd3,0x96,0x1c3)])[_0x10a556(0x3bb,0x35e,0x3ba,'KhL4',0x2ba)+_0x466496(0x380,0x386,0x293,'!s0H',0x185)+'s'](_0x1f550e[_0x448220('A!1r',0xc6,0x2c4,0x1f2,0x179)]);}}}:function(){};return _0x45e578=![],_0x341fe3;}};}()),_0xf15fce=_0x46f84e(this,function(){function _0x42b853(_0x302585,_0x1dee1c,_0xf6f06d,_0x551815,_0x2d6440){return _0x578e(_0x551815-0x2ce,_0x1dee1c);}const _0x1bc9a0={};_0x1bc9a0[_0x19f7e0('l)Sk',0x29f,0x3d3,0x2da,0x30d)]=_0x19f7e0('^C36',0x3c1,0x58d,0x513,0x4a3)+_0xe34bb1(0xcb,-0x44,'U[Ao',-0xa7,0x75)+'+$';function _0x1ba339(_0x2f9a55,_0x27fa43,_0x516876,_0x4f3c16,_0x3d5b5e){return _0x578e(_0x4f3c16-0xc1,_0x3d5b5e);}const _0x919cf9=_0x1bc9a0;function _0x4b6199(_0x2590da,_0x53202d,_0x19fe3e,_0x318694,_0x3ed29d){return _0x578e(_0x2590da- -0x3b9,_0x19fe3e);}function _0xe34bb1(_0x55506a,_0x3dfc35,_0x5d2792,_0x76b24e,_0x4c1e6d){return _0x578e(_0x3dfc35- -0x2a5,_0x5d2792);}function _0x19f7e0(_0x18affe,_0x1d0f51,_0x2297ca,_0x1973d4,_0x18977d){return _0x578e(_0x18977d-0x1f1,_0x18affe);}return _0xf15fce[_0x1ba339(0x1d3,0x214,0x266,0x1be,'1GHE')+_0x19f7e0('4P8#',0x4f4,0x3f0,0x3b6,0x479)]()[_0x19f7e0('vl23',0x52c,0x432,0x5ae,0x490)+'h'](_0x919cf9[_0x1ba339(0x150,0x1ca,0x256,0x26d,'ZdPg')])[_0x4b6199(-0x1a5,-0x14d,'IOpl',-0x195,-0x289)+_0x19f7e0('3rnK',0x2ca,0x2c1,0x2e7,0x3d6)]()[_0x1ba339(0x2bb,0x266,0x2a4,0x383,'TV%#')+_0x42b853(0x535,'HK09',0x5ac,0x4f1,0x518)+'r'](_0xf15fce)[_0x42b853(0x371,'Y2]E',0x4d3,0x48b,0x416)+'h'](_0x919cf9[_0x1ba339(0x24b,0x32a,0x114,0x23d,'3OjQ')]);});function _0x498cad(_0x3af646,_0x23ec03,_0x45c23b,_0xbdbb58,_0x20c6e5){return _0x578e(_0x20c6e5- -0x363,_0x23ec03);}function _0x9f7c(){const _0x271031=['WQFdOCooDSoT','nx51vSoS','v8o8W5lcPSo7','W5VdSsb6cW','l8oqW6vpWP1+W5/cHf8','aXKugCoa','DLRdSxSZ','cSkqeCk8BG','C8ksduTg','WPBcGfVdJmoi','u3ldVhus','kaeIgYG','W5ZdMtq','qSkvWO7dTYS','st1ZW7JcRq','WQlcS1hdRq','eSkPuSkSBa','jmkWWR96WOa','jSoxW682zxRcRq','W4hdMab0pW','kCk2rYpcMW','iSouW6mSW6qbWPZcIhhdImo5xa8','wc7dM8orW4G','uh99frG','ebpdGCoQW5i','ux7cUSkN','dXi4dsK','WPxcKuinW68','W5jBW5hcTXm','vxjMoq','WRuOgcVcPW','s8k9WPxcLee','W4LJW5u2WPK','W6BdMdTQgW','WOtcL1yRW5y','CI4xy3S','W6FdUIrefa','v34xu8kR','WOVcRM47W4a','W483W7/cVSk1','WR8gWQJkRCkw','gv52vSoN','Arnfj8kc','cSk7eSk8DW','yf9QoJ4','W4xcLvmp','W5WXF8kOoq','rmkhWO3cHh8','W7JcOmkMW57dMW','WPO6WOmLWPW','WQXMWQO','WRldUSoOxCo2','DCkOWOldQZK','FSoCW7lcGSoO','W6VdGCkV','vmo7W4KVyq','W4/dSXbhdG','tCotWQRcIty','W4mCW6pcH8kc','AmkUcvrM','imkdWQn3WOO','wJ4RwNa','D8kUbw0','w8kOW4FdKa','qSoElSooW5u','eL1rD8oF','WOKbcsVcOG','W4tdP8km','C0ddM3qS','W7JdU8kIpI8','WQyhlZtcGa','oXVcGJn8','tW3dKCopWPq','wtmHFq','uH/dHmouWR0','fmkmW5tdSCoB','A8ovW7lcIW','k8kiWOTFWR4','wduHAMG','W4VcNmkgW5ZdJq','W6hdQSkpW6KO','W6TvWP0GkG','lq0edaS','W5BcOgW5bW','zmk4WOv2WOC','tSongSoMW7W','WO17WPZcPmoc','qXddQa','r8kyfxjL','WPW/WOGMW6y','qSomWRRcLby','WQ7cSweNW4S','Cv/dHwS6','W5vRfSo1pq','r8knW5VdNbO','tu4YA8k6','W7RdGuSOcG','tdPnWPfT','WO1OWRNcOmos','W6CBW6lcGmk3','DCk3nwLM','xcldVmo1W6i','b8o0vmkPDG','uqT3WQL0','W4rmj8oafa','qWhcS8oitW','oWT/W40','WOHhWOdcIG','FSonW7dcGCo2','zL/dUgWN','W4NcOMa2jG','DmkHW53cQgK','osBdO8oBW7O','u8oMWQhcNtm','ftaxWP/dGq','ChK1FCkr','pMbjxSow','tCo2WQRcLdm','WRb6WQZcImo5','nbRdU8oDW7i','WOJdLaSzW7K','DJ0+xfa','WPO+oSkzW70','kZmmcXm','W57dT8kSW5K/','e8kABdBcNW','W7/dKM0gpq','nSkXWOXKWRy','WQLxWRVcISo1','WOane8kDW4a','WQFcJwGNW48','W6BdSe0ypa','v8kecMrE','fr47pq8','pmkcuc3cTG','tdtdO8olWRO','nXzWW4bF','lmkyWOHGWOm','nmkNWR58WRa','i8kNWOTzWQe','renYhJK','oZSrWPJdHG','FGH5iCoy','rJT2W53cMq','buLnWOir','wmk6aKz9','W4ldOCk+W4GO','W5tcMILbya','D0axECky','W6NcHmkgW4VdQa','AJH/WRzf','lCkKWPVdK08','W4NcVNi3la','W7BcVSk7W77dVW','BHJcUSo8sq','WO8GWOybW70','uSoNWOVcGG','hSkiAadcMq','sfXBjq8','xSkpWOdcGLq','WQbuWQRcGmoz','s8kBWRtcO0m','t8ooWOJcHqG','qY7cICosAa','D8k5WOxdLG0','W5tcOgC6fW','amohmmoA','CCoFW7BcNmoK','pmk4W6xdP2S','y15Qlsq','W7FcVZpcHCkr','mtBcTCkBWR0','r8oUW47cHaS','DI/dUSoxWQ0','E8o9W7VcLmoN','E8k4agDF','WQtcV13dVa','DmoAW4FcPSoj','bSkCW6ldOmkz','W6jJWQOwbq','Cd7dJmo7W4y','WOS7WO8JW5S','dK1PBmoG','rmkkWQniWRm','FXv4nW','W6NcTmk6W5m','smo+j8oTW7S','smknWPxcNLe','utlcVConBG','xstdP8ofWR8','W7FdOMWApa','f2qhW44R','lSkEWRlcRCoNW4HSWO/cRa','w8o0W4Gata','W4tdP8kcpq','W7RdNJXriW','W4GgW6xcUSkx','FI3cMSofzq','W4eqW67cQmkk','W5akfCkDW5O','W7JcVCklW6VdOG','zSofWOFcTtm','o8ktzGRcVa','W6FdOJbkga','WPNdOmomEmon','fSkiW4VdR8kk','W5tcTJRcN8kZ','WP/cMeCwW6S','W47dPSkfoGm','jdC+WPldGG','W4ZdR8kTpJy','Dmo6W5VcPmou','WOyCnmktW6S','WR/dLmolwq','rcVcVCoKWQu','vJBdNCohW54','bmktuaZcLq','gdriW65h','EJ7dQCo+WRS','uahdVCoLW6a','q1NdHNud','WQuXgCkWW5G','BCoGjSobW5O','W5ZcUmknW5ZdMq','WOxcM00mW7G','W7ZcGmkGW4RdPW','yev6jG','FCoeYjtdKKO','W5NdRmkEW5KO','W7FcH3iNpq','amk6gW','W5lcMmkSW43dQG','st87Bg4','rMeoDSkA','b8k5W5NdGLS4d8kkW77dMMldRa','eYONWP/dNa','W6hdHmkpoti','u1ZdPgWJ','W4tdUSojyf8','os/dLCo2W5m','BXvOW4/cVa','W4BcTGC','WPifitxcTW','WO9eWOlcLmo0','DSkvd2bo','W7VcUe0ckG','n2fRsCoH','sYTeWPrs','WRn2WPJcNSo9','WQhcQK/dPCoM','fWu3ctG','vbRcMSo5tW','mwXpA8o6','jCk8W5tdGKm','WR0AgSkmW4W','urddU8o5W7W','EdpdRCo+WPe','W6BcP8k+W4VdMW','WQNcU3RdUmo8','DGT0WOrm','W53dPrXjoG','WPivlY7cRG','Ec7cUCoIFG','W4hdKIf2la','WRtcTwddLG','sGaFBwy','qXtdUCo8W6S','rstcIG','g8kXmmkDuG','W693k8oJda','rmktWQ7dMHS','EabIW6ZcMG','WO/dRvZdH8o9','tbFdVCoIW6C','evDqumo0','CNXplWy','W7pdVXDZ','i8kRWQ1GoYRdPsXACtHLfq','WPmiamkfW5y','WQyOca','pXD/W4Pf','WOhcGwa3EXFdItNdNCklamkQiW','E8o+W6JcNCoW','zCkHWQzIWRK','FHRdU8odWRi','zYtcU8o9AG','kSkyWRldLSkOWQHcWOdcM8oYl8kn','DSocW6u','W4mBW6tcMmks','hwXPCCo9','W4JcRXKsna','WOdcH08uW68','qbhdSSo8WRi','hCk4h8kGwG','mxX3vCoN','zuS3D8ky','kspdSmoQW5e','eCksWPvAWRG','ddqJpW4','lSklW7BdLum','W4ddKtTdnW','WQpcSL7dOmoX','WRFcG17dRmoi','W57cSe0V','fXiLhG','WQFcNSk8deK','W5pcOLuXkW','FvtdV0GN','W4tcNLKbkG','wSolWP/cHGS','W7i4W7ZcRCkr','WQ3dNSoxv8o3','x8oKWQBcOI8','AmoGW5BcISoK','DSkBWQRcOxK','W47cQXm','W4BdQa7cQmo7','lJZdS8ohW4C','WRGIWQmJW4i','WOiGomkEW4K','W7ZcICk9lvq','CmkHlwTM','yXqyC0G','yfCUCSkp','rmkFr190','WReUB8kXv1ZdP8oHvhKi','WPNcJaTQ','iGtcUSoOW4O','dJJcImoKEq','qv58jYG','WPasiY7cRG','fqihhbG','yWhcHCo4va','uW4zyvK','mCkLWRXI','mWDvW7PC','wCoVWOK','W6tdHmk6hti','bHjJW4zx','WOtdICoQCCov','tYxcG8oJEa','kmkHlCkKtq','l8koW6BdKui','oSkGW5ldP1C','g8k6xmk7AW','W44hWQldICID','wSogWRBcTsK','hmkvFclcVa','zmoJWQZcNYu','W4BcRa8Gmq','xISRAe4','oIySgG','zmkiWRZcJ3a','W4hdHCkEaW4','ySksWPrUWRy','WQRdP8odsCoF','WPtcTaW9bSkNeh8F','W6nXfSoGpW','nb8qmH4','WRiGWRO6W5i','f2CmqSkK','aqxdUCoG','yqtcS8oktG','bSowW5hdMXK','AXDMWRnP','mX0UBh/cSGZcK3DvW7m','Ca3dJ8oYW5a','FCk0bNbR','WPtcKvCkW74','WR8Oa8kfW50','W4eeW7RcH8kF','W6hdISkabce','WRBcV8k5d3a','WPfgWRRcQmkqWOizW7pcPa','AaNdV8oYWOi','eCkEn8kREW','WRKHcCkBW6S','WOdcM1e6W60','WOarcSkKW40','As/cLCoQFq','mbmPBxxdMX7cQg9UW5FdVq','W4ddOanYiG','WPRdMSokwmor','WRaNWOeoW4y','D1q4C8kI','W5irW77cNSku','W6fPl8oUha','vv/dG3me','ySoSW7OHya','l3SIsSkY','h3JdMCkLodVdRKT+W44cbWa','nSknW6JdTCky','lSkEW5lcTmouW553WPS','W7lcLgOWka','WQJcNxayW48','es0RWP/dNa','WPdcGxijW4K','nCkNWRXCWP8','BaO2otG','lCkvWRxdMmkHWQ91WQ7cQmowj8kR','eCk3W7/dPKK','WOFcNMe7W4O','lqDIW50','WP3cPmoskfO','WOmbidy','EmkNj013','hdvbW5TO','BGT8bCostCkcW68CC8kugeBdKa','CveHuCkz','wtv7o8kh','EepdNwGX','W47dQvCApq','WPZcG08OW4u','BWL1j8kF','ASkVmhzD','u8kiWOhdPW','W5TsWPC3bW','WQevhYZcQG','W5/dRCoTW5KY','CHxdSmoRWQK','W5TYW5BcIG8','jdmsWRVdHa','WRlcTb/dVCo3','zSkKWPjHWR8','hSkEW6FdLuW','W7/cGg8Tna','W51AWOmfdq','A1SMWP8bW7pcPgRdKmkaWRRcRG','W5hcVmkNW6ZdGq','uSoSWQVcGdm','qJFcSSowxa','W5TgWOmyeG','aSkFW7NdV3a','W5bYW4lcQti','F1ZdSNiB','Fmo5mmoyW5W','mue8qmkv','xJ/cJSoKyW','CsFdUmoYW6y','C8oyWRFcVXO','wCouW4GbsG','W6ZdJMa5eq','pGLLnSkc','WRlcV1ldPSoP','WReThXxcIW','WOtdIComumow','W4NdPvZcJ8kJ','WO/dSCkOW5KV','Bd7dMSoWWO8','EdNdU8oSWPS','eNDMYjddTq','BXTiW7/cUW','C0OUWPnQ','WRjGWRNcHmoJ','WOtcPatcMq','WP81iSkgW6S','bdj+WOJdNa','gmkMe8keBq','WPqphY7cSW','tCkrWPFcHKy','BCkFW754WR0','W57cVrdcVCkI','EHldNSobWPG','WQ3cNSk5k0i','W4RcOa3cR8k+','WQXjWO3cGmo2','yuj/nIm','AxCsw8kefCoN','pJBdU8ozW7y','WR7dHSo3A8oC','W5nfW5fDqW','CaZdUSodW7m','ofuTqa','ug8gWOn3','zd9gWRjQ','wCkaWRP+WRe','hNDgx8o+','WOVcN1CGnebT','WO4mWQyDW7W','BL0IwSkt','wSoPomoOW4C','WRGthSkzW4C','ns0YlWO','WQZcV1hdRSoR','W47dT3ukcG','W4TqW4ZcSHK','D8opnmo6W4S','nWRdOCoaW6e','WPaGWOS','WQTSWRNcG8oW','aSk6yrhcVW','WRVcRmk3c3C','W43cV0mcfq','W5FcRmkyW7/dQa','DSodW6ZdJSk7','WOr6WPRcP8oc','nXfLW5Te','WO9TWOlcJ8oe','W5P6pCokhW','p8kPW7RdT8kv','W6j6WRuakq','oSk8W5VdL1q','bmkDW4/dISkD','ws9vgSka','W49DW5hcLXi','EmkRW5RdIue','W4/dTN5AeG','uSocgCojW5K','zZddOmoLWRi','sSokW7aXWO4','aCoujCoEW4y','W5JdGqDeda','ut4hs1a','WOJdPrf7zXDYafmrW6Hy','omk6W4hdMu8','WPyDeSkC','WPSufCotW4W','AJxdImoKW7q','kJddTmogW7O','jt0uWPhdNq','cmkNdW','W6JcVSkcmexdUtm','wJLopmk9','WOxcNeinW60','cSkAkmkNvq','WOpdQCoHxCoA','W7VdJmklW4G+','kWeuiJu','mmkXW60NEG','wapdUCozW6y','eGuMdr4','W6hcJtdcMG','WQRcNSkRlq','x8k4WOtdKYq','WOTEWP7cGSoo','W6/dTd9woa','WQ/cO1y7W6i','W6tcN8kAW7ZdTq','xmkqW5NcGvO','W4P+WPaYaq','W6JcJHZcGCko','umkrWP/dRZC','W4hdV3C4oW','d3yAW5iWW7/dT0lcULGDW4nrWOC','WPSwgCkD','WOBcGLxdNmoC','AfZdPMOC','Ce9ZmdS','WQOqg8k8W50','yGHcW6ZcRa','oSkKtstcOG','rYP8qW','WRJdRmovxCo+','ALyRACkp','WOFcOCouCYW','uJxcQCohBa','F8krW7iYW7O','ArLLjW','vG1GW6RcHa','WPmlaW','WQxcMvpdQmoS','W5D/WReWga','bCkXeSkODW','gmk6W7tdOCk9','WQtcS8kjmxG','WOJcSLafW4O','jSk0WQbKW5e','WQ7cK8k0neq','W75vW6dcVWO','EbldLmoYWP8','l8oYm1HQWR/dJLK','uSkoWOhdSce','zg0PvSko','Dt3dVCo3WQi','dfTpx8oq','WR/dImojsSo1','Cv02C8kn','WQ8hgXdcJG','W5dcP3uhhW','v8kpWPL6WOG','W4tcSCkDW47dMG','W4tdQvDjyW','ACkKWPFcGfS','bKbpq8oh','ycpcNSoK','iJubbXO','hCkXd8k7','W77dTmkBW68c','W4pdPu0ajG','wSkvWOpdGrG','qSkeWO7dSs0','WOetpW','vSoTW4BcRCov','W5NdQwy2','vcPWW6RcHW','W6BdRSkypda','WRumfmkaW7G','W7/cPCk4W5hdLG','W7FdQxSZma','WOyrh8kh','W6uTW6dcUmkR','qu4wxCkR','W6urW4pcV8kP','W4NdNKO9hq','WRyNWOmgW5O','ESkUWQvrWQS','WOFcHfmtW7u','W5ZdMsn1oq','ttpdP8oYWRG','xG7cJSonxG','FSkXWRb1','aCkxW6NdKmkH','WPCTWPG+W5S','WQGcWRKNW4u','n0bruSod','u8o3lCoiW5q','W4CCW7ZcJ8kE','hYPvW5O','WRGrcSkaW4u','WPRdI8o/wCoy','DSotW6aqxW','BbtdVSoxW5e','igDksCoT'];_0x9f7c=function(){return _0x271031;};return _0x9f7c();}_0xf15fce();const _0x5b9960=(function(){const _0xf3bfb4={'urAYU':function(_0x588597,_0x253e69){return _0x588597(_0x253e69);},'QcBoF':function(_0x50a548,_0x3c74b9){return _0x50a548+_0x3c74b9;},'pIjxR':_0x34d2d0('TV%#',0x37b,0x2c5,0x2aa,0x24f)+_0x8cf6f0(0x16c,0x79,0x1ad,0x2c9,'^C36')+_0x34d2d0('gk4R',0x462,0x2b5,0x375,0x34d)+_0x55a09e(0x178,0xc5,'A!1r',0xdc,0x278),'bUhwH':_0x2d50bc('MHIM',0x4ee,0x3ee,0x4e2,0x408)+_0x34d2d0('0WgI',0x379,0x3e9,0x43f,0x506)+_0x8cf6f0(0x285,0x312,0x28f,0x2af,'(s5(')+_0x55a09e(0x114,0x18a,'O&B9',0x57,0x1b5)+_0x34d2d0('Pev7',0x504,0x4e0,0x444,0x4fa)+_0x2d50bc('2GjU',0x55f,0x4ef,0x4a7,0x429)+'\x20)','djZcf':function(_0x9bfbb){return _0x9bfbb();},'RiFbB':function(_0x354a3b,_0x430ac0){return _0x354a3b!==_0x430ac0;},'IimYr':_0xf74760(0x1ae,0x361,0x2a5,0x3c4,'WXqG'),'IblKh':_0x55a09e(0x254,0x1db,'Y2]E',0x318,0x2a9),'lJgwN':_0x34d2d0('&P*U',0x45d,0x565,0x45d,0x512),'hUlba':_0x2d50bc('HK09',0x449,0x446,0x536,0x57d),'zHQhY':function(_0x199cd0,_0x5447ca){return _0x199cd0!==_0x5447ca;},'BmEav':_0x55a09e(0x199,0x228,'7E2q',0x8e,0x1b2)};let _0x5b767d=!![];function _0x34d2d0(_0x3871cf,_0x1bc2c4,_0x2411a8,_0x1f0908,_0x32e654){return _0x578e(_0x1f0908-0x1f6,_0x3871cf);}function _0x8cf6f0(_0x2cab7e,_0x1ea34f,_0x4c2984,_0x318582,_0x2e0233){return _0x578e(_0x4c2984-0xbc,_0x2e0233);}function _0xf74760(_0x1a8366,_0x425b4e,_0x3d518b,_0x4b9896,_0x15f640){return _0x578e(_0x3d518b-0x144,_0x15f640);}function _0x2d50bc(_0x422972,_0x41190b,_0x4d1afb,_0x486f51,_0x472f81){return _0x578e(_0x4d1afb-0x2ef,_0x422972);}function _0x55a09e(_0x30d605,_0x31f0db,_0x1b8a50,_0x38fcb4,_0x310dc5){return _0x578e(_0x30d605- -0x1d,_0x1b8a50);}return function(_0x56007f,_0x4fb62c){function _0x4d7833(_0x2eb296,_0x4ddb0a,_0x36af93,_0x1ef4bc,_0x178938){return _0x8cf6f0(_0x2eb296-0xdf,_0x4ddb0a-0x28,_0x178938- -0x1ca,_0x1ef4bc-0x153,_0x36af93);}function _0x3d99ff(_0x4d2e56,_0x580bf5,_0x5ccb81,_0x2455dd,_0x16938a){return _0x55a09e(_0x5ccb81- -0x398,_0x580bf5-0x8,_0x4d2e56,_0x2455dd-0x182,_0x16938a-0xb4);}function _0x28c9d5(_0x5f54ec,_0x555402,_0x25d843,_0x359dae,_0x5163eb){return _0xf74760(_0x5f54ec-0x6a,_0x555402-0x19a,_0x25d843-0x22f,_0x359dae-0x10f,_0x5163eb);}function _0x3f36f3(_0x4c1d01,_0x541514,_0x4a8d12,_0x2ee403,_0x33dddc){return _0x55a09e(_0x4c1d01-0x265,_0x541514-0x124,_0x33dddc,_0x2ee403-0x46,_0x33dddc-0x4c);}function _0x3f8ae1(_0x592c00,_0x28655e,_0x2a1e3a,_0x551052,_0x117083){return _0x2d50bc(_0x592c00,_0x28655e-0x5c,_0x28655e- -0x2dd,_0x551052-0x1ac,_0x117083-0x131);}const _0x21cb91={'HGRel':function(_0x45cdf1,_0x2975d6){function _0x9697d5(_0x5397ba,_0x364d91,_0x1ffbbe,_0x50164d,_0x165036){return _0x578e(_0x50164d- -0x164,_0x165036);}return _0xf3bfb4[_0x9697d5(0x1b,0x238,0x43,0x14c,'fVkx')](_0x45cdf1,_0x2975d6);},'AuQkN':function(_0x3d717d,_0x43ff1b){function _0x2adbce(_0x54b323,_0x5a2f61,_0x411db5,_0x30b9ef,_0x3c0f25){return _0x578e(_0x30b9ef-0x69,_0x5a2f61);}return _0xf3bfb4[_0x2adbce(0xee,'Pev7',0x204,0xf8,-0x25)](_0x3d717d,_0x43ff1b);},'HPPHj':function(_0x5de49b,_0x34b27c){function _0x5afc4a(_0x16a92b,_0x4bdb3e,_0x520f31,_0x17e664,_0x46b0b1){return _0x578e(_0x17e664- -0x21e,_0x16a92b);}return _0xf3bfb4[_0x5afc4a('7E2q',-0xb6,0x78,0x4e,-0x4b)](_0x5de49b,_0x34b27c);},'ElVPw':_0xf3bfb4[_0x3f8ae1('erqC',0xca,0x45,0x138,0x184)],'bcuTZ':_0xf3bfb4[_0x3f36f3(0x4cb,0x40a,0x3a7,0x458,'7Z3J')],'cqLcC':function(_0x12ecb6){function _0x126206(_0x45a18f,_0x2ed33d,_0x392767,_0x149432,_0x44878e){return _0x3f8ae1(_0x45a18f,_0x149432- -0x1f1,_0x392767-0x10f,_0x149432-0xa3,_0x44878e-0xe);}return _0xf3bfb4[_0x126206('ZdPg',-0xce,-0x14a,-0x37,0x8e)](_0x12ecb6);},'wLTdu':function(_0x35d027,_0x46b796){function _0x42191d(_0x3e67b5,_0x17c5c3,_0x12f148,_0x2b955b,_0x5ee147){return _0x3f8ae1(_0x3e67b5,_0x17c5c3-0x3b1,_0x12f148-0x19c,_0x2b955b-0x167,_0x5ee147-0xd8);}return _0xf3bfb4[_0x42191d('&iB5',0x464,0x52d,0x422,0x3bf)](_0x35d027,_0x46b796);},'kwVkI':_0xf3bfb4[_0x3d99ff('(s5(',-0x251,-0x303,-0x2ac,-0x323)],'zlMrI':_0xf3bfb4[_0x3f8ae1('MG!o',0x2d5,0x271,0x24d,0x3af)],'mZMDL':_0xf3bfb4[_0x3f36f3(0x32c,0x3fe,0x3d2,0x323,'XmN0')],'HvBHh':_0xf3bfb4[_0x3d99ff('NLWn',-0x192,-0x11f,-0x24d,-0x17a)]};if(_0xf3bfb4[_0x28c9d5(0x58e,0x55b,0x4da,0x4ad,'Kxzk')](_0xf3bfb4[_0x4d7833(0x114,0x18e,'7Z3J',0xd3,0x173)],_0xf3bfb4[_0x28c9d5(0x3ab,0x3b0,0x4de,0x466,'XmN0')])){if(_0x4cd4a6){const _0xa357eb=_0x178075[_0x3d99ff('HK09',-0xd,-0xfd,-0x1e8,-0x60)](_0x55302d,arguments);return _0x35fde0=null,_0xa357eb;}}else{const _0x4563a5=_0x5b767d?function(){const _0x1cc9f6={'sqCrO':function(_0x400768,_0x2ca478){function _0x20e699(_0x1ed597,_0x33a968,_0x186705,_0x4d1bc2,_0x5bf7f0){return _0x578e(_0x4d1bc2- -0x111,_0x5bf7f0);}return _0x21cb91[_0x20e699(-0x8d,-0x13,0xf3,-0x36,'vl23')](_0x400768,_0x2ca478);},'EYjSM':function(_0x1e1550,_0x4c839f){function _0x49c29f(_0xe35aea,_0x15f0dd,_0x4f9cf6,_0x4d1122,_0x1b168){return _0x578e(_0x4d1122- -0x1d8,_0xe35aea);}return _0x21cb91[_0x49c29f('4P8#',-0x27e,-0x10e,-0x150,-0x71)](_0x1e1550,_0x4c839f);},'jeDSm':function(_0xcec715,_0x8e492e){function _0x5d2422(_0xc8bcb5,_0x4215a5,_0x3ca6b6,_0x28979a,_0x2e611f){return _0x578e(_0x4215a5- -0x23c,_0x3ca6b6);}return _0x21cb91[_0x5d2422(0x7,-0x98,'0WgI',-0x23,-0x1c6)](_0xcec715,_0x8e492e);},'glpqf':_0x21cb91[_0x55899f(-0xa2,'IOpl',-0xce,-0xfc,0x24)],'afFwA':_0x21cb91[_0x55899f(-0x3,'Y2]E',0x1e,-0x10d,0x78)],'ZTBfN':function(_0x559af8){function _0x24da45(_0x1fdde9,_0x1f2216,_0x16ae5a,_0x13a5d4,_0x413f5f){return _0x55899f(_0x1fdde9-0xa7,_0x413f5f,_0x16ae5a-0x97,_0x13a5d4-0xd2,_0x413f5f-0xc1);}return _0x21cb91[_0x24da45(-0xcf,-0xb5,0x8,0x11f,'gk4R')](_0x559af8);}};function _0x5c14a5(_0x35ff4b,_0x407fae,_0x219b5f,_0x5dc41b,_0x5dc416){return _0x28c9d5(_0x35ff4b-0x19e,_0x407fae-0x183,_0x5dc41b- -0x4b6,_0x5dc41b-0xc9,_0x407fae);}function _0x1d8c15(_0x540c7b,_0x3ffb75,_0x517121,_0x5a62b9,_0x2afbae){return _0x4d7833(_0x540c7b-0x151,_0x3ffb75-0x1a4,_0x3ffb75,_0x5a62b9-0x1f1,_0x540c7b-0x71);}function _0x527267(_0x355872,_0x5abcc0,_0x7c6c59,_0x2babe1,_0x21e62d){return _0x4d7833(_0x355872-0x123,_0x5abcc0-0x165,_0x2babe1,_0x2babe1-0x1b8,_0x5abcc0- -0x131);}function _0x55899f(_0x130d40,_0x551452,_0x209140,_0x3aa0d0,_0x53d774){return _0x3f36f3(_0x209140- -0x3ee,_0x551452-0x40,_0x209140-0x1c9,_0x3aa0d0-0x5b,_0x551452);}function _0x1c9b4f(_0x1ad896,_0x3f532a,_0x4f9d61,_0x514fc5,_0x4436e0){return _0x4d7833(_0x1ad896-0x18d,_0x3f532a-0x105,_0x4436e0,_0x514fc5-0xc2,_0x3f532a-0x53);}if(_0x21cb91[_0x55899f(0x6,'0WgI',0x135,0xce,0x18a)](_0x21cb91[_0x55899f(-0x50,'NLWn',0x60,0x21,0xd8)],_0x21cb91[_0x527267(-0x196,-0xea,-0x17e,'ZdPg',-0xf3)])){if(_0x4fb62c){if(_0x21cb91[_0x5c14a5(0x113,'Pev7',0xb,0xb9,-0x5)](_0x21cb91[_0x55899f(0xe8,'Y2]E',0x22,0x63,0x8d)],_0x21cb91[_0x1d8c15(0xa5,'3OjQ',-0x66,0x90,-0x25)])){const _0x3c0e7f=_0x4fb62c[_0x5c14a5(0x195,'lWNj',0x231,0x12c,0xed)](_0x56007f,arguments);return _0x4fb62c=null,_0x3c0e7f;}else{const _0x5bd830=function(){function _0x3cca01(_0x53dcf5,_0x59845c,_0x1e4bac,_0x22e1be,_0xfff188){return _0x1c9b4f(_0x53dcf5-0xe8,_0x1e4bac- -0x21f,_0x1e4bac-0x156,_0x22e1be-0x69,_0x59845c);}function _0x93b511(_0x4e7424,_0x292888,_0x164622,_0x45c895,_0x229de0){return _0x5c14a5(_0x4e7424-0x19d,_0x229de0,_0x164622-0x10c,_0x45c895-0x3c1,_0x229de0-0x4f);}function _0x493e48(_0x5c295b,_0x183f1f,_0x486469,_0x448110,_0x1807d5){return _0x527267(_0x5c295b-0x1a5,_0x448110-0x40d,_0x486469-0x49,_0x183f1f,_0x1807d5-0x185);}let _0x132eb5;function _0x413433(_0x4dccce,_0x108ebf,_0x22625c,_0x165c36,_0x63f381){return _0x55899f(_0x4dccce-0x183,_0x108ebf,_0x63f381-0x1d3,_0x165c36-0xb3,_0x63f381-0x8c);}try{_0x132eb5=_0x1cc9f6[_0x1c6f51(0x2d2,0x2c6,0x38c,0x454,'!s0H')](_0x21cb65,_0x1cc9f6[_0x493e48(0x23e,'TV%#',0x26a,0x359,0x427)](_0x1cc9f6[_0x413433(-0x43,'hcKs',0xe1,0x1,0xaf)](_0x1cc9f6[_0x413433(0xcd,'[30W',0xef,-0x5,0x10a)],_0x1cc9f6[_0x413433(0x35e,'3rnK',0x38e,0x3c8,0x2a1)]),');'))();}catch(_0x31b93e){_0x132eb5=_0x28cd22;}function _0x1c6f51(_0x2e884c,_0x207bc4,_0x28e590,_0x1ea204,_0x5c2230){return _0x5c14a5(_0x2e884c-0xed,_0x5c2230,_0x28e590-0x1ed,_0x28e590-0x2ae,_0x5c2230-0x6d);}return _0x132eb5;},_0x497904=_0x1cc9f6[_0x55899f(0x112,'l)Sk',0x72,0x1f,0x194)](_0x5bd830);_0x497904[_0x55899f(-0x10f,'lWNj',-0x7d,-0xf4,-0x9f)+_0x55899f(0x35,'9K@*',0x103,0x229,0x43)+'l'](_0x12e6d7,-0x7bc+-0x26a4+0x3e00);}}}else{const _0x304eb7=_0x230582[_0x5c14a5(-0x84,'fVkx',-0xdb,0xd,0xba)](_0x52f8bc,arguments);return _0x13e857=null,_0x304eb7;}}:function(){};return _0x5b767d=![],_0x4563a5;}};}());(function(){function _0x1bf540(_0x544523,_0x87b34d,_0x3eb872,_0x2e755d,_0x5e8ce3){return _0x578e(_0x2e755d- -0x350,_0x544523);}function _0x437ea7(_0x350fab,_0x2802cf,_0x17fdef,_0x2dd601,_0x47a751){return _0x578e(_0x17fdef- -0x17c,_0x47a751);}const _0x49e703={'HQAtf':_0x437ea7(0x21a,0xc1,0x13e,0x13,'hcKs')+_0x437ea7(0x94,0x1,-0x5b,0x28,'0WgI')+_0x437ea7(0x63,-0x115,-0x4c,0xc0,'MHIM')+')','txLec':_0x1bf540('erqC',-0x1a3,-0xf1,-0x1a9,-0x2a3)+_0xb78275('hcKs',0x1d0,0x24f,0x279,0x37c)+_0x3edb41('9K@*',0x4a6,0x2a5,0x3ad,0x4a0)+_0x3edb41('NLWn',0x2d2,0x30e,0x1ef,0x170)+_0x290d65(0x337,0x29b,0x320,0x234,'(s5(')+_0xb78275(')tAW',0x221,0x29d,0x1fc,0x174)+_0x3edb41('3OjQ',0x2ce,0x358,0x2d2,0x1e3),'ZdUsu':function(_0x3678ee,_0x104be3){return _0x3678ee(_0x104be3);},'UrIwX':_0x437ea7(0x131,0xbb,0xe8,0x127,'3rnK'),'EWPrY':function(_0x4908eb,_0x543662){return _0x4908eb+_0x543662;},'EYUja':_0x3edb41('HPy)',0x318,0x244,0x27d,0x27d),'nYkPj':function(_0x12684d,_0x4b4f8f){return _0x12684d+_0x4b4f8f;},'vuQvE':_0x437ea7(-0x12e,-0xb,-0x20,0xa2,'[nuf'),'yjHSe':function(_0x5b95da){return _0x5b95da();},'OKhhX':function(_0x43e195,_0x549a91){return _0x43e195===_0x549a91;},'SwVBX':_0x1bf540('Y2]E',-0x1b9,-0x208,-0x205,-0xf4),'ALhDx':_0xb78275('&iB5',0x3cf,0x4ef,0x3d8,0x3a0),'AVYGv':function(_0x463350,_0x240d39){return _0x463350+_0x240d39;},'bnHtr':function(_0x3f706b,_0x284752){return _0x3f706b!==_0x284752;},'Kvtqu':_0x437ea7(-0x18d,-0xed,-0xdf,-0x1d6,'&P*U'),'sAnaj':_0x290d65(0x45f,0x299,0x339,0x42f,'Pev7'),'GEXoM':function(_0x862c28){return _0x862c28();},'ukLWH':function(_0x547c3b,_0x41274d,_0x45c52b){return _0x547c3b(_0x41274d,_0x45c52b);}};function _0x3edb41(_0x455ee4,_0x44c0b9,_0x352a1c,_0xd02036,_0x646ae1){return _0x578e(_0xd02036-0x178,_0x455ee4);}function _0xb78275(_0x2b5704,_0x1c33cd,_0x56e1b5,_0x34c1e0,_0x414e7){return _0x578e(_0x34c1e0-0x182,_0x2b5704);}function _0x290d65(_0x56b224,_0x2bacba,_0x167ca4,_0x420569,_0x4b24d1){return _0x578e(_0x167ca4-0x15e,_0x4b24d1);}_0x49e703[_0x3edb41('B8RV',0x369,0x1b0,0x280,0x37b)](_0x5b9960,this,function(){function _0xf2a5bb(_0x5eac78,_0x3b88fe,_0x33e7e4,_0x45831e,_0x52de4f){return _0xb78275(_0x45831e,_0x3b88fe-0x187,_0x33e7e4-0x175,_0x52de4f- -0x376,_0x52de4f-0x13a);}function _0x4f4d09(_0x5d5661,_0x3c1957,_0x2b6150,_0x16741e,_0x5a9651){return _0x3edb41(_0x3c1957,_0x3c1957-0x13,_0x2b6150-0xb6,_0x5a9651- -0xf8,_0x5a9651-0x57);}function _0x3f5e39(_0x2a7b5c,_0x2ec442,_0x5cdbe4,_0x55127d,_0x336938){return _0x437ea7(_0x2a7b5c-0x3d,_0x2ec442-0xa5,_0x2ec442-0x89,_0x55127d-0xef,_0x336938);}const _0x7329a1={'yedUh':_0x49e703[_0x3f5e39(-0x59,0x45,0xa1,0xaa,'&iB5')],'ejlzC':_0x49e703[_0x3f5e39(0x16a,0x14c,0x17e,0x24,'7E2q')],'mvTDA':function(_0x4bf6ef,_0x3e8b11){function _0x32075b(_0x581a1b,_0x41b7ee,_0x2ea33b,_0x4a757a,_0x1e6e8f){return _0x3f5e39(_0x581a1b-0x68,_0x41b7ee-0x461,_0x2ea33b-0x125,_0x4a757a-0x185,_0x1e6e8f);}return _0x49e703[_0x32075b(0x400,0x4e5,0x48f,0x4b2,'7Z3J')](_0x4bf6ef,_0x3e8b11);},'QfDeL':_0x49e703[_0x3f5e39(0xf6,0xf4,0xd1,0x1c0,'3rnK')],'hJEtE':function(_0x329e50,_0x52f2be){function _0x2d7f0e(_0x4a53be,_0x243f7d,_0x2f550b,_0x526eb6,_0x2f008e){return _0x3f5e39(_0x4a53be-0x1cc,_0x2f550b-0x47e,_0x2f550b-0x116,_0x526eb6-0x10e,_0x4a53be);}return _0x49e703[_0x2d7f0e('WXqG',0x59c,0x4e3,0x44f,0x5f8)](_0x329e50,_0x52f2be);},'hTVxE':_0x49e703[_0x3cd121(0x337,0x3eb,0x411,0x246,'[nuf')],'OEKsv':function(_0x87d830,_0x48a149){function _0x247609(_0xd616e4,_0x5d37cf,_0x5527e7,_0x39bb25,_0x28360b){return _0x3f5e39(_0xd616e4-0x17f,_0x28360b- -0x49,_0x5527e7-0x19c,_0x39bb25-0xdd,_0x5d37cf);}return _0x49e703[_0x247609(0x5f,'fVkx',-0x5a,-0xe,0xc)](_0x87d830,_0x48a149);},'voRSR':_0x49e703[_0x3cd121(0x16b,0x191,0x123,0xe4,'Y2]E')],'FXYOy':function(_0x546b9f){function _0x2d231c(_0x103ed7,_0x461175,_0x48fe78,_0x1a4dc2,_0x1deedf){return _0x4f4d09(_0x103ed7-0x1a8,_0x461175,_0x48fe78-0x19a,_0x1a4dc2-0x13b,_0x1a4dc2-0x1fc);}return _0x49e703[_0x2d231c(0x50d,'7E2q',0x3b7,0x49b,0x3c7)](_0x546b9f);}};function _0x431c49(_0xb6db44,_0x11c2bb,_0x32df50,_0x5a70f3,_0x14060){return _0x3edb41(_0x14060,_0x11c2bb-0x13b,_0x32df50-0xec,_0x5a70f3-0x133,_0x14060-0x183);}function _0x3cd121(_0x5b3feb,_0x53dba9,_0x48c8bc,_0x234314,_0x1bd5b9){return _0x3edb41(_0x1bd5b9,_0x53dba9-0xb8,_0x48c8bc-0x1dc,_0x5b3feb- -0xcc,_0x1bd5b9-0x157);}if(_0x49e703[_0xf2a5bb(0x56,-0xc7,-0x34,'^C36',-0xa5)](_0x49e703[_0x4f4d09(0x1c4,'D1lX',0x27e,0x2df,0x1fe)],_0x49e703[_0x3f5e39(0x267,0x1cb,0x1be,0x158,'[8VW')])){if(_0x2038d3){const _0x3f85df=_0x55327a[_0xf2a5bb(-0xec,0xbf,-0x11,'!s0H',-0x41)](_0x300e8d,arguments);return _0x12ea34=null,_0x3f85df;}}else{const _0x42e895=new RegExp(_0x49e703[_0x3cd121(0x1d2,0x161,0xb2,0x21b,'lWNj')]),_0x4848f9=new RegExp(_0x49e703[_0x4f4d09(0x265,'[nuf',0x2f8,0x319,0x2b6)],'i'),_0x765f62=_0x49e703[_0x431c49(0x5cb,0x3da,0x3f9,0x4da,'IOpl')](_0x132d9f,_0x49e703[_0x431c49(0x5a9,0x42a,0x4ea,0x4aa,'jL]p')]);if(!_0x42e895[_0x4f4d09(0x1f,'hcKs',0x254,0x114,0x145)](_0x49e703[_0x431c49(0x4e4,0x5dc,0x5c3,0x526,'hcKs')](_0x765f62,_0x49e703[_0x3f5e39(0x21d,0x1c1,0x15e,0x1a8,'MG!o')]))||!_0x4848f9[_0x431c49(0x3b7,0x4a7,0x3b9,0x428,'4P8#')](_0x49e703[_0x431c49(0x49a,0x23e,0x3ff,0x374,'hcKs')](_0x765f62,_0x49e703[_0x4f4d09(0x33,'3OjQ',0x221,-0x39,0xfe)]))){if(_0x49e703[_0x3f5e39(-0x94,-0x4a,0x7a,0x70,'FAT$')](_0x49e703[_0x3cd121(0x259,0x384,0x2c1,0x383,'3OjQ')],_0x49e703[_0xf2a5bb(-0x41,0x10e,0x61,'gk4R',0x31)])){const _0x3c149a=new _0x3b0d97(_0x7329a1[_0x431c49(0x635,0x542,0x4fe,0x57e,'Kxzk')]),_0x1f714f=new _0x73b86(_0x7329a1[_0x3f5e39(0x289,0x1a2,0x2ce,0x2bf,'l)Sk')],'i'),_0x2995d8=_0x7329a1[_0x4f4d09(0x2fe,'@p3J',0xdf,0x1e3,0x1f5)](_0x5cf1e7,_0x7329a1[_0x3cd121(0x24a,0x139,0x2ec,0x143,'B8RV')]);!_0x3c149a[_0xf2a5bb(-0x168,-0x201,-0x10a,'!s0H',-0x173)](_0x7329a1[_0x431c49(0x356,0x424,0x2dd,0x3c8,'7E2q')](_0x2995d8,_0x7329a1[_0x431c49(0x2ed,0x3ad,0x2b6,0x32b,'NtTC')]))||!_0x1f714f[_0x3f5e39(0x103,0x6d,-0x40,0x167,'4!TV')](_0x7329a1[_0x3cd121(0x168,0x6e,0x1ad,0xae,'@p3J')](_0x2995d8,_0x7329a1[_0xf2a5bb(-0x136,0x2f,0x47,'lWNj',-0x5e)]))?_0x7329a1[_0x3cd121(0x1de,0x117,0x25d,0x1fd,'9K@*')](_0x2995d8,'0'):_0x7329a1[_0x4f4d09(0x43,'Pev7',0x116,0x181,0x16a)](_0x3f7886);}else _0x49e703[_0x3cd121(0x30c,0x20a,0x2e7,0x3fc,'gk4R')](_0x765f62,'0');}else _0x49e703[_0x4f4d09(0x22a,'ckr@',0x236,0x223,0xff)](_0x49e703[_0x3f5e39(0xaa,0x68,-0xe,0x69,'B8RV')],_0x49e703[_0x3f5e39(0x144,0x122,0x6a,0x105,'[nuf')])?_0x49e703[_0x4f4d09(0x1f9,'4!TV',0x2f4,0x93,0x1bd)](_0x132d9f):_0x3251f3=_0x5770c5;}})();}());function _0x8e70e9(_0x5e2079,_0x520d43,_0x3dfb5d,_0x225236,_0x282a27){return _0x578e(_0x520d43- -0x375,_0x3dfb5d);}const _0x442b19=(function(){function _0xb576ad(_0x239009,_0x3a6b10,_0x3a24bb,_0x3ddd78,_0x3fa334){return _0x578e(_0x3fa334-0x1,_0x3ddd78);}function _0x4be4ec(_0xc6e609,_0x3632c3,_0x56b6b8,_0x207318,_0x1a1959){return _0x578e(_0x207318-0x3bc,_0x56b6b8);}function _0x20a40e(_0x5729f6,_0x50045a,_0xff0e06,_0x2d6038,_0x321954){return _0x578e(_0x321954-0x15c,_0x50045a);}const _0x34147b={'QimmV':function(_0x3d9717,_0x3f93ec){return _0x3d9717(_0x3f93ec);},'YXvpJ':function(_0x304a37,_0x3f8c73){return _0x304a37+_0x3f8c73;},'nFszF':_0x4be4ec(0x73b,0x74d,'NtTC',0x646,0x5ac)+_0x4be4ec(0x5e5,0x6d0,'Y2]E',0x5d6,0x593)+_0xb576ad(0x7,0xd0,0x242,'vl23',0x136)+_0x20a40e(0x291,'Pev7',0x2d1,0x3bd,0x33d),'Jknph':_0x46ac44(-0x158,'@p3J',-0xab,-0x1ae,-0x184)+_0x20a40e(0x1ca,'hcKs',0x25c,0x329,0x27f)+_0x20a40e(0x344,'4!TV',0x3c2,0x276,0x38c)+_0xb576ad(0xdf,0xe8,0x1,'Kxzk',0x74)+_0x1acc81(-0x89,-0x182,-0x11d,-0xb4,'2GjU')+_0x1acc81(-0x6a,0xa3,0x26,-0x39,'3rnK')+'\x20)','HUDpD':function(_0x2a349d,_0x15c24c){return _0x2a349d(_0x15c24c);},'QwqdE':function(_0x59b724,_0x262193){return _0x59b724+_0x262193;},'tsAux':function(_0x1ccae2,_0x3c3758){return _0x1ccae2!==_0x3c3758;},'dQyzv':_0x20a40e(0x343,'!s0H',0x370,0x3b7,0x388),'FzaDR':_0xb576ad(0x30b,0x21f,0x379,'Pev7',0x26c),'hksCP':_0xb576ad(0x1f2,0x14b,0x92,'HK09',0x188),'Jizij':function(_0x207cf3,_0xd3d4b8){return _0x207cf3===_0xd3d4b8;},'GnJVi':_0x20a40e(0x333,'HPy)',0x511,0x544,0x411),'iqFyI':_0xb576ad(0x3ce,0x1ff,0x1ab,'NtTC',0x2ac)};function _0x46ac44(_0x2e68c2,_0x28d245,_0x8aaff0,_0x152884,_0x3baf1f){return _0x578e(_0x8aaff0- -0x13b,_0x28d245);}let _0x98880a=!![];function _0x1acc81(_0x3dd2ca,_0x3e26e8,_0x3d4ab5,_0x2b34da,_0x4fe0dd){return _0x578e(_0x3d4ab5- -0x26a,_0x4fe0dd);}return function(_0x48cca9,_0x2aa304){function _0xa6deeb(_0x3d924f,_0x996df1,_0x5e4be0,_0xa0d248,_0x5d9895){return _0x20a40e(_0x3d924f-0x11a,_0x3d924f,_0x5e4be0-0x54,_0xa0d248-0x79,_0x996df1- -0x452);}function _0x5cc2ae(_0x150d10,_0x4eaf9e,_0x420959,_0xc040a9,_0x1a85fb){return _0x46ac44(_0x150d10-0xb6,_0x150d10,_0x4eaf9e- -0x164,_0xc040a9-0x150,_0x1a85fb-0x1af);}function _0x20018c(_0x382a62,_0x59b5c0,_0x3e3dc2,_0x15e524,_0x44171a){return _0x4be4ec(_0x382a62-0x1e,_0x59b5c0-0x50,_0x59b5c0,_0x44171a- -0x206,_0x44171a-0x57);}const _0x19e4e3={'naNiI':function(_0x30616a,_0x54436a){function _0x1fbe61(_0x2cdc46,_0x2750f8,_0x4f18e6,_0x26b715,_0x29c83f){return _0x578e(_0x29c83f-0x138,_0x4f18e6);}return _0x34147b[_0x1fbe61(0x1d1,0xcd,'erqC',0x221,0x1d3)](_0x30616a,_0x54436a);},'IMQTE':function(_0x6f2c5d,_0x38d60b){function _0x403ef4(_0x537085,_0x176fd7,_0x108c55,_0x2c03fa,_0x583f94){return _0x578e(_0x176fd7- -0x31f,_0x2c03fa);}return _0x34147b[_0x403ef4(-0x291,-0x26e,-0x342,'B8RV',-0x19c)](_0x6f2c5d,_0x38d60b);},'glEpP':_0x34147b[_0x5cc2ae('Y2]E',-0x137,-0x180,-0x1ac,-0xf1)],'AyKXC':_0x34147b[_0x5cc2ae('HK09',-0x18b,-0x123,-0x124,-0x116)],'qdYcj':function(_0x389166,_0x535e5c){function _0x7ca6ee(_0x58c0fe,_0x355602,_0x332c2e,_0x39e2b9,_0x160396){return _0x5cc2ae(_0x39e2b9,_0x355602- -0x109,_0x332c2e-0xf9,_0x39e2b9-0x69,_0x160396-0xe5);}return _0x34147b[_0x7ca6ee(-0x142,-0x198,-0x14e,'@p3J',-0x26b)](_0x389166,_0x535e5c);},'Ehzyq':_0x34147b[_0xa6deeb('0WgI',-0xa6,-0x19,-0x153,-0x10)],'puiGh':_0x34147b[_0xa6deeb('NLWn',-0xc3,-0x143,-0x88,-0x1eb)],'TRZLA':_0x34147b[_0x5cc2ae('7Z3J',-0x64,-0x75,0xc6,-0x155)]};function _0x1f9aca(_0x1ae6d3,_0x34029d,_0x1d3eb0,_0x48951d,_0x5bb108){return _0x1acc81(_0x1ae6d3-0x12e,_0x34029d-0x110,_0x48951d-0xad,_0x48951d-0x49,_0x1ae6d3);}function _0x2c03a0(_0x36291d,_0x2236ee,_0x2d40b5,_0x3994dc,_0x2cf423){return _0xb576ad(_0x36291d-0x32,_0x2236ee-0x78,_0x2d40b5-0x1e4,_0x3994dc,_0x36291d-0x93);}if(_0x34147b[_0x20018c(0x31f,'HK09',0x22e,0x2c9,0x353)](_0x34147b[_0x5cc2ae('vl23',-0x1dc,-0x2ab,-0x12f,-0xcc)],_0x34147b[_0xa6deeb('@p3J',-0xaf,0x15,-0x1cf,-0x190)])){let _0x3bc4bf;try{_0x3bc4bf=_0x34147b[_0x5cc2ae('ZdPg',-0x21,0xbd,0x6b,0xf3)](_0x39bbbe,_0x34147b[_0x1f9aca('NLWn',0x0,-0xc4,0x3d,0xc5)](_0x34147b[_0xa6deeb('l)Sk',-0x5c,-0x54,-0x134,-0xc6)](_0x34147b[_0x2c03a0(0x239,0x28d,0x103,'9K@*',0x271)],_0x34147b[_0x2c03a0(0x204,0x12c,0xde,'[8VW',0xd5)]),');'))();}catch(_0x175dde){_0x3bc4bf=_0x4abdff;}return _0x3bc4bf;}else{const _0x4f08cb=_0x98880a?function(){function _0x3d5249(_0x3a492e,_0x32fc56,_0x48f9ff,_0x4cd3e3,_0x590440){return _0x2c03a0(_0x32fc56-0x1cb,_0x32fc56-0x191,_0x48f9ff-0x1c7,_0x4cd3e3,_0x590440-0xbb);}function _0x4b41(_0x33979f,_0x522ccb,_0x41196c,_0x33ac19,_0x325b75){return _0x5cc2ae(_0x33979f,_0x41196c-0x638,_0x41196c-0x78,_0x33ac19-0x1f3,_0x325b75-0x18);}function _0x59c98f(_0x213cff,_0xf6cded,_0x110cc0,_0x465451,_0x7a4cff){return _0x1f9aca(_0x110cc0,_0xf6cded-0xa,_0x110cc0-0x103,_0x213cff-0x46e,_0x7a4cff-0x171);}function _0x1001d7(_0x2188ed,_0x9f171,_0x3a791e,_0x1b4824,_0x35a240){return _0x20018c(_0x2188ed-0xf3,_0x9f171,_0x3a791e-0x117,_0x1b4824-0x1b2,_0x3a791e- -0x17);}function _0x499879(_0x3c7f4d,_0x43bd22,_0x2c01ba,_0x423fc4,_0x5c7a9b){return _0x1f9aca(_0x2c01ba,_0x43bd22-0x38,_0x2c01ba-0x1c0,_0x43bd22-0x477,_0x5c7a9b-0x1e8);}if(_0x19e4e3[_0x4b41('O&B9',0x4cd,0x4c7,0x529,0x4b3)](_0x19e4e3[_0x4b41('IOpl',0x5ee,0x60c,0x5f3,0x690)],_0x19e4e3[_0x4b41('[8VW',0x4e9,0x615,0x5d2,0x6cb)])){let _0x379ece;try{_0x379ece=_0x19e4e3[_0x59c98f(0x325,0x3ae,'NLWn',0x2bd,0x3b0)](_0x73b6a4,_0x19e4e3[_0x3d5249(0x338,0x2e3,0x24d,'3rnK',0x1e8)](_0x19e4e3[_0x4b41('A!1r',0x4c1,0x484,0x592,0x4b4)](_0x19e4e3[_0x59c98f(0x391,0x2c0,'Pev7',0x424,0x480)],_0x19e4e3[_0x499879(0x4e0,0x4de,'Y2]E',0x3c3,0x42d)]),');'))();}catch(_0x28018d){_0x379ece=_0x2b6d84;}return _0x379ece;}else{if(_0x2aa304){if(_0x19e4e3[_0x499879(0x621,0x50e,'lWNj',0x460,0x44b)](_0x19e4e3[_0x1001d7(0x2d1,'FAT$',0x2a0,0x2ae,0x36c)],_0x19e4e3[_0x59c98f(0x57c,0x652,'!s0H',0x445,0x57f)])){const _0x1e3930=_0x2aa304[_0x499879(0x4d3,0x403,'l)Sk',0x33b,0x3db)](_0x48cca9,arguments);return _0x2aa304=null,_0x1e3930;}else{const _0x5c1f65=_0x45fb7f[_0x4b41('Y2]E',0x51c,0x52a,0x48e,0x65f)](_0x270562,arguments);return _0x49cdfe=null,_0x5c1f65;}}}}:function(){};return _0x98880a=![],_0x4f08cb;}};}()),_0x5e6851=_0x442b19(this,function(){function _0x56be71(_0x530b38,_0x53b33d,_0x50c756,_0x443dd8,_0x2b268d){return _0x578e(_0x2b268d- -0x6d,_0x530b38);}const _0x21bbea={'FilAt':_0x2c1a26('2GjU',0xc0,0x2,-0x71,0x199)+_0x27ede4(0x585,'ZdPg',0x65a,0x536,0x6a0)+'+$','ZClVu':function(_0x4611fb,_0x351372){return _0x4611fb(_0x351372);},'odTPr':_0x27ede4(0x438,'&iB5',0x326,0x3df,0x561),'ktlBV':_0x27ede4(0x655,'1GHE',0x715,0x5e9,0x6d8),'AuSvk':function(_0x217161,_0xc2cb77){return _0x217161!==_0xc2cb77;},'zDCGC':_0x2c1a26('NLWn',0x1cc,0x1bc,0x1e0,0x113),'QcnTA':_0x2c1a26('Kxzk',0x140,0x21c,0x93,0xb9),'OgWJO':function(_0x4e63e9,_0x59988e){return _0x4e63e9===_0x59988e;},'JzDnn':_0x2c1a26('[30W',0x186,0x2ba,0x1be,0x1e5),'qfgXD':_0x819e5e(0x2eb,0x310,'[8VW',0x33a,0x3f5),'fgDOX':function(_0x3d0a4c,_0x27102e){return _0x3d0a4c+_0x27102e;},'KYyrD':_0x2c1a26('&iB5',0x29f,0x3aa,0x35a,0x18f)+_0x37deca(0x5ae,0x486,0x4b9,0x588,'U[Ao')+_0x27ede4(0x616,'7E2q',0x512,0x4eb,0x695)+_0x819e5e(0x4a3,0x324,'[8VW',0x402,0x45b),'mMRoD':_0x819e5e(0x3a9,0x4ac,'vl23',0x480,0x5b2)+_0x819e5e(0x531,0x48a,'@p3J',0x51b,0x545)+_0x819e5e(0x466,0x4b4,'[8VW',0x44e,0x42b)+_0x56be71('ckr@',-0x40,-0xbf,0x145,0xe)+_0x2c1a26('D1lX',0xf7,0x133,0x199,0x228)+_0x819e5e(0x3c5,0x401,'[30W',0x350,0x293)+'\x20)','UXHVk':function(_0x17220d,_0x5710e1){return _0x17220d===_0x5710e1;},'ZphWh':_0x2c1a26('0WgI',0x275,0x251,0x16d,0x382),'RTTot':_0x819e5e(0x25d,0x31f,'FAT$',0x31d,0x2b4),'gFWNe':function(_0x4998f6,_0x1d0d2f){return _0x4998f6(_0x1d0d2f);},'fhCVM':_0x37deca(0x60f,0x58a,0x663,0x774,'9K@*'),'BQNnj':function(_0x45692b){return _0x45692b();},'LCkMV':_0x819e5e(0x2e9,0x23d,'Pev7',0x2ca,0x288),'XeSTK':_0x27ede4(0x5f7,'7Z3J',0x63d,0x6e2,0x6de),'dXsTT':_0x56be71('NLWn',0x5e,0xb8,0x1ac,0x173),'oFXEJ':_0x37deca(0x738,0x566,0x675,0x641,'MG!o'),'BRWlE':_0x56be71('NLWn',0x2a0,0x20b,0x21c,0x1e4)+_0x37deca(0x44a,0x415,0x537,0x609,'HK09'),'mlYjN':_0x56be71('&P*U',0x187,0x219,0x112,0x19e),'VOFed':_0x56be71('3OjQ',0x2cb,0x18c,0x2a5,0x22f),'xrvvt':function(_0x46b55d,_0x4d466a){return _0x46b55d<_0x4d466a;},'UINab':_0x37deca(0x524,0x57d,0x60c,0x5b3,'[8VW'),'KmQUC':_0x37deca(0x48e,0x4e6,0x5af,0x68a,'gk4R')};function _0x819e5e(_0x1fdae6,_0x27f98a,_0x1b191f,_0x2c67b3,_0xf545fa){return _0x578e(_0x2c67b3-0x247,_0x1b191f);}function _0x2c1a26(_0x26d3e8,_0x677473,_0x686460,_0x135e6,_0x32b545){return _0x578e(_0x677473-0x22,_0x26d3e8);}function _0x37deca(_0x436b7b,_0x2abd37,_0xde1c6,_0x2d22cc,_0x1c0154){return _0x578e(_0xde1c6-0x3ad,_0x1c0154);}const _0x4cdc1e=function(){function _0x2c9b06(_0x59c840,_0x3f5abd,_0x43bbbd,_0x989d0e,_0x22b237){return _0x56be71(_0x3f5abd,_0x3f5abd-0x16d,_0x43bbbd-0x16d,_0x989d0e-0x1a6,_0x989d0e-0x24b);}function _0x3f4442(_0x13b777,_0x39ed4c,_0x270783,_0x5e508a,_0x1cea1f){return _0x37deca(_0x13b777-0x105,_0x39ed4c-0x1db,_0x5e508a- -0x305,_0x5e508a-0x1f0,_0x270783);}function _0x306d38(_0x4f0a71,_0x212ba3,_0x393e38,_0x1f2a4f,_0x208d60){return _0x27ede4(_0x1f2a4f- -0x102,_0x393e38,_0x393e38-0xce,_0x1f2a4f-0x1ed,_0x208d60-0x189);}const _0x3f5b03={'HJzQI':function(_0x3c4611,_0xa57fdb){function _0x3a1ded(_0x53b9f2,_0x52f858,_0x26a9f7,_0x4d9c68,_0xbdfd77){return _0x578e(_0x26a9f7-0x123,_0xbdfd77);}return _0x21bbea[_0x3a1ded(0x149,0x1c8,0x26d,0x262,'9K@*')](_0x3c4611,_0xa57fdb);},'pQmbg':_0x21bbea[_0x2c9b06(0x40f,'ZdPg',0x3d7,0x4b3,0x4bb)],'udjqP':_0x21bbea[_0x2c9b06(0x22f,'fVkx',0x470,0x35e,0x37e)]};function _0x18a178(_0x5c5341,_0x3e6d1c,_0x114e65,_0x63784d,_0x4c1b47){return _0x37deca(_0x5c5341-0x14a,_0x3e6d1c-0x5e,_0x5c5341- -0x5da,_0x63784d-0xe6,_0x63784d);}function _0x1e2aba(_0x43bc77,_0x31325c,_0x19c4a1,_0x8c7f40,_0x1723d8){return _0x27ede4(_0x1723d8- -0x61c,_0x31325c,_0x19c4a1-0x1ef,_0x8c7f40-0x157,_0x1723d8-0x99);}if(_0x21bbea[_0x3f4442(0x199,0x136,'lWNj',0x162,0x122)](_0x21bbea[_0x1e2aba(-0x147,'9K@*',-0xb6,-0x18f,-0xa6)],_0x21bbea[_0x306d38(0x519,0x36d,'[30W',0x48d,0x4f7)])){let _0x1aa0a3;try{if(_0x21bbea[_0x3f4442(0x230,0x226,'1GHE',0x21c,0x2f0)](_0x21bbea[_0x1e2aba(-0x5e,'l)Sk',0x62,-0x16a,-0x3e)],_0x21bbea[_0x18a178(0x9d,0xdf,0x67,')tAW',0x1b9)])){if(_0x316a12){const _0x2a27d3=_0x3d53fb[_0x3f4442(0x11a,0x32b,'MG!o',0x24b,0x1fa)](_0x2dec8b,arguments);return _0x3c0ad9=null,_0x2a27d3;}}else _0x1aa0a3=_0x21bbea[_0x3f4442(0x39d,0x257,'MG!o',0x300,0x20e)](Function,_0x21bbea[_0x1e2aba(-0x82,'NLWn',-0x2e8,-0xcf,-0x1b8)](_0x21bbea[_0x18a178(0x0,-0x4e,0x8f,'!s0H',0xf9)](_0x21bbea[_0x2c9b06(0x2c0,'HK09',0x297,0x289,0x23a)],_0x21bbea[_0x18a178(-0x133,-0x20f,-0x224,'HK09',-0x1fc)]),');'))();}catch(_0x43be8d){_0x21bbea[_0x3f4442(0x265,0x1cc,'U[Ao',0x147,0x1ab)](_0x21bbea[_0x1e2aba(-0xbd,'U[Ao',-0xdc,-0x1b5,-0x173)],_0x21bbea[_0x1e2aba(-0x11c,'gk4R',-0x3,-0x13f,-0x60)])?_0x3f5b03[_0x18a178(0x65,-0xc6,-0x30,'WXqG',-0xa0)](_0x13cdb2,_0x3f5b03[_0x1e2aba(-0x16f,'O&B9',-0x14,0x21,-0xe6)])[_0x2c9b06(0x591,'1GHE',0x34a,0x472,0x55c)+_0x18a178(-0x109,-0x104,-0x216,'l)Sk',-0x37)+'s'](_0x3f5b03[_0x2c9b06(0x447,'U[Ao',0x3b6,0x477,0x37b)]):_0x1aa0a3=window;}return _0x1aa0a3;}else return _0x30a9ce[_0x3f4442(0x175,0x252,'9K@*',0x25d,0x1bf)+_0x1e2aba(0x118,'0WgI',0xd,-0x72,0x41)]()[_0x2c9b06(0x3db,'fVkx',0x428,0x35f,0x3f6)+'h'](_0x21bbea[_0x1e2aba(0x65,'HPy)',0x4d,-0x6f,-0x52)])[_0x3f4442(0x232,0x416,'D1lX',0x32e,0x247)+_0x1e2aba(-0x209,'9K@*',-0x105,-0x112,-0xd2)]()[_0x2c9b06(0x3c5,'2GjU',0x1b1,0x2dc,0x300)+_0x2c9b06(0x491,'(s5(',0x4b2,0x435,0x3cc)+'r'](_0x52e01b)[_0x306d38(0x2ba,0x3d5,'Kxzk',0x39c,0x46e)+'h'](_0x21bbea[_0x18a178(0x6a,0x36,-0xc1,'@p3J',0x41)]);},_0x2f846c=_0x21bbea[_0x27ede4(0x478,'@p3J',0x3c1,0x376,0x37e)](_0x4cdc1e),_0x4ba2c7=_0x2f846c[_0x37deca(0x5e6,0x60e,0x5ab,0x660,'ZdPg')+'le']=_0x2f846c[_0x56be71('fVkx',0x1d1,0x1ad,0x1d9,0x101)+'le']||{};function _0x27ede4(_0x260f94,_0x5ab3ee,_0x10a759,_0x33fc1b,_0x3dab64){return _0x578e(_0x260f94-0x39c,_0x5ab3ee);}const _0x4c30e4=[_0x21bbea[_0x37deca(0x3f7,0x54e,0x453,0x4c8,'3rnK')],_0x21bbea[_0x56be71('2GjU',0x1fe,0x2cf,0x222,0x26f)],_0x21bbea[_0x819e5e(0x44c,0x4cb,'gk4R',0x3d5,0x4e0)],_0x21bbea[_0x56be71('Pev7',0xa3,0x87,0xc7,0x20)],_0x21bbea[_0x27ede4(0x5d8,'ckr@',0x4f7,0x623,0x4c1)],_0x21bbea[_0x819e5e(0x255,0x2c2,'ZdPg',0x32c,0x270)],_0x21bbea[_0x37deca(0x585,0x5cd,0x4ee,0x46a,'D1lX')]];for(let _0xf4c841=-0x24dd*-0x1+-0x1f1f+-0x1*0x5be;_0x21bbea[_0x2c1a26('7Z3J',0x2c5,0x2a9,0x35c,0x2d5)](_0xf4c841,_0x4c30e4[_0x27ede4(0x4c4,'vl23',0x5d4,0x3d4,0x561)+'h']);_0xf4c841++){if(_0x21bbea[_0x819e5e(0x30c,0x42d,'1GHE',0x31b,0x302)](_0x21bbea[_0x2c1a26('7Z3J',0x213,0x184,0xe7,0x1f0)],_0x21bbea[_0x2c1a26('A!1r',0x285,0x329,0x262,0x1d7)])){const _0x7c328=_0x442b19[_0x37deca(0x533,0x3a4,0x47b,0x5ae,'gk4R')+_0x819e5e(0x499,0x384,'FAT$',0x3b3,0x301)+'r'][_0x56be71('IOpl',-0x54,0x52,0x3d,0x51)+_0x27ede4(0x58a,'0WgI',0x5e5,0x679,0x488)][_0x27ede4(0x5a9,'l)Sk',0x624,0x6a6,0x508)](_0x442b19),_0x52e7a6=_0x4c30e4[_0xf4c841],_0x5788f7=_0x4ba2c7[_0x52e7a6]||_0x7c328;_0x7c328[_0x819e5e(0x3e0,0x483,'WXqG',0x4f8,0x498)+_0x2c1a26('KhL4',0x2cc,0x1a0,0x244,0x28e)]=_0x442b19[_0x27ede4(0x5f6,'4!TV',0x678,0x58d,0x58d)](_0x442b19),_0x7c328[_0x2c1a26('4!TV',0x1ee,0x2c5,0x2a5,0x187)+_0x819e5e(0x429,0x40e,'ckr@',0x4f4,0x44b)]=_0x5788f7[_0x27ede4(0x46d,'NLWn',0x369,0x3bb,0x367)+_0x27ede4(0x4b7,'(s5(',0x4a5,0x3c9,0x50d)][_0x27ede4(0x587,'NtTC',0x4d1,0x516,0x5ee)](_0x5788f7),_0x4ba2c7[_0x52e7a6]=_0x7c328;}else _0x21bbea[_0x2c1a26('l)Sk',0x226,0x17b,0x10a,0x144)](_0x3d6d1d,_0x21bbea[_0x37deca(0x576,0x552,0x682,0x755,'ZdPg')])[_0x819e5e(0x451,0x468,'TV%#',0x4af,0x47c)+_0x56be71('1GHE',0x1a1,0x219,0x206,0x115)](_0x21bbea[_0x27ede4(0x606,'7Z3J',0x6ce,0x541,0x615)]);}});(function(){const _0x357910={'tlcoY':function(_0x258368,_0x24c408){return _0x258368(_0x24c408);},'LMdpE':function(_0x24fa4b,_0x35ef05){return _0x24fa4b+_0x35ef05;},'rizMb':_0x5aa5ed(0x291,0x1e2,0x1f0,0x1da,'[8VW')+_0x5aa5ed(0x18e,0x229,0x265,0x370,'4P8#')+_0x4736ff('(s5(',0x16,0x228,0x11c,0xd7)+_0x4736ff('NtTC',0x25,0x197,0x144,0x179),'RMwDY':_0x1cfa2e(-0x76,'[8VW',0xa9,-0x66,0x7e)+_0x4736ff('erqC',0xef,0x18b,0x6c,0xcc)+_0x4736ff('lWNj',0x1a2,0x201,0x172,0x251)+_0x21c9eb(0x37b,0x280,'D1lX',0x153,0x158)+_0xac6789('KhL4',0x2de,0x3b1,0x206,0x2f0)+_0x5aa5ed(0x1ed,0x3d6,0x2aa,0x214,')tAW')+'\x20)','FgcnA':function(_0x112a74){return _0x112a74();},'AHYPX':_0x21c9eb(0x28a,0x287,'^C36',0x386,0x2be),'jytqM':_0x1cfa2e(-0x87,'l)Sk',0x5,-0x1,-0x62),'JvEzB':function(_0x22a50b,_0x17bf18){return _0x22a50b!==_0x17bf18;},'ajBDF':_0xac6789('&iB5',0x3a5,0x370,0x3ba,0x2bc),'pnbAK':_0x21c9eb(0x46b,0x397,'U[Ao',0x291,0x3dd),'lyNQr':_0x5aa5ed(0x1c8,0x1fa,0x1bb,0x8b,'&P*U'),'Eexzq':function(_0x4b08fd,_0x4e8b64){return _0x4b08fd(_0x4e8b64);},'ghvdx':function(_0x3fc3bd,_0x1e5a9c){return _0x3fc3bd+_0x1e5a9c;},'UHTqf':function(_0x41738d,_0x4e3374){return _0x41738d+_0x4e3374;},'rTZxa':_0x1cfa2e(-0x170,'[30W',-0x81,0x8d,-0x130),'AmIaZ':_0x1cfa2e(-0xf,'[nuf',0x32,0xf4,0x13f)},_0x3a3298=function(){function _0x576275(_0x4ef06e,_0x3b28cb,_0x2ea4b2,_0x122fe5,_0x40507d){return _0x1cfa2e(_0x4ef06e-0x10a,_0x122fe5,_0x3b28cb-0xdd,_0x122fe5-0x5,_0x40507d-0xa9);}const _0x2506f4={'JVSdc':function(_0x2a61dc){function _0x193959(_0x1d3764,_0x1f2a14,_0xc30ff2,_0x598952,_0xd610fc){return _0x578e(_0x598952-0x3f,_0xc30ff2);}return _0x357910[_0x193959(0x1d3,0x22d,'l)Sk',0x143,0x233)](_0x2a61dc);},'rZUmU':function(_0x40b235,_0xb5c222){function _0x53f3af(_0x3c209e,_0x11ef74,_0x1ea1ea,_0x448b34,_0x529a18){return _0x578e(_0x11ef74- -0xb3,_0x529a18);}return _0x357910[_0x53f3af(0x2aa,0x214,0x33a,0x117,'4P8#')](_0x40b235,_0xb5c222);},'ItXzg':_0x357910[_0x45512c(0x451,'gk4R',0x345,0x3d2,0x402)],'jsvpd':_0x357910[_0x576275(0x16d,0xdf,0x9b,'2GjU',0x140)]};function _0x5465fd(_0x2720ad,_0x4ad2d9,_0x3a7b3f,_0x2c3098,_0x177e7b){return _0x5aa5ed(_0x2720ad-0xfa,_0x4ad2d9-0x18b,_0x2c3098-0x266,_0x2c3098-0x132,_0x2720ad);}function _0x1dbc44(_0x41cf77,_0x5e539d,_0x3db9b1,_0x4e87e1,_0x441074){return _0x4736ff(_0x4e87e1,_0x5e539d-0x2a,_0x3db9b1-0xe9,_0x41cf77-0x1f7,_0x441074-0x1c9);}function _0x3a8545(_0x4f365b,_0x1d00ed,_0x1d83b4,_0x269786,_0x34a4e6){return _0x5aa5ed(_0x4f365b-0x71,_0x1d00ed-0xa7,_0x1d00ed-0x375,_0x269786-0x19,_0x269786);}function _0x45512c(_0x8659a4,_0x11abd0,_0xb52037,_0x145f68,_0x233a9d){return _0xac6789(_0x11abd0,_0xb52037-0x54,_0xb52037-0x19c,_0x145f68-0x60,_0x233a9d-0x38);}if(_0x357910[_0x576275(-0x124,-0x5f,-0x174,'2GjU',-0x173)](_0x357910[_0x576275(-0x14,-0x2e,-0x107,'Y2]E',-0x95)],_0x357910[_0x1dbc44(0x40d,0x494,0x496,')tAW',0x4cf)]))_0x2506f4[_0x576275(0xb0,0x195,0x171,'@p3J',0x20f)](_0xc9084b);else{let _0x317c55;try{_0x357910[_0x576275(0x153,0x1d4,0x292,'FAT$',0x2a8)](_0x357910[_0x45512c(0x44d,'@p3J',0x378,0x38c,0x313)],_0x357910[_0x576275(0x97,0x5f,0x9c,'gk4R',-0x6)])?_0x317c55=_0x357910[_0x45512c(0x33a,'ckr@',0x307,0x3bd,0x2b8)](Function,_0x357910[_0x576275(0xb5,0xa9,0x157,'TV%#',0x1d8)](_0x357910[_0x45512c(0x533,'1GHE',0x419,0x3a5,0x364)](_0x357910[_0x1dbc44(0x229,0x1c3,0x14a,'HK09',0x230)],_0x357910[_0x5465fd('B8RV',0x617,0x560,0x531,0x483)]),');'))():_0x2eada1=_0x357910[_0x5465fd('[nuf',0x3ce,0x45a,0x376,0x317)](_0x7ad8c2,_0x357910[_0x45512c(0x461,'3rnK',0x4e7,0x5d9,0x561)](_0x357910[_0x1dbc44(0x405,0x32a,0x30a,'7Z3J',0x337)](_0x357910[_0x5465fd('[nuf',0x4c5,0x3d9,0x38e,0x3fc)],_0x357910[_0x1dbc44(0x342,0x33c,0x34d,'9K@*',0x2e7)]),');'))();}catch(_0x3204fc){_0x357910[_0x1dbc44(0x3bc,0x380,0x2b7,'HPy)',0x28e)](_0x357910[_0x5465fd('FAT$',0x5d5,0x46a,0x565,0x5f7)],_0x357910[_0x576275(-0xa7,0x84,0xbc,'MHIM',0x18)])?_0x317c55=window:_0x2506f4[_0x5465fd('MHIM',0x59c,0x406,0x4b9,0x462)](_0x310faf,_0x2506f4[_0x45512c(0x35f,'NtTC',0x41e,0x411,0x47c)])[_0x45512c(0x41b,'NtTC',0x438,0x4c0,0x485)+_0x45512c(0x52c,'^C36',0x4ec,0x436,0x5f9)](_0x2506f4[_0x5465fd('ZdPg',0x2aa,0x262,0x390,0x467)]);}return _0x317c55;}};function _0x4736ff(_0x5b1105,_0x4e2590,_0x4ea371,_0x511c8b,_0x337dd6){return _0x578e(_0x511c8b- -0x7b,_0x5b1105);}function _0xac6789(_0x50d73c,_0x393ad0,_0xfef320,_0x51c88d,_0x4e972b){return _0x578e(_0x393ad0-0x205,_0x50d73c);}const _0x369111=_0x357910[_0x4736ff('1GHE',0x1f8,0xce,0x16d,0x29d)](_0x3a3298);function _0x1cfa2e(_0x4c750f,_0x117fd2,_0xde307b,_0x23bd8d,_0x54fcd9){return _0x578e(_0xde307b- -0x1cf,_0x117fd2);}function _0x21c9eb(_0x1359d7,_0x3f145d,_0x3d691,_0x55addd,_0x412271){return _0x578e(_0x3f145d-0x18e,_0x3d691);}function _0x5aa5ed(_0x3d25a0,_0x45a5ed,_0x10e5e8,_0x39526b,_0x4ae948){return _0x578e(_0x10e5e8-0x5d,_0x4ae948);}_0x369111[_0x5aa5ed(0x22c,0x277,0x188,0x2a5,'XmN0')+_0xac6789('B8RV',0x377,0x39e,0x36b,0x2cf)+'l'](_0x132d9f,-0x1683+-0x1*0x2392+0x49b5);}()),_0x5e6851();const observer=new MutationObserver(function(_0x313662){function _0x57ae7c(_0x82e49a,_0x14e64d,_0x45e3ba,_0x33cf75,_0x4dd44f){return _0x578e(_0x33cf75-0x3d6,_0x4dd44f);}function _0x42521d(_0xb7ce1d,_0x153041,_0x38f3da,_0x577b1e,_0x4aa6fe){return _0x578e(_0x38f3da-0x3b9,_0x4aa6fe);}function _0x3c72f8(_0x155e6b,_0x5e9a0b,_0x539cb8,_0x29cbcf,_0xe17dea){return _0x578e(_0x155e6b-0xda,_0x29cbcf);}const _0x295fdd={'TdTrr':function(_0x5ecdeb,_0x3daeb5){return _0x5ecdeb+_0x3daeb5;},'aarog':_0x4042cc(0x3fb,0x51e,0x485,'HK09',0x44e),'pXHwf':_0x4042cc(0x503,0x56b,0x4ec,'Pev7',0x613),'vimWR':_0x57ae7c(0x529,0x487,0x4db,0x585,'fVkx')+_0x57ae7c(0x47a,0x44a,0x3dc,0x4e4,'MHIM')+'t','XNWjT':function(_0x1a8b8c,_0x1e701d){return _0x1a8b8c(_0x1e701d);},'gUrJu':function(_0x21e77d,_0x15a08f){return _0x21e77d!==_0x15a08f;},'wQNvG':_0x57ae7c(0x54a,0x5d2,0x566,0x5f8,'l)Sk'),'PzGlG':_0x57ae7c(0x3f5,0x3b0,0x4bc,0x4b7,'&P*U'),'uWPro':_0x5906d2(0x25,0x34,'4!TV',-0x6e,0xc9)+_0x42521d(0x3d8,0x49f,0x43e,0x30f,'hcKs')+_0x57ae7c(0x3fe,0x464,0x44b,0x50d,'HK09')+_0x42521d(0x617,0x685,0x668,0x59f,'jL]p')+_0x57ae7c(0x3a2,0x454,0x3b6,0x462,'TV%#')+_0x3c72f8(0x2a4,0x2ad,0x2f7,'(s5(',0x388)+')','phlme':function(_0x29c930,_0x4e453a){return _0x29c930!==_0x4e453a;},'iaEqc':_0x42521d(0x632,0x53e,0x60e,0x6de,'[30W'),'oCuUS':function(_0x4f617e,_0xd158ad){return _0x4f617e(_0xd158ad);},'HDZaN':_0x5906d2(0x180,0x54,'O&B9',0xbc,0x200),'eqdqR':_0x5906d2(0x110,0xa3,'3rnK',0xda,0x47),'vnjVI':_0x5906d2(0x1b8,0xcf,'O&B9',0x230,0x13e),'RUcJU':function(_0x118ce0,_0x301f3a){return _0x118ce0(_0x301f3a);},'zgpIt':_0x3c72f8(0x206,0x172,0x161,'vl23',0x24c)+_0x57ae7c(0x5d6,0x6ab,0x6a3,0x5ef,')tAW')+_0x42521d(0x467,0x5e4,0x54d,0x41c,'&P*U')+_0x5906d2(0x33,-0x48,'IOpl',-0x8e,-0x40)+_0x5906d2(0x162,0xe2,'hcKs',0x103,0xf5)+_0x3c72f8(0x1cf,0x2d3,0x16c,'IOpl',0x1a9)+_0x42521d(0x5db,0x6ec,0x63e,0x5d7,'Pev7'),'FXjUC':_0x42521d(0x570,0x38f,0x476,0x352,'Y2]E'),'tiOsx':function(_0x3d632d,_0x48c5e1){return _0x3d632d(_0x48c5e1);},'qrpgC':_0x5906d2(0xd4,0x14,'hcKs',0x4f,0x206),'zNfuk':function(_0x13ebea,_0x5d1ec6){return _0x13ebea!==_0x5d1ec6;},'meyFh':_0x42521d(0x5c9,0x395,0x4ca,0x5fd,'(s5(')};function _0x5906d2(_0x3736e2,_0x21ab5f,_0x4a87c6,_0x4761c3,_0x59287c){return _0x578e(_0x3736e2- -0xc8,_0x4a87c6);}function _0x4042cc(_0x339ad0,_0x369943,_0x196c40,_0x5eb56a,_0x303cc4){return _0x578e(_0x339ad0-0x2c5,_0x5eb56a);}_0x313662[_0x57ae7c(0x4dd,0x4ce,0x3c0,0x482,'Y2]E')+'ch'](_0x431615=>{function _0x1997da(_0x35f55a,_0x57db47,_0x120710,_0x2ec857,_0xa354d1){return _0x42521d(_0x35f55a-0x1c4,_0x57db47-0x1,_0x2ec857- -0x3a8,_0x2ec857-0xa7,_0x57db47);}function _0x34ea54(_0x36500a,_0x52e40a,_0x2d526c,_0x9ce530,_0x362bc3){return _0x3c72f8(_0x362bc3- -0x2cd,_0x52e40a-0x6f,_0x2d526c-0xb5,_0x9ce530,_0x362bc3-0x4e);}const _0xf4bf7e={'XLFtB':function(_0x46b24a,_0x4d151b){function _0x27a76b(_0x2ae1ab,_0x524ec5,_0x5cd50c,_0x4dd4bd,_0x54a0ba){return _0x578e(_0x5cd50c-0x26b,_0x4dd4bd);}return _0x295fdd[_0x27a76b(0x366,0x370,0x2e0,'NtTC',0x250)](_0x46b24a,_0x4d151b);}};function _0x40f54e(_0x5a0e1b,_0x235d7,_0x55914a,_0x423e46,_0x384469){return _0x3c72f8(_0x423e46-0xa3,_0x235d7-0x17,_0x55914a-0xd,_0x235d7,_0x384469-0xe3);}function _0x27680d(_0x2dd721,_0x4698b8,_0x3e1dae,_0x2c4e5c,_0x498aa3){return _0x42521d(_0x2dd721-0x17a,_0x4698b8-0x4d,_0x2c4e5c- -0x2c5,_0x2c4e5c-0x114,_0x3e1dae);}function _0x2902a5(_0x43539e,_0x1a09a8,_0x26f2f5,_0x47a0e6,_0x1119d7){return _0x5906d2(_0x1119d7-0x44,_0x1a09a8-0x1e6,_0x47a0e6,_0x47a0e6-0x1a2,_0x1119d7-0x80);}if(_0x295fdd[_0x2902a5(0x1c,0x222,0x8,'[nuf',0xeb)](_0x295fdd[_0x34ea54(-0x35,-0x84,-0x54,'7Z3J',0x44)],_0x295fdd[_0x34ea54(-0x54,0x68,-0xd4,'^C36',0x59)])){if(_0x295fdd[_0x34ea54(-0x1b1,-0x3c,-0x184,'l)Sk',-0xfb)]($,_0x295fdd[_0x1997da(0xdf,'9K@*',0x75,0xc1,0x38)])[_0x2902a5(0xb7,0x16d,-0x78,'KhL4',0x92)+'h'])_0x295fdd[_0x40f54e(0x3a1,'Kxzk',0x29b,0x2e7,0x41d)](_0x295fdd[_0x27680d(0x309,0x232,'1GHE',0x2d8,0x34d)],_0x295fdd[_0x27680d(0x45f,0x2ce,'KhL4',0x398,0x3ee)])?function(){return![];}[_0x27680d(0x260,0x34d,'NtTC',0x2e4,0x1c5)+_0x40f54e(0x3cd,'IOpl',0x51f,0x40a,0x4ff)+'r'](UCwPgn[_0x34ea54(0xb2,0x1d0,0xf4,'ckr@',0xb5)](UCwPgn[_0x27680d(0x2e5,0x1cd,'0WgI',0x302,0x22a)],UCwPgn[_0x34ea54(-0x13b,-0xab,-0xcd,'HK09',-0x181)]))[_0x40f54e(0x4ba,'&iB5',0x446,0x429,0x474)](UCwPgn[_0x40f54e(0x419,'3OjQ',0x29b,0x3a4,0x32e)]):_0x295fdd[_0x34ea54(0xa,-0x137,-0x142,'TV%#',-0x2a)]($,_0x295fdd[_0x27680d(0x231,0x182,'WXqG',0x1ea,0x2ac)])[_0x1997da(0x29f,'WXqG',0x351,0x242,0x147)+_0x1997da(0x126,'4P8#',0xc0,0x14c,0x186)](_0x295fdd[_0x40f54e(0x36c,'(s5(',0x43b,0x378,0x416)]);else{if(_0x295fdd[_0x34ea54(-0xb7,0x67,-0x32,'l)Sk',0x5)](_0x295fdd[_0x27680d(0x2ec,0x1b3,'NLWn',0x2d1,0x217)],_0x295fdd[_0x34ea54(-0xbb,0x170,-0x3b,'(s5(',0x4a)])){const _0x9e5da5=_0x132566[_0x2902a5(0x23,-0x7e,0xe5,'2GjU',0x7a)+_0x2902a5(0x1f2,0x1c6,0x346,'1GHE',0x223)+'r'][_0x27680d(0x4e,0x138,'1GHE',0x171,0x1f3)+_0x40f54e(0x49d,'B8RV',0x509,0x3f4,0x490)][_0x2902a5(-0xe2,0x3f,0x5c,'fVkx',0x4e)](_0x5d01ef),_0x2e5055=_0x2ed9cb[_0x474757],_0x302d49=_0x309fa6[_0x2e5055]||_0x9e5da5;_0x9e5da5[_0x2902a5(0x4e,-0x60,0x57,'O&B9',0x62)+_0x40f54e(0x347,'gk4R',0x2ba,0x301,0x3de)]=_0x419924[_0x27680d(0x269,0x1ab,'KhL4',0x2a5,0x2e2)](_0x1652ca),_0x9e5da5[_0x2902a5(0x254,0x133,0x1bc,'@p3J',0x1b6)+_0x27680d(0xf9,0x260,'(s5(',0x20f,0x1ee)]=_0x302d49[_0x1997da(0x334,'ZdPg',0x2b1,0x220,0x224)+_0x2902a5(0x1e8,0x292,0x30e,'^C36',0x259)][_0x1997da(0x28a,'hcKs',0x15d,0x21d,0x2de)](_0x302d49),_0x1e6452[_0x2e5055]=_0x9e5da5;}else _0x295fdd[_0x2902a5(0x129,0x261,0x198,'HPy)',0x135)]($,_0x295fdd[_0x27680d(0x236,0x336,'3OjQ',0x311,0x3ac)])[_0x40f54e(0x22d,'[nuf',0x3cc,0x2f0,0x24e)+_0x2902a5(0x1b7,0x12f,-0x55,'KhL4',0xdf)+'s'](_0x295fdd[_0x34ea54(-0x1df,-0x28a,-0x139,'NtTC',-0x162)]);}if(_0x295fdd[_0x34ea54(0x9b,0x12,-0xb6,'9K@*',0x7a)]($,_0x295fdd[_0x34ea54(-0x8c,-0x5a,-0x1d5,'&iB5',-0xaf)])[_0x27680d(0x37b,0x1f1,'4P8#',0x259,0x180)+'h']){if(_0x295fdd[_0x27680d(0x255,0x29f,'l)Sk',0x2ec,0x34e)](_0x295fdd[_0x27680d(0x301,0x2b6,'fVkx',0x33a,0x21a)],_0x295fdd[_0x1997da(0x299,'KhL4',0x1d0,0x165,0xc0)]))return![];else _0x295fdd[_0x2902a5(-0x15,0xbd,0x1a4,'MG!o',0x11d)]($,_0x295fdd[_0x34ea54(0x4e,-0x131,-0x175,'B8RV',-0xb3)])[_0x27680d(0x205,0x247,'[30W',0x1c7,0x146)+_0x1997da(0x55,'HK09',0x6d,0x173,0x7e)](_0x295fdd[_0x27680d(0x19c,0x10c,'3OjQ',0x239,0x25a)]);}else _0x295fdd[_0x34ea54(0x1a,0x17b,-0x81,'Pev7',0x51)](_0x295fdd[_0x34ea54(-0x1b0,-0xcb,0x4c,'[nuf',-0xe1)],_0x295fdd[_0x2902a5(0xe6,0x18f,-0x81,'^C36',0x7f)])?PMNgcZ[_0x1997da(0x4c,'[30W',0x12c,0x138,0x1e2)](_0x2a76d1,'0'):_0x295fdd[_0x34ea54(0xf3,0x33,0x108,'3OjQ',0xd9)]($,_0x295fdd[_0x1997da(0x3d7,'U[Ao',0x19e,0x2b6,0x231)])[_0x1997da(0x273,'HPy)',0x10e,0x167,0xe7)+_0x34ea54(-0x102,-0x105,0x5c,'2GjU',-0x32)+'s'](_0x295fdd[_0x34ea54(-0x12e,-0x1b8,-0x99,'3OjQ',-0xae)]);}else{const _0x396468=_0x357b6f?function(){function _0x247072(_0x47a102,_0x33cd49,_0xff5f59,_0x3364e8,_0x16842c){return _0x34ea54(_0x47a102-0x178,_0x33cd49-0x1da,_0xff5f59-0xaf,_0x3364e8,_0x47a102-0x579);}if(_0x14469f){const _0x345a41=_0x362fc3[_0x247072(0x621,0x6f6,0x645,'KhL4',0x555)](_0x571460,arguments);return _0x5cba8a=null,_0x345a41;}}:function(){};return _0x3b571e=![],_0x396468;}});}),target=document[_0x3ce30b(0x41a,0x3ba,'HPy)',0x3af,0x538)],_0x188f1a={};_0x188f1a[_0x2294c0('TV%#',0x1b8,0x1be,0x136,0x29)+_0x2294c0('ckr@',0x98,-0x49,0xd5,0x12d)]=!![],_0x188f1a[_0x2ecbac(0x1bf,0x174,0xb3,'HPy)',0xd6)+_0x2ecbac(0x130,0x165,0x15f,'HPy)',0x59)]=![];function _0x2294c0(_0x196b57,_0x22f425,_0x31ee89,_0x1a6930,_0x36c9e7){return _0x578e(_0x1a6930- -0xa6,_0x196b57);}_0x188f1a[_0x2ecbac(0x42,0x9b,-0x34,'Y2]E',-0x37)+_0x498cad(-0x200,'NLWn',-0x33d,-0x1a6,-0x2c1)+_0x498cad(-0x51,'&iB5',-0x27f,-0x278,-0x16a)]=![],_0x188f1a[_0x498cad(-0x126,'WXqG',-0x2a2,-0x1e4,-0x1de)+'ee']=!![],observer[_0x8e70e9(-0x3d,-0x141,'D1lX',-0xe1,-0x5b)+'ve'](target,_0x188f1a);function _0x3ce30b(_0x440c82,_0x7e83bf,_0x53c420,_0x507d27,_0x1b3bb0){return _0x578e(_0x440c82-0x196,_0x53c420);}function _0x2ecbac(_0x154d8d,_0x4701c0,_0x27a3c4,_0x291082,_0x128c53){return _0x578e(_0x128c53- -0x175,_0x291082);}function _0x578e(_0x13cdb2,_0xd2365d){const _0x3d6d1d=_0x9f7c();return _0x578e=function(_0x2ee5fc,_0x3e3a8d){_0x2ee5fc=_0x2ee5fc-(0x1c5e+-0x8a*0x1+-0x1*0x1b64);let _0x2e6f6d=_0x3d6d1d[_0x2ee5fc];if(_0x578e['BHmlOO']===undefined){var _0x56aab1=function(_0x6c8b1a){const _0x3e3733='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x422799='',_0x30dcbc='',_0x2f9404=_0x422799+_0x56aab1;for(let _0x3c2665=-0x175c+-0x3*-0xbfe+-0xc9e,_0x19cdaa,_0x420620,_0x4822b7=0x1313+-0x1ee8+0xe9*0xd;_0x420620=_0x6c8b1a['charAt'](_0x4822b7++);~_0x420620&&(_0x19cdaa=_0x3c2665%(0xc5*-0x2b+0x9f7*0x1+0x1724)?_0x19cdaa*(-0x2ab*-0x3+0x21e*0xd+0x1*-0x2347)+_0x420620:_0x420620,_0x3c2665++%(-0x1676+-0x19bc+0x462*0xb))?_0x422799+=_0x2f9404['charCodeAt'](_0x4822b7+(-0xc9*-0x2f+0x11e1*-0x2+0x1*-0x11b))-(-0x1533+-0x1*0x15b9+-0x12*-0x263)!==-0x22d*0x1+-0x1*-0x234d+0xa0*-0x35?String['fromCharCode'](-0x495*0x8+0xcc+0x24db&_0x19cdaa>>(-(-0x138*-0x1f+0xd26+-0x32ec)*_0x3c2665&-0xc23*0x1+0x61*-0x5+0xe0e)):_0x3c2665:-0x9de+0x162c+-0x32*0x3f){_0x420620=_0x3e3733['indexOf'](_0x420620);}for(let _0x4522a4=0xece+0x1*-0x13ff+0x531,_0x407b2e=_0x422799['length'];_0x4522a4<_0x407b2e;_0x4522a4++){_0x30dcbc+='%'+('00'+_0x422799['charCodeAt'](_0x4522a4)['toString'](0x1*0x14ea+0x13*-0x10b+-0x5*0x35))['slice'](-(-0xa61+0x1ce9+-0x1286));}return decodeURIComponent(_0x30dcbc);};const _0x49f011=function(_0x27e21b,_0x2ceabe){let _0x65a0cb=[],_0x26160f=0x246+0x1d2c+-0x1f72,_0x4f5c57,_0x19ce3f='';_0x27e21b=_0x56aab1(_0x27e21b);let _0x310b91;for(_0x310b91=-0x382+-0x1*0x2352+0x26d4;_0x310b91<0xd6*-0x4+0x5bf+-0x1*0x167;_0x310b91++){_0x65a0cb[_0x310b91]=_0x310b91;}for(_0x310b91=0x5*-0x5af+0x2274+0x135*-0x5;_0x310b91<0x2*0x677+-0xf65+0x377;_0x310b91++){_0x26160f=(_0x26160f+_0x65a0cb[_0x310b91]+_0x2ceabe['charCodeAt'](_0x310b91%_0x2ceabe['length']))%(0x1*-0x1d8f+-0x1cc7+0x7*0x87a),_0x4f5c57=_0x65a0cb[_0x310b91],_0x65a0cb[_0x310b91]=_0x65a0cb[_0x26160f],_0x65a0cb[_0x26160f]=_0x4f5c57;}_0x310b91=0xf18+0x13ac*0x1+-0x1bd*0x14,_0x26160f=-0x9f+0x16*-0xe6+0x11*0x133;for(let _0x4d5913=0x10b9+0x15fb+-0x9ad*0x4;_0x4d5913<_0x27e21b['length'];_0x4d5913++){_0x310b91=(_0x310b91+(-0x656*0x2+0x1*-0x12e6+0x1f93))%(0x3a4*-0x2+-0x1*0x506+0x1a*0x83),_0x26160f=(_0x26160f+_0x65a0cb[_0x310b91])%(0x801+-0x586*0x5+-0x1*-0x149d),_0x4f5c57=_0x65a0cb[_0x310b91],_0x65a0cb[_0x310b91]=_0x65a0cb[_0x26160f],_0x65a0cb[_0x26160f]=_0x4f5c57,_0x19ce3f+=String['fromCharCode'](_0x27e21b['charCodeAt'](_0x4d5913)^_0x65a0cb[(_0x65a0cb[_0x310b91]+_0x65a0cb[_0x26160f])%(-0x282*-0x1+0xdec+-0xf6e)]);}return _0x19ce3f;};_0x578e['DiCGkc']=_0x49f011,_0x13cdb2=arguments,_0x578e['BHmlOO']=!![];}const _0x327a30=_0x3d6d1d[0x4ad+-0x2141*0x1+-0x3b*-0x7c],_0x4b146b=_0x2ee5fc+_0x327a30,_0xb7facb=_0x13cdb2[_0x4b146b];if(!_0xb7facb){if(_0x578e['kXHCho']===undefined){const _0x1eabe7=function(_0x53c53c){this['PtsQPf']=_0x53c53c,this['zGHkPf']=[0x1401+0xb*-0x97+-0xd83,0x1*0x2522+-0x10*0xb+-0x2472,-0xf*0x1e1+0x52a*0x1+0x47*0x53],this['XnYsYv']=function(){return'newState';},this['KaGOwH']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['CFWaLT']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x1eabe7['prototype']['dUOtAD']=function(){const _0xefb679=new RegExp(this['KaGOwH']+this['CFWaLT']),_0x248b35=_0xefb679['test'](this['XnYsYv']['toString']())?--this['zGHkPf'][-0x2*0xbcb+0x6e+0x1729]:--this['zGHkPf'][-0x1*-0x1f97+0xc5e*0x2+-0x1*0x3853];return this['qgZgci'](_0x248b35);},_0x1eabe7['prototype']['qgZgci']=function(_0x4b5327){if(!Boolean(~_0x4b5327))return _0x4b5327;return this['oDKQrn'](this['PtsQPf']);},_0x1eabe7['prototype']['oDKQrn']=function(_0x2a8c7d){for(let _0x4c37d4=-0x12d*-0x7+-0x1*-0x2f+-0x1*0x86a,_0x53c793=this['zGHkPf']['length'];_0x4c37d4<_0x53c793;_0x4c37d4++){this['zGHkPf']['push'](Math['round'](Math['random']())),_0x53c793=this['zGHkPf']['length'];}return _0x2a8c7d(this['zGHkPf'][0x1*-0x20c8+0x1275*0x2+0x2e*-0x17]);},new _0x1eabe7(_0x578e)['dUOtAD'](),_0x578e['kXHCho']=!![];}_0x2e6f6d=_0x578e['DiCGkc'](_0x2e6f6d,_0x3e3a8d),_0x13cdb2[_0x4b146b]=_0x2e6f6d;}else _0x2e6f6d=_0xb7facb;return _0x2e6f6d;},_0x578e(_0x13cdb2,_0xd2365d);}function _0x132d9f(_0x35e30d){function _0xc205b(_0xcd45b5,_0xafbd44,_0x22c6ca,_0x1af3e5,_0x316e2d){return _0x2294c0(_0xafbd44,_0xafbd44-0x1cd,_0x22c6ca-0x1b5,_0x22c6ca-0x482,_0x316e2d-0x74);}function _0x354846(_0x1b3eae,_0xcb3d06,_0x58901c,_0x5be027,_0x14c7f8){return _0x498cad(_0x1b3eae-0xd9,_0xcb3d06,_0x58901c-0x44,_0x5be027-0xe6,_0x5be027-0x5ec);}const _0x1c4f66={'MPslr':function(_0x2605c8,_0x4184e2){return _0x2605c8===_0x4184e2;},'EeITO':_0x550b84('&iB5',0x243,0x3e0,0x371,0x28a),'cDmsm':_0x5a95c5(0x232,0x160,'D1lX',0x2ff,0x2ae),'ZoBZy':function(_0x39a3a4,_0x213137,_0x1bfbda){return _0x39a3a4(_0x213137,_0x1bfbda);},'TFLOP':_0x5a95c5(0x158,0x165,'XmN0',0x4a,0x81)+_0xc205b(0x471,'A!1r',0x51f,0x475,0x4d8)+_0x5a95c5(0x304,0x214,'gk4R',0x2ff,0x2b4),'yOxBt':_0x550b84('[nuf',0x276,0x432,0x2fe,0x3ac)+'er','xRCec':_0xc205b(0x4b9,'7Z3J',0x5ae,0x63f,0x550)+_0x550b84('gk4R',0x51e,0x3e8,0x400,0x388)+_0x550b84('jL]p',0x4fb,0x486,0x458,0x37f)+')','xJKdx':_0xc205b(0x4f5,'hcKs',0x60e,0x4ff,0x5fa)+_0x5a95c5(0x19d,0xcc,'3rnK',0x1bf,0x1e4)+_0xc205b(0x636,'^C36',0x6ba,0x640,0x625)+_0x550b84('2GjU',0x43a,0x4d1,0x499,0x4c5)+_0x49cfb5(0x179,0x1eb,0x10f,0x14d,'3rnK')+_0x354846(0x2e7,'9K@*',0x464,0x3b6,0x2b9)+_0x49cfb5(0x12c,0xcd,0xc4,0x84,'@p3J'),'fslkc':function(_0x4b446b,_0x1b5e17){return _0x4b446b(_0x1b5e17);},'xPwiC':_0x49cfb5(0x206,0x184,0x1e1,0x17c,'HK09'),'GohkQ':function(_0x334b0f,_0x25e86){return _0x334b0f+_0x25e86;},'ffOmP':_0x354846(0x5b1,'KhL4',0x63e,0x558,0x551),'NzRfV':function(_0x168811,_0x3e4214){return _0x168811+_0x3e4214;},'QMSOJ':_0x550b84('9K@*',0x455,0x503,0x41a,0x391),'sCvyk':function(_0x14f739){return _0x14f739();},'gJsTs':function(_0x246d9d,_0x34bb6d){return _0x246d9d+_0x34bb6d;},'lLuJy':_0x354846(0x44d,'KhL4',0x504,0x4db,0x5c5),'OioQn':_0x49cfb5(0x1be,0x27f,0x19d,0x165,'erqC'),'cNThV':_0x550b84(')tAW',0x494,0x515,0x49a,0x365)+'n','VrtHL':function(_0x5780eb,_0x4df051){return _0x5780eb!==_0x4df051;},'BvMAP':_0xc205b(0x529,'[8VW',0x62b,0x738,0x6db),'VZdEW':function(_0x4fb9da,_0x38e618){return _0x4fb9da!==_0x38e618;},'KnVmf':_0x49cfb5(0x2d9,0x235,0x254,0x279,'NLWn'),'iXGvz':_0xc205b(0x70b,'&iB5',0x67d,0x740,0x7ac)+'g','pFBzm':function(_0x4f05db,_0x32e127){return _0x4f05db!==_0x32e127;},'hroQq':_0x5a95c5(0x16f,0x106,'[8VW',0x188,0x21a),'pgsJf':_0x49cfb5(0x2a2,0x3b0,0x3d8,0x281,'!s0H'),'ssNve':function(_0x4e520e,_0x44c92b){return _0x4e520e!==_0x44c92b;},'HEBXG':_0x5a95c5(0x235,0x2d5,'@p3J',0x1c9,0x2cf),'ufhCz':_0x5a95c5(0x285,0x187,'&P*U',0x35a,0x1f0),'aJxuK':function(_0x55d9d9,_0x17fb40){return _0x55d9d9/_0x17fb40;},'Ctbxe':_0x550b84('3OjQ',0x365,0x3a3,0x444,0x436)+'h','TwQSG':function(_0x4b0cca,_0x132ff8){return _0x4b0cca===_0x132ff8;},'jaPWK':function(_0x4ce198,_0x5ca384){return _0x4ce198%_0x5ca384;},'zwlWI':function(_0x4e7cb7,_0x424ba2){return _0x4e7cb7!==_0x424ba2;},'HVVXG':_0x550b84('TV%#',0x5f5,0x5db,0x560,0x64b),'tpDud':_0x49cfb5(0x22c,0x1dc,0x34c,0x339,'2GjU'),'WhFXC':function(_0x1908dc,_0x55c153){return _0x1908dc+_0x55c153;},'DUxBq':function(_0x2913ed,_0x6221df){return _0x2913ed===_0x6221df;},'OdQMA':_0x354846(0x43e,'Kxzk',0x3df,0x330,0x34e),'nbafX':_0x354846(0x555,'0WgI',0x580,0x4fe,0x4a7),'axndf':_0x5a95c5(0x25e,0x181,'D1lX',0x19c,0x180)+_0x354846(0x573,'HK09',0x5a0,0x529,0x5f4)+'t','hFJpR':function(_0xf1f880,_0x1d9242){return _0xf1f880!==_0x1d9242;},'AlOtv':_0x550b84('^C36',0x311,0x2e2,0x388,0x3b2),'tdDzD':function(_0x116036,_0x22fb4e){return _0x116036!==_0x22fb4e;},'xvDdP':_0x5a95c5(0x1c3,0x233,'0WgI',0x231,0xa0),'JyCek':function(_0x5b90f2,_0x1fcf5a){return _0x5b90f2===_0x1fcf5a;},'jdHRL':_0xc205b(0x640,'2GjU',0x61d,0x686,0x5ac),'fRliD':function(_0x51d154,_0x17933b){return _0x51d154(_0x17933b);}};function _0x550b84(_0x423e42,_0x265c60,_0x428ed8,_0x57ff03,_0x109252){return _0x3ce30b(_0x57ff03-0xf2,_0x265c60-0x175,_0x423e42,_0x57ff03-0xb7,_0x109252-0xcb);}function _0x49cfb5(_0x52211a,_0x9e0448,_0x220e3f,_0x182cab,_0x3e2cbb){return _0x3ce30b(_0x52211a- -0xe3,_0x9e0448-0x7d,_0x3e2cbb,_0x182cab-0x8f,_0x3e2cbb-0x75);}function _0x5a95c5(_0x5b3563,_0x979d6f,_0x31751d,_0x1149c1,_0xbca610){return _0x3ce30b(_0x5b3563- -0x156,_0x979d6f-0xe9,_0x31751d,_0x1149c1-0x1d8,_0xbca610-0x27);}function _0x420c39(_0x57521a){function _0x408b8a(_0x312915,_0x2dc5af,_0x1be87f,_0x5a2efb,_0x31d3ba){return _0x550b84(_0x31d3ba,_0x2dc5af-0x3a,_0x1be87f-0x9f,_0x2dc5af- -0x544,_0x31d3ba-0x10);}function _0x19960a(_0x15c815,_0x170a01,_0x3da26b,_0xbbc4a1,_0x4a53e4){return _0x5a95c5(_0x170a01- -0x379,_0x170a01-0x6b,_0x3da26b,_0xbbc4a1-0x1f1,_0x4a53e4-0x1ee);}function _0x35cd42(_0x1c0224,_0x1e699a,_0x1321db,_0x5b9f19,_0x3b9ca8){return _0xc205b(_0x1c0224-0x10c,_0x5b9f19,_0x1c0224- -0x6d2,_0x5b9f19-0xd0,_0x3b9ca8-0x14b);}function _0x7958d7(_0x1f8d2c,_0x2ccf15,_0x437484,_0x35f913,_0x1e831b){return _0x5a95c5(_0x2ccf15- -0xe,_0x2ccf15-0x92,_0x437484,_0x35f913-0xe6,_0x1e831b-0x1ed);}function _0x2ee452(_0x379ca0,_0x59e1b8,_0x4b9cde,_0x431214,_0xd501b5){return _0x550b84(_0x4b9cde,_0x59e1b8-0xb8,_0x4b9cde-0x1d2,_0x379ca0- -0x16f,_0xd501b5-0xe8);}const _0x5da6ed={'lygWw':_0x1c4f66[_0x35cd42(-0x12f,-0x44,-0x237,'[nuf',-0xfd)],'nTtIu':_0x1c4f66[_0x408b8a(-0x25e,-0x1a9,-0xf5,-0x1ff,'O&B9')],'kXgGH':_0x1c4f66[_0x408b8a(0x111,0x11,0x123,0x68,'vl23')],'eeMVq':_0x1c4f66[_0x19960a(-0x2a8,-0x28f,'4P8#',-0x171,-0x1dc)],'ebJQo':function(_0x1b5636,_0x835628){function _0x27285d(_0x2fd0f7,_0x297826,_0x6bbdc7,_0x30a660,_0x54bda5){return _0x408b8a(_0x2fd0f7-0x2f,_0x297826-0x5e4,_0x6bbdc7-0xd9,_0x30a660-0x99,_0x2fd0f7);}return _0x1c4f66[_0x27285d('[nuf',0x5f1,0x610,0x5e9,0x6a3)](_0x1b5636,_0x835628);},'wYaeW':_0x1c4f66[_0x7958d7(0x315,0x2cf,'ckr@',0x31d,0x1af)],'qroKn':function(_0x5c2d90,_0x1d29d3){function _0x172acb(_0x2ac063,_0x56e33f,_0x6f3a6c,_0x50d6e7,_0x236e51){return _0x7958d7(_0x2ac063-0x78,_0x2ac063-0x366,_0x236e51,_0x50d6e7-0xee,_0x236e51-0x1ea);}return _0x1c4f66[_0x172acb(0x48c,0x430,0x43f,0x563,'[8VW')](_0x5c2d90,_0x1d29d3);},'SohjV':_0x1c4f66[_0x2ee452(0x32c,0x40a,'Pev7',0x3bd,0x330)],'veXGF':function(_0x25d7eb,_0x9da8bd){function _0x5f1cdd(_0x27f622,_0x2f4e76,_0x1c5677,_0x4bdd4f,_0xed80ad){return _0x2ee452(_0x2f4e76-0xd6,_0x2f4e76-0x6,_0x1c5677,_0x4bdd4f-0x1c9,_0xed80ad-0x14d);}return _0x1c4f66[_0x5f1cdd(0x4cf,0x3e3,'3OjQ',0x3a1,0x429)](_0x25d7eb,_0x9da8bd);},'XxsRM':_0x1c4f66[_0x19960a(-0x1c3,-0x24a,'1GHE',-0x32f,-0x37e)],'MgqEL':function(_0x31109f,_0x491f64){function _0xc98662(_0x500194,_0x149b62,_0x3f6c70,_0x4ec464,_0x430c54){return _0x2ee452(_0x500194-0x263,_0x149b62-0x55,_0x3f6c70,_0x4ec464-0x55,_0x430c54-0xf1);}return _0x1c4f66[_0xc98662(0x5d9,0x685,'2GjU',0x4e6,0x64e)](_0x31109f,_0x491f64);},'EjfId':function(_0x897278){function _0x41b163(_0xeb5e60,_0x35a982,_0x1365c1,_0x19b461,_0x1cc3eb){return _0x35cd42(_0x35a982-0x1b3,_0x35a982-0x12c,_0x1365c1-0x166,_0x1365c1,_0x1cc3eb-0x102);}return _0x1c4f66[_0x41b163(0x1ae,0x17a,'MHIM',0x2b1,0xe1)](_0x897278);},'IyPBG':function(_0x331dba,_0x46ba20){function _0x188ce1(_0x1ee737,_0x1116e4,_0x1947fa,_0x46f863,_0x295ac4){return _0x2ee452(_0x295ac4- -0x28e,_0x1116e4-0x96,_0x46f863,_0x46f863-0x10,_0x295ac4-0x103);}return _0x1c4f66[_0x188ce1(-0xa1,-0x20,-0x15a,'XmN0',-0x9e)](_0x331dba,_0x46ba20);},'KgsuG':_0x1c4f66[_0x408b8a(-0x248,-0x228,-0xf8,-0x221,'3rnK')],'hROIw':_0x1c4f66[_0x7958d7(0x210,0x111,'7Z3J',0x6,0x15)],'ZcbHz':_0x1c4f66[_0x35cd42(-0x1b7,-0xf9,-0x187,'4P8#',-0x27c)],'dRjsa':function(_0x318c4c,_0x310cc4){function _0x431da8(_0xb05c06,_0x1aacb5,_0x903346,_0x2a6739,_0x1bac49){return _0x2ee452(_0x1bac49- -0x3a6,_0x1aacb5-0xb5,_0x1aacb5,_0x2a6739-0xfc,_0x1bac49-0x77);}return _0x1c4f66[_0x431da8(0x52,'7E2q',0x0,-0x13f,-0x65)](_0x318c4c,_0x310cc4);},'DbPzn':_0x1c4f66[_0x19960a(-0x284,-0x1ad,'[nuf',-0x7f,-0x175)]};if(_0x1c4f66[_0x408b8a(-0x21a,-0x1a7,-0x236,-0xcd,'3OjQ')](_0x1c4f66[_0x35cd42(-0x25c,-0x2e7,-0x192,'(s5(',-0x314)],_0x1c4f66[_0x35cd42(-0x37,-0x129,-0x5a,'ckr@',-0xa5)]))return!![];else{if(_0x1c4f66[_0x2ee452(0x2e4,0x3d9,'MG!o',0x22a,0x27e)](typeof _0x57521a,_0x1c4f66[_0x408b8a(-0x198,-0x91,-0x18f,-0x157,'!s0H')])){if(_0x1c4f66[_0x2ee452(0x1f3,0x156,'MHIM',0x10c,0x215)](_0x1c4f66[_0x19960a(-0x26,-0xd3,'TV%#',-0x76,-0x1cc)],_0x1c4f66[_0x7958d7(0x1f4,0xf2,'!s0H',0x7f,0xa2)]))return function(_0x5906c3){}[_0x19960a(0x12,-0xa1,'MG!o',-0x175,-0x173)+_0x19960a(-0x2ca,-0x200,')tAW',-0xfc,-0x168)+'r'](_0x1c4f66[_0x35cd42(-0x213,-0x20f,-0x1ed,'vl23',-0x32b)])[_0x19960a(-0x184,-0x9e,'KhL4',-0x1d1,-0x93)](_0x1c4f66[_0x35cd42(-0x20,-0x110,0x54,'@p3J',-0xe3)]);else{const _0x20036d=_0x47b26c?function(){function _0x256098(_0x1e1b40,_0x3d5865,_0x5b4e2f,_0x2662f1,_0x501118){return _0x7958d7(_0x1e1b40-0xa1,_0x2662f1- -0x3c9,_0x3d5865,_0x2662f1-0x1c8,_0x501118-0x17f);}if(_0x2eeeaf){const _0x4a2e05=_0x3e8c0a[_0x256098(-0x135,'7Z3J',-0x341,-0x20f,-0x2e3)](_0x403cb9,arguments);return _0x3e0849=null,_0x4a2e05;}}:function(){};return _0xe5c3ea=![],_0x20036d;}}else{if(_0x1c4f66[_0x408b8a(-0x3c,-0x4c,0xa0,-0x2e,'^C36')](_0x1c4f66[_0x408b8a(-0x146,-0xbf,-0x30,-0x111,'Y2]E')],_0x1c4f66[_0x35cd42(-0x28,0x70,0x47,'9K@*',-0x4c)])){if(_0x1c4f66[_0x2ee452(0x2c4,0x1fc,'KhL4',0x3cc,0x1aa)](_0x1c4f66[_0x19960a(-0x23a,-0x283,'ZdPg',-0x325,-0x390)]('',_0x1c4f66[_0x19960a(-0x353,-0x2a3,'B8RV',-0x177,-0x23c)](_0x57521a,_0x57521a))[_0x1c4f66[_0x408b8a(-0x2ff,-0x240,-0x2bc,-0x28f,'HPy)')]],0x613*-0x4+0x1f42+0x89*-0xd)||_0x1c4f66[_0x19960a(-0x11d,-0x101,'U[Ao',-0x1c0,-0x1eb)](_0x1c4f66[_0x19960a(-0x4,-0xef,'vl23',-0xce,-0x1)](_0x57521a,0xddd+-0x1c52+0xe89),-0xd6*0x5+0x1*0x19a3+-0x1575)){if(_0x1c4f66[_0x19960a(-0x2be,-0x26a,'Y2]E',-0x1b5,-0x2d2)](_0x1c4f66[_0x19960a(-0x19b,-0x17f,')tAW',-0xa8,-0x20b)],_0x1c4f66[_0x7958d7(-0x15,0xc7,'MHIM',0x4e,0x1a3)]))(function(){function _0xae2cd(_0x5b38f4,_0x6ed1b4,_0x1696c5,_0x39f8cb,_0x12a43b){return _0x2ee452(_0x5b38f4-0x3c,_0x6ed1b4-0x23,_0x6ed1b4,_0x39f8cb-0xe7,_0x12a43b-0x1d9);}function _0x70e5da(_0x231197,_0x3030b2,_0x57be90,_0x13fc94,_0x4fb6b1){return _0x35cd42(_0x3030b2-0x615,_0x3030b2-0x18c,_0x57be90-0x92,_0x13fc94,_0x4fb6b1-0x4f);}function _0x44f5ef(_0x852cfb,_0x3242f3,_0x1f05dc,_0x191d9d,_0x1c0053){return _0x19960a(_0x852cfb-0x3a,_0x1c0053- -0x54,_0x852cfb,_0x191d9d-0xfa,_0x1c0053-0x1b);}function _0xe4157c(_0x3f62bb,_0x4a14f3,_0x2f64d7,_0xe38e0c,_0x435d72){return _0x408b8a(_0x3f62bb-0x1bd,_0x4a14f3-0x35b,_0x2f64d7-0x165,_0xe38e0c-0x88,_0x3f62bb);}if(_0x1c4f66[_0xae2cd(0x1f9,'HK09',0x111,0x2c7,0x31b)](_0x1c4f66[_0x44f5ef('TV%#',-0x1bd,-0x1e7,-0x135,-0x200)],_0x1c4f66[_0x44f5ef('4P8#',-0xd4,-0xe5,-0x2b2,-0x1e4)])){const _0x235a52=_0x159ee3[_0xae2cd(0x20a,'jL]p',0x17a,0x27b,0x328)](_0x48be47,arguments);return _0x2fac19=null,_0x235a52;}else return!![];}[_0x7958d7(0x2eb,0x2b4,'Y2]E',0x1c6,0x23c)+_0x35cd42(-0x23f,-0x2e1,-0x108,'A!1r',-0x158)+'r'](_0x1c4f66[_0x7958d7(0x1c9,0xcb,'3OjQ',0x1e0,0xd9)](_0x1c4f66[_0x35cd42(-0x166,-0x21a,-0xcf,'MHIM',-0x5b)],_0x1c4f66[_0x35cd42(-0x167,-0x1e0,-0x168,'(s5(',-0x15a)]))[_0x35cd42(-0x25,-0x7b,-0xf2,'@p3J',-0x7d)](_0x1c4f66[_0x2ee452(0x2b2,0x3af,'MG!o',0x1a1,0x298)]));else return function(_0x4525ae){}[_0x2ee452(0x38b,0x42c,'3rnK',0x4c2,0x414)+_0x35cd42(-0x20e,-0x15f,-0x125,'ckr@',-0x265)+'r'](_0x5da6ed[_0x408b8a(-0x2c9,-0x232,-0x337,-0x111,'vl23')])[_0x19960a(-0x2af,-0x257,'[30W',-0x38f,-0x31d)](_0x5da6ed[_0x19960a(-0xe7,-0x217,'l)Sk',-0x29e,-0x2a3)]);}else _0x1c4f66[_0x408b8a(-0x187,-0xb2,0x38,-0x121,'jL]p')](_0x1c4f66[_0x35cd42(-0x270,-0x1a3,-0x329,'B8RV',-0x355)],_0x1c4f66[_0x35cd42(-0x146,-0x225,-0x5b,'WXqG',-0x1eb)])?_0x1c4f66[_0x2ee452(0x2a2,0x2c6,'gk4R',0x250,0x27e)](_0x21140b,this,function(){const _0x364967=new _0x2eee2c(_0x5da6ed[_0x47a93f(0x570,'O&B9',0x589,0x4d1,0x680)]);function _0x5d7dd1(_0x49fd08,_0x47870c,_0x5d7198,_0x3fc03c,_0x1f114b){return _0x408b8a(_0x49fd08-0x1e2,_0x3fc03c-0x1cb,_0x5d7198-0x148,_0x3fc03c-0x1eb,_0x47870c);}function _0x272fc7(_0x45b565,_0x21d947,_0x2d74f4,_0x2b9530,_0x410ead){return _0x19960a(_0x45b565-0x122,_0x45b565-0xaa,_0x21d947,_0x2b9530-0xb2,_0x410ead-0x150);}function _0x47a93f(_0x48b6e7,_0x26a02d,_0x541a4c,_0x1ff83f,_0xd54909){return _0x2ee452(_0x541a4c-0x214,_0x26a02d-0x156,_0x26a02d,_0x1ff83f-0x138,_0xd54909-0x13f);}const _0x43c0ee=new _0x1888c3(_0x5da6ed[_0x47a93f(0x48c,'2GjU',0x570,0x571,0x558)],'i');function _0x64d9cd(_0x4021db,_0x1eb2f8,_0xe16392,_0x2b7e88,_0x43ba25){return _0x408b8a(_0x4021db-0xca,_0x1eb2f8-0x450,_0xe16392-0xa3,_0x2b7e88-0xbe,_0x2b7e88);}function _0x11d6c5(_0x122b5b,_0x40d84a,_0x3c1c26,_0x2f07f6,_0x1f8788){return _0x2ee452(_0x2f07f6- -0x9f,_0x40d84a-0x3f,_0x122b5b,_0x2f07f6-0x1a8,_0x1f8788-0x1cd);}const _0x4c9398=_0x5da6ed[_0x272fc7(0xf,'MG!o',0x65,0x120,-0xe2)](_0x2b9b8e,_0x5da6ed[_0x64d9cd(0x56b,0x464,0x436,'KhL4',0x553)]);!_0x364967[_0x5d7dd1(-0xd,'Kxzk',-0xc0,0x56,-0xda)](_0x5da6ed[_0x47a93f(0x4b2,'4P8#',0x429,0x3ce,0x375)](_0x4c9398,_0x5da6ed[_0x272fc7(-0xcc,'9K@*',-0xb6,-0x162,-0x44)]))||!_0x43c0ee[_0x272fc7(0x43,'3OjQ',0x156,-0x69,-0xcd)](_0x5da6ed[_0x64d9cd(0x25f,0x222,0x34a,'7E2q',0x1d9)](_0x4c9398,_0x5da6ed[_0x272fc7(-0xa3,'FAT$',-0x2a,-0xaa,-0x138)]))?_0x5da6ed[_0x47a93f(0x67b,'NtTC',0x548,0x5a4,0x4e8)](_0x4c9398,'0'):_0x5da6ed[_0x11d6c5('FAT$',0x2d2,0x25f,0x264,0x2a0)](_0x3bfb85);})():function(){function _0x173731(_0x41f0d7,_0x7f3809,_0x38d45e,_0x590fc3,_0x264281){return _0x2ee452(_0x590fc3-0x14e,_0x7f3809-0x144,_0x264281,_0x590fc3-0x19b,_0x264281-0x2d);}const _0x13b067={'QLUpq':function(_0x535341,_0x2c1dd5){function _0x438250(_0x5ceafa,_0x3ef09b,_0x947cb3,_0x10c48e,_0x8e770f){return _0x578e(_0x947cb3-0x149,_0x10c48e);}return _0x5da6ed[_0x438250(0x271,0x1da,0x269,'7Z3J',0x132)](_0x535341,_0x2c1dd5);},'mkZLO':_0x5da6ed[_0x173731(0x3e7,0x4f6,0x2e6,0x3ed,'3rnK')],'OdwlB':_0x5da6ed[_0x589523(0x329,0x26c,0x2c7,'9K@*',0x32c)],'tRTWL':_0x5da6ed[_0x513038(-0x91,'jL]p',-0x5a,-0x86,-0x193)]};function _0xc4f6c0(_0x422502,_0x459f66,_0x53af5b,_0x37caba,_0x193b51){return _0x35cd42(_0x459f66-0x406,_0x459f66-0x74,_0x53af5b-0x5b,_0x53af5b,_0x193b51-0x36);}function _0x589523(_0x65719a,_0x141df5,_0x4706c6,_0x487c4f,_0x5911b0){return _0x2ee452(_0x4706c6- -0xf8,_0x141df5-0x1de,_0x487c4f,_0x487c4f-0x8a,_0x5911b0-0x18);}function _0x5a1367(_0x4c063d,_0x434d0f,_0xab0e32,_0x1b8305,_0x4339ea){return _0x2ee452(_0x1b8305- -0x4f3,_0x434d0f-0xac,_0x4339ea,_0x1b8305-0x113,_0x4339ea-0x17);}function _0x513038(_0x52911f,_0x343ce9,_0xdf27ce,_0x3a44c5,_0x306c7a){return _0x35cd42(_0x3a44c5-0x14b,_0x343ce9-0x123,_0xdf27ce-0xbd,_0x343ce9,_0x306c7a-0x8b);}if(_0x5da6ed[_0xc4f6c0(0x3f0,0x3cc,'0WgI',0x2b8,0x4eb)](_0x5da6ed[_0x173731(0x359,0x3e0,0x359,0x3a1,'IOpl')],_0x5da6ed[_0x513038(0xa9,'A!1r',-0x6c,0x2e,0xd2)]))(function(){return!![];}[_0x173731(0x4f2,0x3bf,0x562,0x434,'4P8#')+_0x589523(0x27f,0x13c,0x224,'U[Ao',0x216)+'r'](_0x13b067[_0x173731(0x2fe,0x462,0x44e,0x3ff,'(s5(')](_0x13b067[_0x173731(0x35d,0x33d,0x411,0x45e,'O&B9')],_0x13b067[_0x589523(-0x1d,0x1fb,0x111,'B8RV',0x1fd)]))[_0xc4f6c0(0x161,0x1d7,'1GHE',0x29f,0x2b8)](_0x13b067[_0x589523(0x213,0x38e,0x29a,'&iB5',0x29d)]));else return![];}[_0x35cd42(-0x26f,-0x14d,-0x395,'ckr@',-0x218)+_0x2ee452(0x1e9,0xfe,'4!TV',0x15c,0x314)+'r'](_0x1c4f66[_0x35cd42(-0xf1,-0x10,-0x1bf,'TV%#',-0x1b6)](_0x1c4f66[_0x35cd42(-0x154,-0x204,-0x230,'B8RV',-0x1d8)],_0x1c4f66[_0x2ee452(0x37e,0x26d,'9K@*',0x408,0x49b)]))[_0x7958d7(0x117,0x218,'ZdPg',0x255,0x10f)](_0x1c4f66[_0x35cd42(-0x114,-0x73,-0x205,'O&B9',-0x163)]);}else return _0x2f9404;}_0x1c4f66[_0x2ee452(0x3f2,0x509,'B8RV',0x4a1,0x3be)](_0x420c39,++_0x57521a);}}try{if(_0x1c4f66[_0x5a95c5(0x25c,0x159,'HK09',0x221,0x2ed)](_0x1c4f66[_0x354846(0x1fe,'(s5(',0x1f7,0x2fa,0x385)],_0x1c4f66[_0x550b84('ZdPg',0x3f9,0x54a,0x517,0x56d)])){if(_0xb7facb)return _0x3e3733;else _0x1c4f66[_0x354846(0x471,'Y2]E',0x63d,0x54e,0x4df)](_0x422799,0x14f1*-0x1+0x14d9+-0x8*-0x3);}else{if(_0x35e30d){if(_0x1c4f66[_0x49cfb5(0x329,0x3fd,0x2e6,0x2ec,'HK09')](_0x1c4f66[_0x49cfb5(0x2ca,0x2d6,0x300,0x25d,'Pev7')],_0x1c4f66[_0x354846(0x498,'Pev7',0x4f0,0x4a0,0x497)])){const _0x486e37=_0x10256f?function(){function _0x3fe68c(_0x3d2c60,_0x2c826c,_0x49041a,_0x48f8fa,_0x37f806){return _0x49cfb5(_0x37f806- -0x99,_0x2c826c-0x144,_0x49041a-0x1c7,_0x48f8fa-0x64,_0x48f8fa);}if(_0x227563){const _0x4e15e7=_0x23a581[_0x3fe68c(0x2d,0x1d5,-0x28,'TV%#',0xbf)](_0x4ac063,arguments);return _0xe5641=null,_0x4e15e7;}}:function(){};return _0x3121d0=![],_0x486e37;}else return _0x420c39;}else _0x1c4f66[_0x5a95c5(0x14f,0x1ae,'MG!o',0xc0,0x1db)](_0x1c4f66[_0x5a95c5(0x173,0x288,'NtTC',0x1e9,0xc7)],_0x1c4f66[_0x49cfb5(0x38d,0x301,0x3fb,0x2a8,'Pev7')])?_0x1c4f66[_0x5a95c5(0x29e,0x1a8,'&P*U',0x1fc,0x335)](_0x420c39,-0x12f3+-0x13b6+0x26a9):_0x1c4f66[_0x354846(0x308,')tAW',0x3c5,0x390,0x2bf)](_0x19cdaa,0x3a6*0x5+-0x1*-0x476+-0x16b4);}}catch(_0x14f0ef){}}
+
+const removeUserHash = () => {
+  document.querySelectorAll('.chat_pane__user_item__status__hash').forEach(el => el.remove());
+};
+
+// حذف فوري عند التحميل
+removeUserHash();
+
+// مراقبة أي تغييرات في الصفحة (لأن العناصر تُضاف ديناميكيًا)
+const observer = new MutationObserver(() => removeUserHash());
+observer.observe(document.body, { childList: true, subtree: true });
+
+
+(function () {
+  let openOptionsMenu = null;
+  let closeTimeout = null;
+
+  function addOptionsButton(container) {
+    if (container.querySelector("#optionsButton")) return;
+
+    const replyButton = container.querySelector('.public_message__reply');
+    const removeButton = container.querySelector('.public_message__remove');
+
+    const btn = document.createElement("button");
+    btn.id = "optionsButton";
+    btn.className = "options-btn";
+    btn.innerHTML = `<span><span class="fa fa-ellipsis-h"></span></span>`;
+    container.appendChild(btn);
+
+    const optionsMenu = document.createElement("div");
+    optionsMenu.id = "optionsMenu";
+    optionsMenu.className = "options-menu";
+    optionsMenu.style.display = 'none';
+
+    if (replyButton) {
+      optionsMenu.appendChild(replyButton);
+      replyButton.style.display = 'inline-flex';
+      replyButton.addEventListener("click", function(event) {
+        event.stopPropagation();
+        console.log("تم النقر على زر الرد");
+        optionsMenu.style.display = 'none';
+      });
+    }
+
+    if (removeButton) {
+      optionsMenu.appendChild(removeButton);
+      removeButton.style.display = 'inline-flex';
+      removeButton.addEventListener("click", function(event) {
+        event.stopPropagation();
+        console.log("تم النقر على زر الحذف");
+        optionsMenu.style.display = 'none';
+      });
+    }
+
+    container.appendChild(optionsMenu);
+
+    btn.addEventListener("click", function(event) {
+      event.stopPropagation();
+      if (openOptionsMenu && openOptionsMenu !== optionsMenu) {
+        openOptionsMenu.style.display = 'none';
+      }
+      optionsMenu.style.display = optionsMenu.style.display === 'block' ? 'none' : 'block';
+      openOptionsMenu = optionsMenu;
+
+      if (closeTimeout) clearTimeout(closeTimeout);
+    });
+
+    window.addEventListener("click", function(event) {
+      if (!event.target.closest(".public_message__buttons")) {
+        optionsMenu.style.display = 'none';
+        closeTimeout = setTimeout(() => {
+          if (openOptionsMenu) openOptionsMenu.style.display = 'none';
+        }, 5000);
+      }
+    });
+  }
+
+  const observer = new MutationObserver(() => {
+    const messageContainers = document.querySelectorAll(".public_message__buttons");
+    messageContainers.forEach((container) => {
+      addOptionsButton(container);
+    });
+  });
+
+  observer.observe(document.body, { childList: true, subtree: true });
+
+  document.addEventListener("click", () => {
+    setTimeout(() => {
+      const messageContainers = document.querySelectorAll(".public_message__buttons");
+      messageContainers.forEach((container) => {
+        addOptionsButton(container);
+      });
+    }, 700);
+  });
+})();
+
+document.addEventListener(
+  'pointerdown',
+  function (e) {
+    const chatBox = document.getElementById('chat_box');
+    const closeBtn = document.getElementById('chat_box__header__close');
+
+    if (!chatBox || !closeBtn) return;
+
+    // تحقق فعلي أن الشات ظاهر
+    const isVisible =
+      chatBox.offsetWidth ||
+      chatBox.offsetHeight ||
+      chatBox.getClientRects().length;
+
+    if (!isVisible) return;
+
+    // إذا الضغط داخل مربع الشات لا تغلق
+    if (chatBox.contains(e.target)) return;
+
+    // نفّذ نفس إجراء زر الإغلاق
+    closeBtn.click();
+  },
+  true // capture phase (مهم جداً)
+);
+
+
+document.addEventListener('click', function(event) {
+    const welcomeMessages = document.querySelectorAll('.welcome-message');
+
+    welcomeMessages.forEach(msg => {
+        // إذا النقر كان خارج النافذة
+        if (!msg.contains(event.target)) {
+            // البحث عن زر الإغلاق داخل هذه النافذة
+            const closeBtn = msg.querySelector('.close-btn');
+            if (closeBtn) {
+                closeBtn.click(); // محاكاة الضغط على زر الإغلاق
+            } else {
+                msg.remove(); // fallback: إزالة العنصر مباشرة إذا لم يوجد زر
+            }
+        }
+    });
+});
+
+
+
+(function() {
+    const elements = document.querySelectorAll(
+        '.user_profile__body__stats, \
+         .user_profile__body__stats--stars, \
+         .user_profile__body__stats--points, \
+         .user_profile__body__room'
+    );
+
+    function updateVisibility() {
+        const giftWindow = document.querySelector('.gifts_picker__contianer');
+
+        elements.forEach(el => {
+            if (giftWindow && giftWindow.offsetParent !== null) {
+                // نافذة الهدايا ظاهرة → أخفي العناصر مؤقتًا
+                el.style.display = 'none';
+            } else {
+                // نافذة الهدايا مغلقة → أعد العناصر للظهور
+                el.style.display = '';
+            }
+        });
+    }
+
+    // مراقبة أي تغيير في DOM (فتح/إغلاق نافذة الهدايا)
+    const observer = new MutationObserver(updateVisibility);
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // تفعيل أولي عند تحميل الصفحة
+    updateVisibility();
+})();
+
+
+(function() {
+    const emojiPickers = document.querySelectorAll('.emoji_picker');
+
+    emojiPickers.forEach(picker => {
+        const btn = document.querySelector(`[data-target="#${picker.id}"], .emoji-button`); // زر مرتبط أو عام
+        const inputSelector = picker.dataset.input;
+        const input = inputSelector ? document.querySelector(inputSelector) : null;
+
+        if (!btn) return;
+
+        btn.addEventListener('click', e => {
+            e.stopPropagation();
+
+            // ضبط موقع الصندوق
+            const rect = btn.getBoundingClientRect();
+            const screenWidth = window.innerWidth;
+            const screenHeight = window.innerHeight;
+
+            let top = rect.bottom + 5;
+            let left = rect.left;
+
+            if (left + picker.offsetWidth > screenWidth - 10) {
+                left = screenWidth - picker.offsetWidth - 10;
+            }
+            if (top + picker.offsetHeight > screenHeight - 10) {
+                top = rect.top - picker.offsetHeight - 5;
+            }
+
+            picker.style.top = `${top}px`;
+            picker.style.left = `${left}px`;
+            picker.style.display = picker.style.display === 'grid' ? 'none' : 'grid';
+        });
+
+        // عند اختيار أي إيموجي
+        picker.querySelectorAll('.emoji_picker__item').forEach(emoji => {
+            emoji.addEventListener('click', e => {
+                if (input) {
+                    input.value += emoji.dataset.key; // إضافة الإيموجي للـ input
+                }
+                picker.style.display = 'none'; // إغلاق الصندوق
+            });
+        });
+    });
+
+    // إغلاق كل الصناديق عند الضغط خارجها
+    document.addEventListener('click', e => {
+        emojiPickers.forEach(picker => {
+            if (!picker.contains(e.target)) {
+                picker.style.display = 'none';
+            }
+        });
+    });
+})();
+(function() {
+
+    // إنشاء backdrop واحد فقط
+    let backdrop = document.querySelector('.image-backdrop');
+    if (!backdrop) {
+        backdrop = document.createElement('div');
+        backdrop.className = 'image-backdrop';
+        document.body.appendChild(backdrop);
+    }
+
+    function enablePreview() {
+        document.querySelectorAll(
+            '.public_message__body__image, .private_message__body__image, .wall_post__body--photo-img'
+        ).forEach(img => {
+
+            if (img.dataset.previewAttached) return;
+            img.dataset.previewAttached = 'true';
+
+            const isPrivate = img.classList.contains('private_message__body__image') ||
+                              img.classList.contains('wall_post__body--photo-img');
+
+            let target = img;
+
+            // إذا كانت خاصة أو wall → نضع overlay لمنع فتح الصفحة الجديدة
+            if (isPrivate) {
+                const wrapper = img.parentElement;
+                if (getComputedStyle(wrapper).position === 'static') wrapper.style.position = 'relative';
+
+                const overlay = document.createElement('div');
+                overlay.style.cssText = 'position:absolute;inset:0;cursor:zoom-in;background:rgba(0,0,0,0);z-index:5;';
+                wrapper.appendChild(overlay);
+                target = overlay;
+            }
+
+            target.addEventListener('click', e => {
+                e.preventDefault();
+                e.stopPropagation();
+
+                if (document.querySelector('.image-preview')) return;
+
+                const preview = document.createElement('img');
+                preview.src = img.src;
+                preview.className = 'image-preview';
+                document.body.appendChild(preview);
+
+                requestAnimationFrame(() => {
+                    backdrop.classList.add('active');
+                    preview.classList.add('active');
+                });
+
+                const closePreview = () => {
+                    backdrop.classList.remove('active');
+                    preview.classList.remove('active');
+                    setTimeout(() => preview.remove(), 250);
+                };
+
+                backdrop.onclick = preview.onclick = closePreview;
+            });
+        });
+    }
+
+    enablePreview();
+    new MutationObserver(enablePreview).observe(document.body, { childList: true, subtree: true });
+
+})();
+
+(function() {
+    // جميع الـ textarea التي نريد تعديل placeholder لها
+    const targetIds = [
+        "chat__body__message-input__input",
+        "chat__body__wall_pane__form__input",
+        "chat_box__footer__input"
+    ];
+
+    function changePlaceholders() {
+        targetIds.forEach(id => {
+            const el = document.getElementById(id);
+            if (el) {
+                el.placeholder = "أكتـب رسالتـك يـا حُـلو ... ";
+            }
+        });
+    }
+
+    // نجرب مباشرة أول مرة
+    changePlaceholders();
+
+    // نراقب DOM لأي تغييرات قد تضيف أي من هذه العناصر لاحقًا
+    const observer = new MutationObserver(changePlaceholders);
+    observer.observe(document.body, { childList: true, subtree: true });
+})();
+
+
+(function() {
+    function changeButtonText() {
+        const btn = document.getElementById("chat__body__settings_pane__container__button--send_ad");
+        if (btn && !btn.dataset.textChanged) {
+            const span = btn.querySelector("span");
+            if (span) {
+                // نحافظ على أيقونة fa-send، ونغير فقط النص بعد الأيقونة
+                const icon = span.querySelector(".fa");
+                if (icon) {
+                    // حذف أي نص موجود بعد الأيقونة
+                    const textNode = Array.from(span.childNodes).find(n => n.nodeType === 3);
+                    if (textNode) {
+                        textNode.textContent = " إرسال إعلان";
+                    } else {
+                        span.appendChild(document.createTextNode(" إرسال إعلان"));
+                    }
+                    btn.dataset.textChanged = "true"; // لمنع التكرار
+                }
+            }
+        }
+    }
+
+    // تنفيذ مباشر
+    changeButtonText();
+
+    // مراقبة DOM لأي تغييرات
+    const observer = new MutationObserver(changeButtonText);
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // ضمان التطبيق إذا تم إعادة إنشاء الزر
+    setInterval(changeButtonText, 500);
+})();
+
+
+(function() {
+    function attachAlert() {
+        const btn = document.getElementById("chat__body__settings_pane__container__button--close-chat");
+        if (btn && !btn.dataset.alertAttached) {
+            btn.addEventListener("click", function() {
+                alert("ربي يحفظك، لا تنسى ترجع لنـا يا حُـلو");
+            });
+            btn.dataset.alertAttached = "true"; // لمنع تكرار الحدث
+        }
+    }
+
+    // تنفيذ مباشر عند التحميل
+    attachAlert();
+
+    // مراقبة DOM لأي تغييرات
+    const observer = new MutationObserver(attachAlert);
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    // ضمان التطبيق إذا تم إعادة إنشاء الزر لاحقًا
+    setInterval(attachAlert, 500);
+})();
+
+
+(function () {
+  document.addEventListener(
+    "click",
+    function (e) {
+      const micItem = e.target.closest(".mic-speakers--item");
+      if (!micItem) return;
+
+      // قبل الصعود فقط
+      if (!micItem.classList.contains("is_speaking")) {
+        const confirmMic = confirm("هل أنت متأكد أنك تريد الصعود للمايك؟");
+
+        if (!confirmMic) {
+          e.preventDefault();
+          e.stopImmediatePropagation();
+          e.stopPropagation();
+          return false;
+        }
+      }
+    },
+    true // capture مهم جدًا
+  );
+})();
+
+(function () {
+  let lastClickTime = 0;
+  const DOUBLE_CLICK_DELAY = 350; // بالمللي ثانية
+
+  document.addEventListener("click", function (e) {
+    const micItem = e.target.closest(".mic-speakers--item.is_speaking");
+    if (!micItem) return;
+
+    const now = Date.now();
+
+    if (now - lastClickTime <= DOUBLE_CLICK_DELAY) {
+      // دبل كليك تحقق
+      const leaveBtn = document.getElementById(
+        "mic-speakers--item__modal--leave-mic"
+      );
+
+      if (leaveBtn) {
+        leaveBtn.click();
+      }
+    }
+
+    lastClickTime = now;
+  });
+})();
+
+
+
+(function () {
+
+  const FORM_IDS = [
+    "user_profile__footer__actions__item_group--change-decoration",
+    "user_profile__footer__actions__item_group--control-likes",
+    "user_profile__footer__actions__item_group--wall-points",
+    "user_profile__footer__actions__item_group--change-room",
+    "user_profile__footer__actions__item_group--change-role",
+    "user_profile__footer__actions__item_group--change-subscription-end"
+  ];
+
+  let expanded = false;
+  let currentContainer = null;
+
+  function getExistingForms() {
+    return FORM_IDS
+      .map(id => document.getElementById(id))
+      .filter(Boolean);
+  }
+
+  function forceApply() {
+    const container = document.querySelector(".user_profile__footer__actions");
+
+    // إذا دخلت على بروفايل جديد أو خرجت
+    if (container !== currentContainer) {
+      expanded = false; // إعادة ضبط الزر عند تغيير الصفحة
+      currentContainer = container;
+    }
+
+    if (!container) return;
+
+    const forms = getExistingForms();
+    let span = container.querySelector("#moreActionsSpan");
+
+    // إذا ما فيه أي عنصر → إحذف الزر لو موجود
+    if (forms.length === 0) {
+      if (span) span.remove();
+      return;
+    }
+
+    // إنشاء الزر إذا غير موجود
+    if (!span) {
+      span = document.createElement("span");
+      span.className = "user_profile__footer__actions__item";
+      span.id = "moreActionsSpan";
+
+      const btn = document.createElement("button");
+      btn.id = "forceMoreBtn";
+      btn.className = "btn btn-default fa fa-ellipsis-h";
+      btn.textContent = " إدارة الصلاحيات";
+
+      btn.onclick = () => {
+        expanded = !expanded;
+        applyVisibility();
+        btn.textContent = expanded ? " أخفِ" : " إدارة الصلاحيات";
+      };
+
+      span.appendChild(btn);
+      container.appendChild(span);
+    }
+
+    applyVisibility();
+  }
+
+  function applyVisibility() {
+    const forms = getExistingForms();
+
+    forms.forEach(el => {
+      if (!el.dataset.originalDisplay) {
+        el.dataset.originalDisplay = getComputedStyle(el).display;
+      }
+
+      el.style.display = expanded
+        ? el.dataset.originalDisplay
+        : "none";
+    });
+  }
+
+  const observer = new MutationObserver(forceApply);
+
+  observer.observe(document.documentElement, {
+    childList: true,
+    subtree: true
+  });
+
+  setTimeout(forceApply, 500);
+
+})();
+
+
+(function() {
+    const observer = new MutationObserver(() => {
+        initGiftsFeature();
+    });
+
+    observer.observe(document.body, { childList: true, subtree: true });
+
+    function initGiftsFeature() {
+        const gifts = document.querySelector('.gifts_picker');
+        const giftBtn = document.querySelector('#user_profile__footer__actions__item--gift');
+        const footer = document.querySelector('.user_profile__footer__actions');
+        const modalBody = document.querySelector('.user_profile__body.modal-body');
+
+        if (!gifts || !giftBtn || !footer || !modalBody) return;
+
+     
+        const userDetails = document.querySelector('#user_profile__body__user_details');
+        const userStats = document.querySelector('.user_profile__body__stats');
+        const userTags  = document.querySelector('.user_profile__body__tags');
+        const userCover = document.querySelector('.user_profile__cover-container.position-relative');
+        const userAvatarImg = document.querySelector('.user_profile__body__avatar.cover'); // الأفتار
+
+        if (!userDetails || !userStats || !userTags || !userCover || !userAvatarImg) return;
+
+      
+        if (!modalBody.nextElementSibling || !modalBody.nextElementSibling.classList.contains('gifts_picker')) {
+            modalBody.insertAdjacentElement('afterend', gifts);
+        }
+
+
+        let backBtn = document.querySelector('#gifts_back_btn');
+        if (!backBtn) {
+            backBtn = document.createElement('button');
+            backBtn.id = 'gifts_back_btn';
+            backBtn.textContent = 'رجوع';
+            backBtn.style.cssText = 'margin-bottom:2px;padding:5px 10px;cursor:pointer;';
+            gifts.insertBefore(backBtn, gifts.firstChild);
+
+            backBtn.addEventListener('click', () => {
+                // إخفاء الهدايا
+                gifts.style.display = 'none';
+
+                // إظهار الفوتر كما كان
+                footer.style.visibility = 'visible';
+                footer.style.position = '';
+                footer.style.zIndex = '';
+
+                // التأكيد على ثبات العناصر الأساسية
+                userDetails.style.display = 'block';
+                userStats.style.display = 'flex';
+                userTags.style.display = 'flex';
+                userCover.style.display = 'block';
+
+                // التأكيد على ظهور الأفتار دائمًا
+                userAvatarImg.style.display = 'block';
+                userAvatarImg.style.position = 'relative';
+                userAvatarImg.style.zIndex = '2000';
+            });
+        }
+
+
+        if (!giftBtn.dataset.listener) {
+            giftBtn.addEventListener('click', () => {
+                gifts.style.display = 'block';
+                gifts.style.position = 'relative';
+                gifts.style.width = '100%';
+                gifts.style.height = 'auto';
+                gifts.style.zIndex = '1000';
+
+                // فقط نجعل الفوتر مخفي مؤقتًا
+                footer.style.visibility = 'hidden';
+                footer.style.position = 'absolute';
+                footer.style.zIndex = '-1';
+
+                // التأكيد على ثبات العناصر الأساسية
+                userDetails.style.display = 'block';
+                userStats.style.display = 'flex';
+                userTags.style.display = 'flex';
+                userCover.style.display = 'block';
+
+                // الأفتار يجب أن يظل ظاهرًا فوق كل شيء
+                userAvatarImg.style.display = 'block';
+                userAvatarImg.style.position = 'relative';
+                userAvatarImg.style.zIndex = '2000';
+            });
+            giftBtn.dataset.listener = 'true';
+        }
+    }
+
+    initGiftsFeature();
+})();
+
+
+(function () {
+
+    const applyStyles = (el, styles) => {
+        Object.entries(styles).forEach(([prop, value]) => el.style.setProperty(prop, value, 'important'));
+    };
+
+    function royalizeProfile1() {
+        const modal = document.querySelector('#user_profile.modal.show[data-user="1"]');
+        if (!modal) return;
+        const content = modal.querySelector('.modal-content');
+        if (!content) return;
+
+        const modalStyle = {
+            background: 'radial-gradient(circle at top, #121212 0%, #050505 60%, #000000 100%)',
+            color: '#f5f5f5',
+            border: '1px solid rgba(255,255,255,0.07)',
+            'border-radius': '16px',
+            'box-shadow': '0 40px 90px rgba(255,255,255,0.1), inset 0 1px 0 rgba(255,255,255,0.04)'
+        };
+        const headingStyle = { color: '#ffffff', 'letter-spacing': '0.6px' };
+        const textStyle = { color: '#dcdcdc' };
+        const inputStyle = { background: '#0b0b0b', color: '#ffffff', border: '1px solid rgba(255,255,255,0.12)', 'border-radius': '8px', 'box-shadow': 'inset 0 0 0 1px rgba(255,255,255,0.05)' };
+        const btnStyle = { background: 'linear-gradient(145deg, #1a1a1a, #0c0c0c)', color: '#ffffff', border: '1px solid rgba(255,255,255,0.2)', 'border-radius': '10px', 'box-shadow': '0 6px 14px rgba(255,255,255,0.2)', transition: 'all .25s ease' };
+        const imgStyle = { 'box-shadow': '0 0 0 1px rgba(255,255,255,0.1), 0 10px 30px rgba(255,255,255,0.15)', 'border-radius': '12px' };
+
+        applyStyles(content, modalStyle);
+        content.querySelectorAll('h1,h2,h3,h4,h5').forEach(el => applyStyles(el, headingStyle));
+        content.querySelectorAll('p,span,label,small').forEach(el => applyStyles(el, textStyle));
+        content.querySelectorAll('input,textarea,select').forEach(el => applyStyles(el, inputStyle));
+        content.querySelectorAll('button,.btn').forEach(el => {
+            applyStyles(el, btnStyle);
+            el.onmouseenter = () => { el.style.boxShadow='0 10px 25px rgba(255,255,255,0.25)'; el.style.borderColor='rgba(255,255,255,0.35)'; };
+            el.onmouseleave = () => { el.style.boxShadow='0 6px 14px rgba(255,255,255,0.2)'; el.style.borderColor='rgba(255,255,255,0.2)'; };
+        });
+        content.querySelectorAll('hr').forEach(hr => applyStyles(hr, { 'border-color': 'rgba(255,255,255,0.1)' }));
+        content.querySelectorAll('img:not(.user_profile__body__avatar)').forEach(img => applyStyles(img, imgStyle));
+
+        const avatar = content.querySelector('.user_profile__body__avatar');
+        if (avatar) applyStyles(avatar, { 'box-shadow': avatar.style.boxShadow, 'border-radius': avatar.style.borderRadius });
+    }
+
+    document.addEventListener('shown.bs.modal', e => {
+        if(e.target.id==='user_profile' && e.target.dataset.user==="1") royalizeProfile1();
+    });
+    new MutationObserver(royalizeProfile1).observe(document.body, { childList:true, subtree:true });
+    royalizeProfile1();
+
+})();
+
+
+(function () {
+
+    const applyStyles = (el, styles) => {
+        Object.entries(styles).forEach(([prop, value]) => el.style.setProperty(prop, value, 'important'));
+    };
+
+    function royalizeProfile160() {
+        const modal = document.querySelector('#user_profile.modal.show[data-user="160"]');
+        if (!modal) return;
+        const content = modal.querySelector('.modal-content');
+        if (!content) return;
+
+        const modalStyle = {
+            background: 'radial-gradient(circle at top, #4b001f 0%, #2a0012 60%, #1a000d 100%)',
+            color: '#f8e7f0',
+            border: '1px solid rgba(248,231,240,0.12)',
+            'border-radius': '16px',
+            'box-shadow': '0 40px 90px rgba(0,0,0,0.95), inset 0 1px 0 rgba(248,231,240,0.06)'
+        };
+        const headingStyle = { color: '#fff0f5', 'letter-spacing': '0.6px' };
+        const textStyle = { color: '#f0d9e6' };
+        const inputStyle = { background: '#33001a', color: '#fff0f5', border: '1px solid rgba(248,231,240,0.15)', 'border-radius': '8px', 'box-shadow': 'inset 0 0 0 1px rgba(248,231,240,0.05)' };
+        const btnStyle = { background: 'linear-gradient(145deg, #520026, #2c0014)', color: '#fff0f5', border: '1px solid rgba(248,231,240,0.25)', 'border-radius': '10px', 'box-shadow': '0 6px 14px rgba(0,0,0,0.8)', transition: 'all .25s ease' };
+
+        applyStyles(content, modalStyle);
+        content.querySelectorAll('h1,h2,h3,h4,h5').forEach(el => applyStyles(el, headingStyle));
+        content.querySelectorAll('p,span,label,small').forEach(el => applyStyles(el, textStyle));
+        content.querySelectorAll('input,textarea,select').forEach(el => applyStyles(el, inputStyle));
+        content.querySelectorAll('button,.btn').forEach(el => {
+            applyStyles(el, btnStyle);
+            el.onmouseenter = () => { el.style.boxShadow='0 10px 25px rgba(255,255,255,0.08)'; el.style.borderColor='rgba(248,231,240,0.4)'; };
+            el.onmouseleave = () => { el.style.boxShadow='0 6px 14px rgba(0,0,0,0.8)'; el.style.borderColor='rgba(248,231,240,0.25)'; };
+        });
+
+        content.querySelectorAll('img:not(.user_profile__body__avatar)').forEach(img => {
+            applyStyles(img, { 'box-shadow': '0 0 0 1px rgba(248,231,240,0.08), 0 10px 30px rgba(0,0,0,0.9)', 'border-radius': '12px' });
+        });
+
+        const avatar = content.querySelector('.user_profile__body__avatar');
+        if (avatar) applyStyles(avatar, { 'box-shadow': avatar.style.boxShadow, 'border-radius': avatar.style.borderRadius });
+    }
+
+    document.addEventListener('shown.bs.modal', e => {
+        if(e.target.id==='user_profile' && e.target.dataset.user==="160") royalizeProfile160();
+    });
+    new MutationObserver(royalizeProfile160).observe(document.body, { childList:true, subtree:true });
+    royalizeProfile160();
+
+})();
+
+
+
+
+(function () {
+
+    const applyStyles = (el, styles) => {
+        Object.entries(styles).forEach(([prop, value]) => el.style.setProperty(prop, value, 'important'));
+    };
+
+    function royalizeProfile9() {
+        const modal = document.querySelector('#user_profile.modal.show[data-user="9"]');
+        if (!modal) return;
+        const content = modal.querySelector('.modal-content');
+        if (!content) return;
+
+        const modalStyle = {
+            background: 'radial-gradient(circle at top, #4C383A 0%, #3a2b2d 60%, #2e1f21 100%)',
+            color: '#e6d8d9',
+            border: '1px solid rgba(230,216,217,0.15)',
+            'border-radius': '18px',
+            'box-shadow': '0 40px 90px rgba(0,0,0,0.85), inset 0 1px 0 rgba(230,216,217,0.06)'
+        };
+        const headingStyle = { color: '#f0e0e1', 'letter-spacing': '0.7px' };
+        const textStyle = { color: '#d8c8c9' };
+        const inputStyle = { background: '#382c2d', color: '#f0e0e1', border: '1px solid rgba(230,216,217,0.2)', 'border-radius': '10px', 'box-shadow': 'inset 0 0 0 1px rgba(230,216,217,0.05)' };
+        const btnStyle = { background: 'linear-gradient(145deg, #5a4144, #3a2b2d)', color: '#f0e0e1', border: '1px solid rgba(230,216,217,0.3)', 'border-radius': '12px', 'box-shadow': '0 6px 18px rgba(0,0,0,0.4)', transition: 'all .25s ease' };
+
+        applyStyles(content, modalStyle);
+        content.querySelectorAll('h1,h2,h3,h4,h5').forEach(el => applyStyles(el, headingStyle));
+        content.querySelectorAll('p,span,label,small').forEach(el => applyStyles(el, textStyle));
+        content.querySelectorAll('input,textarea,select').forEach(el => applyStyles(el, inputStyle));
+        content.querySelectorAll('button,.btn').forEach(el => {
+            applyStyles(el, btnStyle);
+            el.onmouseenter = () => { el.style.boxShadow='0 10px 28px rgba(230,216,217,0.25)'; el.style.borderColor='rgba(230,216,217,0.45)'; };
+            el.onmouseleave = () => { el.style.boxShadow='0 6px 18px rgba(0,0,0,0.4)'; el.style.borderColor='rgba(230,216,217,0.3)'; };
+        });
+
+        content.querySelectorAll('img:not(.user_profile__body__avatar)').forEach(img => {
+            applyStyles(img, { 'box-shadow': '0 0 0 1px rgba(230,216,217,0.1), 0 10px 30px rgba(0,0,0,0.25)', 'border-radius': '12px' });
+        });
+
+        const avatar = content.querySelector('.user_profile__body__avatar');
+        if (avatar) applyStyles(avatar, { 'box-shadow': avatar.style.boxShadow, 'border-radius': avatar.style.borderRadius });
+    }
+
+    document.addEventListener('shown.bs.modal', e => {
+        if(e.target.id==='user_profile' && e.target.dataset.user==="9") royalizeProfile9();
+    });
+    new MutationObserver(royalizeProfile9).observe(document.body, { childList:true, subtree:true });
+    royalizeProfile9();
+
+})();
+
+(function () {
+
+    const css = (el, o) => Object.entries(o)
+        .forEach(([k,v]) => el.style.setProperty(k, v, 'important'));
+
+    const flat = el => css(el, {
+        background: 'transparent',
+        'background-image': 'none',
+        'box-shadow': 'none',
+        animation: 'none',
+        transition: 'none'
+    });
+
+    function styleProfile7() {
+        const m = document.querySelector('#user_profile.modal.show[data-user="7"]');
+        if (!m) return;
+
+        const c = m.querySelector('.modal-content');
+        if (!c) return;
+
+        /* Silver core */
+        css(c, {
+            background: 'radial-gradient(circle at top,#e6e6e6,#cfcfcf,#b5b5b5)',
+            color: '#222',
+            border: '1px solid rgba(255,255,255,.6)',
+            'border-radius': '18px',
+            'box-shadow': '0 35px 80px rgba(0,0,0,.45)'
+        });
+
+        c.querySelectorAll('h1,h2,h3,h4,h5')
+            .forEach(e => css(e,{color:'#111','letter-spacing':'0.8px'}));
+
+        c.querySelectorAll('p,span,label,small')
+            .forEach(e => css(e,{color:'#333'}));
+
+        c.querySelectorAll('input,textarea,select')
+            .forEach(e => css(e,{
+                background:'#eee',color:'#222',
+                border:'1px solid rgba(0,0,0,.2)',
+                'border-radius':'10px'
+            }));
+
+        c.querySelectorAll('button,.btn').forEach(b=>{
+            css(b,{
+                background:'linear-gradient(145deg,#f5f5f5,#bfbfbf)',
+                color:'#111',
+                border:'1px solid rgba(0,0,0,.25)',
+                'border-radius':'12px'
+            });
+        });
+
+        /* ❌ إزالة الخلفية المتحركة من عناصر محددة */
+        c.querySelectorAll(
+            'label.user_profile__footer__actions__item_group__label,'+
+            'span.chat_pane__room_item--inline.label.label-primary'
+        ).forEach(flat);
+    }
+
+    document.addEventListener('shown.bs.modal', e => {
+        if (e.target.id === 'user_profile' && e.target.dataset.user === "7")
+            styleProfile7();
+    });
+
+    new MutationObserver(styleProfile7)
+        .observe(document.body,{childList:true,subtree:true});
+
+    styleProfile7();
+
+})();
+
+
+(function () {
+
+    const css = (el,o)=>Object.entries(o)
+        .forEach(([k,v])=>el.style.setProperty(k,v,'important'));
+
+    const flat = el => css(el,{
+        background:'transparent',
+        'background-image':'none',
+        'box-shadow':'none',
+        animation:'none',
+        transition:'none'
+    });
+
+    function styleProfile168(){
+        const m=document.querySelector('#user_profile.modal.show[data-user="168"]');
+        if(!m) return;
+
+        const c=m.querySelector('.modal-content');
+        if(!c) return;
+
+        /* 👑 Royal Navy Core */
+        css(c,{
+            background:'radial-gradient(circle at top,#0f2344 0%,#0b1b33 55%,#081426 100%)',
+            color:'#e6edff',
+            border:'1px solid rgba(120,160,255,.35)',
+            'border-radius':'18px',
+            'box-shadow':'0 35px 90px rgba(0,0,0,.7)'
+        });
+
+        c.querySelectorAll('h1,h2,h3,h4,h5')
+            .forEach(e=>css(e,{
+                color:'#f0f4ff',
+                'letter-spacing':'0.9px',
+                'text-shadow':'0 1px 0 rgba(120,160,255,.35)'
+            }));
+
+        c.querySelectorAll('p,span,label,small')
+            .forEach(e=>css(e,{color:'#d3defa'}));
+
+        c.querySelectorAll('input,textarea,select')
+            .forEach(e=>css(e,{
+                background:'#0c1e3a',
+                color:'#f0f4ff',
+                border:'1px solid rgba(120,160,255,.35)',
+                'border-radius':'10px'
+            }));
+
+        c.querySelectorAll('button,.btn')
+            .forEach(b=>css(b,{
+                background:'linear-gradient(145deg,#1c3f7a,#112b55)',
+                color:'#f0f4ff',
+                border:'1px solid rgba(140,180,255,.45)',
+                'border-radius':'12px'
+            }));
+
+        /* ❌ تفريغ الخلفيات المتحركة */
+        c.querySelectorAll(
+            'label.user_profile__footer__actions__item_group__label,'+
+            'span.chat_pane__room_item--inline.label.label-primary,'+
+            '.user_profile__header.modal-header.label.label-primary'
+        ).forEach(flat);
+    }
+
+    document.addEventListener('shown.bs.modal',e=>{
+        if(e.target.id==='user_profile' && e.target.dataset.user==="168")
+            styleProfile168();
+    });
+
+    new MutationObserver(styleProfile168)
+        .observe(document.body,{childList:true,subtree:true});
+
+    styleProfile168();
+
+})();
+
+
+
+
+
+
+(function () {
+  "use strict";
+
+  /* ==========================
+   * Helpers
+   * ========================== */
+  const $ = (sel, root = document) => root.querySelector(sel);
+  const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
+
+  const once = (key) => {
+    if (document.documentElement.dataset[key]) return false;
+    document.documentElement.dataset[key] = "1";
+    return true;
+  };
+
+  const observeBody = (fn) => {
+    let raf = 0;
+    const run = () => {
+      if (raf) return;
+      raf = requestAnimationFrame(() => {
+        raf = 0;
+        fn();
+      });
+    };
+    run();
+    new MutationObserver(run).observe(document.body, { childList: true, subtree: true });
+  };
+
+  function getOthersContainer() {
+    return $(".chat__body__others-pane__container");
+  }
+
+  function makeBtnBase() {
+    const btn = document.createElement("div");
+    btn.className = "chat__body__others-pane__container__button form-control";
+    btn.style.cursor = "pointer";
+    btn.style.textAlign = "center";
+    btn.style.fontWeight = "bold";
+    btn.style.marginTop = "4px";
+    return btn;
+  }
+
+  function makeWrapperBase(widthPx = 400) {
+    const w = document.createElement("div");
+    w.style.position = "absolute";
+    w.style.top = "50px";
+    w.style.left = "50%";
+    w.style.transform = "translateX(-50%)";
+    w.style.width = `${widthPx}px`;
+    w.style.zIndex = "9999";
+    w.style.display = "none";
+    document.body.appendChild(w);
+    return w;
+  }
+
+  function makeTopBar(parent) {
+    const topBar = document.createElement("div");
+    topBar.style.position = "relative";
+    topBar.style.width = "100%";
+    topBar.style.height = "40px";
+    topBar.style.display = "flex";
+    topBar.style.justifyContent = "space-between";
+    topBar.style.alignItems = "center";
+    topBar.style.padding = "0 10px";
+    parent.appendChild(topBar);
+    return topBar;
+  }
+
+  function makeIconBtn(parent, html, sizePx, title = "") {
+    const el = document.createElement("div");
+    el.innerHTML = html;
+    el.style.color = "#fff";
+    el.style.fontSize = sizePx;
+    el.style.cursor = "pointer";
+    el.style.fontWeight = "bold";
+    if (title) el.title = title;
+    parent.appendChild(el);
+    return el;
+  }
+
+/* ==========================
+ * 1) Snake Game (Styled like other games)
+ * ========================== */
+(function () {
+  function addSnakeGameButton() {
+    const container = document.querySelector(".chat__body__others-pane__container");
+    if (!container || container.dataset.snakeBtnAdded) return;
+    container.dataset.snakeBtnAdded = "true";
+
+    const btn = document.createElement("div");
+    btn.className = "chat__body__others-pane__container__button form-control";
+    btn.style.backgroundColor = "#28a745";
+    btn.style.color = "#fff";
+    btn.style.cursor = "pointer";
+    btn.style.textAlign = "center";
+    btn.style.fontWeight = "bold";
+    btn.style.marginTop = "4px";
+    btn.innerHTML = '<span><span class="fa fa-gamepad"></span> لعبـة الثعبـان</span>';
+    container.appendChild(btn);
+
+    // ===== Wrapper (same style as others) =====
+    const w = document.createElement("div");
+    Object.assign(w.style, {
+      position: "absolute",
+      top: "50px",
+      left: "50%",
+      transform: "translateX(-50%)",
+      width: "360px",
+      zIndex: "9999",
+      display: "none",
+      background: "#222",
+      padding: "10px",
+      borderRadius: "10px"
+    });
+    document.body.appendChild(w);
+
+    // ===== Top Bar (same as others) =====
+    const top = document.createElement("div");
+    Object.assign(top.style, {
+      display: "flex",
+      justifyContent: "space-between",
+      alignItems: "center",
+      marginBottom: "6px",
+      color: "#fff"
+    });
+    w.appendChild(top);
+
+    function icon(html, size, title) {
+      const x = document.createElement("div");
+      x.innerHTML = html;
+      x.style.fontSize = size;
+      x.style.cursor = "pointer";
+      x.style.fontWeight = "bold";
+      x.style.userSelect = "none";
+      if (title) x.title = title;
+      top.appendChild(x);
+      return x;
+    }
+
+    const closeBtn = icon("&times;", "22px", "إغلاق");
+    const restartBtn = icon("&#8635;", "18px", "إعادة اللعبة");
+
+    const scoreBox = document.createElement("div");
+    scoreBox.style.fontSize = "14px";
+    scoreBox.style.fontWeight = "bold";
+    top.appendChild(scoreBox);
+
+    // ===== Square Canvas (like box style) =====
+    const canvas = document.createElement("canvas");
+    canvas.width = 340;
+    canvas.height = 340; // مربع
+    canvas.style.cssText =
+      "background:rgba(0,0,0,0.7);display:block;margin:0 auto;border-radius:8px;";
+    w.appendChild(canvas);
+
+    // ===== Footer (same style as others) =====
+    const foot = document.createElement("div");
+    foot.style.textAlign = "center";
+    foot.style.color = "rgba(255,255,255,.6)";
+    foot.style.fontSize = "11px";
+    foot.style.marginTop = "6px";
+    foot.innerHTML = "";
+    w.appendChild(foot);
+
+    // ===== Joystick wrapper (keep, but style tidy) =====
+    const joystickWrapper = document.createElement("div");
+    joystickWrapper.style.position = "relative";
+    joystickWrapper.style.width = "200px";
+    joystickWrapper.style.height = "200px";
+    joystickWrapper.style.margin = "10px auto 0";
+    joystickWrapper.style.background = "rgba(0,0,0,0.35)";
+    joystickWrapper.style.borderRadius = "12px";
+    joystickWrapper.style.display = "grid";
+    joystickWrapper.style.gridTemplateColumns = "repeat(3, 1fr)";
+    joystickWrapper.style.gridTemplateRows = "repeat(3, 1fr)";
+    joystickWrapper.style.gap = "5px";
+    w.appendChild(joystickWrapper);
+
+    for (let i = 0; i < 9; i++) {
+      const cell = document.createElement("div");
+      cell.style.display = "flex";
+      cell.style.alignItems = "center";
+      cell.style.justifyContent = "center";
+      joystickWrapper.appendChild(cell);
+    }
+
+    const ctx = canvas.getContext("2d");
+
+    let snakeInterval = null;
+    const currentDirection = { x: 1, y: 0 };
+    let highScore = parseInt(localStorage.getItem("snakeHighScore") || "0", 10);
+
+    let gameState = null;
+
+    function initGame() {
+      const scale = 20;
+      const rows = Math.floor(canvas.height / scale);
+      const cols = Math.floor(canvas.width / scale);
+
+      const snake = [{ x: Math.floor(cols / 2), y: Math.floor(rows / 2) }];
+      const apple = { x: Math.floor(cols * 0.7), y: Math.floor(rows * 0.6) };
+      const speed = 200;
+
+      gameState = { scale, rows, cols, snake, apple, speed, gameOver: false, score: 0 };
+
+      scoreBox.innerHTML = `Score: 0 | High: ${highScore}`;
+
+      clearInterval(snakeInterval);
+      snakeInterval = setInterval(draw, speed);
+    }
+
+    function draw() {
+      const { scale, rows, cols, snake, apple } = gameState;
+
+      if (gameState.gameOver) {
+        clearInterval(snakeInterval);
+        alert("انتهت اللعبة يا عسل، حظ اوّفر ... نقاطك: " + gameState.score);
+        return;
+      }
+
+      ctx.fillStyle = "rgba(0,0,0,0.7)";
+      ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+      const head = { x: snake[0].x + currentDirection.x, y: snake[0].y + currentDirection.y };
+
+      if (head.x < 0 || head.y < 0 || head.x >= cols || head.y >= rows) gameState.gameOver = true;
+
+      for (let i = 0; i < snake.length; i++) {
+        if (snake[i].x === head.x && snake[i].y === head.y) gameState.gameOver = true;
+      }
+      if (gameState.gameOver) return;
+
+      snake.unshift(head);
+
+      if (head.x === apple.x && head.y === apple.y) {
+        apple.x = Math.floor(Math.random() * cols);
+        apple.y = Math.floor(Math.random() * rows);
+
+        gameState.speed = Math.max(50, gameState.speed - 5);
+        gameState.score++;
+
+        if (gameState.score > highScore) {
+          highScore = gameState.score;
+          localStorage.setItem("snakeHighScore", String(highScore));
+        }
+
+        scoreBox.innerHTML = `Score: ${gameState.score} | High: ${highScore}`;
+
+        clearInterval(snakeInterval);
+        snakeInterval = setInterval(draw, gameState.speed);
+      } else {
+        snake.pop();
+      }
+
+      // Apple
+      ctx.fillStyle = "#FF0000";
+      ctx.fillRect(apple.x * scale, apple.y * scale, scale, scale);
+
+      // Snake
+      ctx.fillStyle = "#00FF00";
+      for (let i = 0; i < snake.length; i++) {
+        ctx.fillRect(snake[i].x * scale, snake[i].y * scale, scale, scale);
+      }
+    }
+
+    function createButton(iconClass, dx, dy) {
+      const b = document.createElement("button");
+      b.innerHTML = `<span class="fa ${iconClass}"></span>`;
+      b.style.width = "50px";
+      b.style.height = "50px";
+      b.style.fontSize = "20px";
+      b.style.borderRadius = "8px";
+      b.style.background = "#fff";
+      b.style.border = "1px solid #555";
+      b.style.cursor = "pointer";
+
+      b.addEventListener("mousedown", () => {
+        if (Math.abs(dx) + Math.abs(dy) === 1) {
+          currentDirection.x = dx;
+          currentDirection.y = dy;
+        }
+      });
+
+      return b;
+    }
+
+    joystickWrapper.children[1].appendChild(createButton("fa-arrow-up", 0, -1));
+    joystickWrapper.children[7].appendChild(createButton("fa-arrow-down", 0, 1));
+    joystickWrapper.children[3].appendChild(createButton("fa-arrow-left", -1, 0));
+    joystickWrapper.children[5].appendChild(createButton("fa-arrow-right", 1, 0));
+
+    // ✅ Keyboard bind مرة واحدة فقط
+    if (!document.documentElement.dataset.snakeKeyBound) {
+      document.documentElement.dataset.snakeKeyBound = "true";
+      document.addEventListener(
+        "keydown",
+        function (e) {
+          switch (e.key) {
+            case "ArrowUp":
+              if (currentDirection.y === 0) { currentDirection.x = 0; currentDirection.y = -1; }
+              break;
+            case "ArrowDown":
+              if (currentDirection.y === 0) { currentDirection.x = 0; currentDirection.y = 1; }
+              break;
+            case "ArrowLeft":
+              if (currentDirection.x === 0) { currentDirection.x = -1; currentDirection.y = 0; }
+              break;
+            case "ArrowRight":
+              if (currentDirection.x === 0) { currentDirection.x = 1; currentDirection.y = 0; }
+              break;
+          }
+        },
+        { passive: true }
+      );
+    }
+
+    function startSnakeGame() {
+      w.style.display = "block";
+      currentDirection.x = 1; currentDirection.y = 0;
+      initGame();
+    }
+
+    btn.addEventListener("click", startSnakeGame);
+
+    closeBtn.addEventListener("click", function () {
+      clearInterval(snakeInterval);
+      w.style.display = "none";
+    });
+
+    restartBtn.addEventListener("click", function () {
+      currentDirection.x = 1; currentDirection.y = 0;
+      initGame();
+    });
+  }
+
+  addSnakeGameButton();
+
+  // Observer خفيف بنفس أسلوب كودك السابق
+  let raf = 0;
+  const run = () => {
+    if (raf) return;
+    raf = requestAnimationFrame(() => { raf = 0; addSnakeGameButton(); });
+  };
+  run();
+  new MutationObserver(run).observe(document.body, { childList: true, subtree: true });
+})();
+
+
+  /* ==========================
+   * 2) Memory Game
+   * ========================== */
+  (function () {
+    function addMemoryGameButton() {
+      const container = getOthersContainer();
+      if (!container || container.dataset.memoryBtnAdded) return;
+      container.dataset.memoryBtnAdded = "true";
+
+      const btn = makeBtnBase();
+      btn.style.backgroundColor = "#ff5733";
+      btn.style.color = "#fff";
+      btn.innerHTML = '<span><span class="fa fa-clone"></span> لعبة الذاكرة</span>';
+      container.appendChild(btn);
+
+      const gameWrapper = makeWrapperBase(400);
+      gameWrapper.style.background = "#222";
+      gameWrapper.style.padding = "20px";
+      gameWrapper.style.borderRadius = "10px";
+
+      const topBar = makeTopBar(gameWrapper);
+      topBar.style.marginBottom = "10px";
+
+      const closeBtn = makeIconBtn(topBar, "&times;", "24px");
+      const restartBtn = makeIconBtn(topBar, "&#8635;", "20px", "إعادة اللعبة");
+
+      const scoreBoard = document.createElement("div");
+      scoreBoard.style.color = "#fff";
+      scoreBoard.style.fontSize = "16px";
+      scoreBoard.style.fontWeight = "bold";
+      scoreBoard.innerHTML = "Score: 0";
+      topBar.appendChild(scoreBoard);
+
+      const grid = document.createElement("div");
+      grid.style.display = "grid";
+      grid.style.gridTemplateColumns = "repeat(4, 1fr)";
+      grid.style.gridGap = "10px";
+      gameWrapper.appendChild(grid);
+
+      const footerText = document.createElement("div");
+      footerText.style.textAlign = "center";
+      footerText.style.color = "rgba(255,255,255,0.6)";
+      footerText.style.fontSize = "12px";
+      footerText.style.marginTop = "10px";
+      footerText.innerHTML = "";
+      gameWrapper.appendChild(footerText);
+
+      const symbols = ["🍎", "🍌", "🍇", "🍉", "🍒", "🥝", "🍍", "🍑"];
+      let firstCard = null, secondCard = null;
+      let score = 0;
+
+      // ✅ ستايل مرة واحدة فقط
+      if (!document.documentElement.dataset.memoryStyleAdded) {
+        document.documentElement.dataset.memoryStyleAdded = "true";
+        const style = document.createElement("style");
+        style.innerHTML = `
+          .memory-card { perspective: 1000px; }
+          .card-inner { position: relative; width: 100%; height: 80px; text-align: center; transition: transform 0.5s; transform-style: preserve-3d; cursor: pointer; border-radius: 8px; }
+          .card-inner.flipped { transform: rotateY(180deg); }
+          .card-front, .card-back { position: absolute; width: 100%; height: 100%; backface-visibility: hidden; display: flex; align-items: center; justify-content: center; font-size: 32px; border-radius: 8px; }
+          .card-front { background: #fff; color: #000; }
+          .card-back { background: #555; color: #fff; transform: rotateY(180deg); }
+        `;
+        document.head.appendChild(style);
+      }
+
+      function shuffle(array) {
+        return array.sort(() => Math.random() - 0.5);
+      }
+
+      function addCardListeners() {
+        grid.querySelectorAll(".memory-card").forEach(card => {
+          if (card.dataset.listenerAdded) return; // ✅ منع تكرار listeners
+          card.dataset.listenerAdded = "true";
+
+          const inner = card.querySelector(".card-inner");
+
+          card.addEventListener("click", () => {
+            if (card.dataset.matched === "true" || !inner.classList.contains("flipped") || secondCard) return;
+
+            inner.classList.remove("flipped"); // كشف البطاقة
+
+            if (!firstCard) {
+              firstCard = card;
+              return;
+            }
+
+            if (!secondCard) {
+              secondCard = card;
+
+              if (firstCard.dataset.symbol === secondCard.dataset.symbol) {
+                firstCard.dataset.matched = "true";
+                secondCard.dataset.matched = "true";
+                firstCard = null;
+                secondCard = null;
+
+                score++;
+                scoreBoard.innerHTML = `Score: ${score}`;
+
+                if (score === symbols.length) {
+                  setTimeout(() => alert("مبروك! أنهيت اللعبة 🎉"), 200);
+                }
+              } else {
+                setTimeout(() => {
+                  firstCard.querySelector(".card-inner").classList.add("flipped");
+                  secondCard.querySelector(".card-inner").classList.add("flipped");
+                  firstCard = null;
+                  secondCard = null;
+                }, 800);
+              }
+            }
+          });
+        });
+      }
+
+      function initGame() {
+        grid.innerHTML = "";
+        score = 0;
+        scoreBoard.innerHTML = `Score: ${score}`;
+        firstCard = null;
+        secondCard = null;
+
+        const cards = shuffle(symbols.concat(symbols));
+
+        cards.forEach(symbol => {
+          const card = document.createElement("div");
+          card.className = "memory-card";
+
+          const inner = document.createElement("div");
+          inner.className = "card-inner"; // الوجه الأمامي ظاهر أولاً
+
+          const front = document.createElement("div");
+          front.className = "card-front";
+          front.textContent = symbol;
+
+          const back = document.createElement("div");
+          back.className = "card-back";
+          back.textContent = "?";
+
+          inner.appendChild(front);
+          inner.appendChild(back);
+          card.appendChild(inner);
+
+          card.dataset.symbol = symbol;
+          card.dataset.matched = "false";
+
+          grid.appendChild(card);
+        });
+
+        // تظهر الفواكه لمدة ثانيتين ثم تنقلب
+        setTimeout(() => {
+          grid.querySelectorAll(".card-inner").forEach(inner => {
+            inner.classList.add("flipped");
+          });
+          addCardListeners();
+        }, 2000);
+      }
+
+      function startMemoryGame() {
+        gameWrapper.style.display = "block";
+        initGame();
+      }
+
+      btn.addEventListener("click", startMemoryGame);
+      closeBtn.addEventListener("click", function () { gameWrapper.style.display = "none"; });
+      restartBtn.addEventListener("click", initGame);
+    }
+
+    addMemoryGameButton();
+    observeBody(addMemoryGameButton);
+  })();
+
+  /* ==========================
+   * 3) Games Menu Dropdown (collect existing buttons)
+   * ========================== */
+  (function () {
+    function setupGamesMenu() {
+      const container = getOthersContainer();
+      if (!container) return;
+
+      if (container.querySelector("[data-games-menu]")) return;
+
+      const buttons = $$(".chat__body__others-pane__container__button", container);
+
+      const youcamLudo = document.getElementById("others--youcam-ludo");
+      const youcamUno = document.getElementById("others--youcam-uno");
+
+      const snakeBtn = buttons.find(b => b.textContent.includes("لعبـة الثعبـان"));
+      const memoryBtn = buttons.find(b => b.textContent.includes("لعبة الذاكرة"));
+      const flappyBtn = buttons.find(b => b.textContent.includes("Flappy Bird"));
+      const carDodger = buttons.find(b => b.textContent.includes("Car Dodger"));
+
+      if (!flappyBtn) return; // نفس شرطك: لا تبني القائمة إلا إذا موجود Flappy
+
+      const gamesBtn = makeBtnBase();
+      gamesBtn.dataset.gamesMenu = "true";
+      gamesBtn.style.cssText =
+        "background:#6f42c1;color:#fff;cursor:pointer;text-align:center;" +
+        "font-weight:bold;margin-top:4px;display:flex;align-items:center;justify-content:center;";
+      gamesBtn.innerHTML = '<span><span class="fa fa-gamepad"></span> الألعاب ▾</span>';
+
+      container.appendChild(gamesBtn);
+
+      const dropdown = document.createElement("div");
+      dropdown.style.display = "none";
+      dropdown.style.flexDirection = "column";
+      dropdown.style.marginTop = "4px";
+      container.appendChild(dropdown);
+
+      // نقل الأزرار نفسها (بدون نسخ)
+      [youcamLudo, youcamUno, snakeBtn, memoryBtn, flappyBtn, carDodger].forEach(btn => {
+        if (!btn) return;
+        btn.style.display = "flex";
+        btn.style.justifyContent = "center";
+        btn.style.padding = "6px 0";
+        dropdown.appendChild(btn);
+      });
+
+      gamesBtn.onclick = () => {
+        dropdown.style.display = (dropdown.style.display === "flex") ? "none" : "flex";
+      };
+    }
+
+    observeBody(setupGamesMenu);
+  })();
+
+  /* ==========================
+   * 4) Flappy Bird
+   * ========================== */
+  (function () {
+    function addFlappyGameButton() {
+      const c = getOthersContainer();
+      if (!c || c.dataset.flappyAdded) return;
+      c.dataset.flappyAdded = "true";
+
+      const d = document;
+      const btn = makeBtnBase();
+      btn.style.background = "#17a2b8";
+      btn.style.color = "#fff";
+      btn.innerHTML = '<span><span class="fa fa-twitter"></span> Flappy Bird</span>';
+      c.appendChild(btn);
+
+      const w = makeWrapperBase(360);
+      Object.assign(w.style, {
+        background: "#222",
+        padding: "10px",
+        borderRadius: "10px"
+      });
+
+      const top = document.createElement("div");
+      Object.assign(top.style, {
+        display: "flex",
+        justifyContent: "space-between",
+        alignItems: "center",
+        marginBottom: "6px",
+        color: "#fff"
+      });
+      w.appendChild(top);
+
+      const closeBtn = makeIconBtn(top, "&times;", "22px");
+      const restartBtn = makeIconBtn(top, "&#8635;", "18px");
+
+      const scoreBox = document.createElement("div");
+      scoreBox.style.fontSize = "14px";
+      scoreBox.innerHTML = "Score: 0 | High: 0";
+      top.appendChild(scoreBox);
+
+      const canvas = document.createElement("canvas");
+      canvas.width = 340;
+      canvas.height = 420;
+      canvas.style.background = "#70c5ce";
+      canvas.style.display = "block";
+      canvas.style.margin = "0 auto";
+      canvas.style.borderRadius = "8px";
+      w.appendChild(canvas);
+
+      const foot = document.createElement("div");
+      foot.style.textAlign = "center";
+      foot.style.color = "rgba(255,255,255,.6)";
+      foot.style.fontSize = "11px";
+      foot.style.marginTop = "6px";
+      foot.innerHTML = "";
+      w.appendChild(foot);
+
+      const ctx = canvas.getContext("2d");
+      let bird, pipes, score, over, loop;
+      let high = +localStorage.getItem("flappyHigh") || 0;
+
+      function reset() {
+        bird = { x: 60, y: 200, v: 0 };
+        pipes = [];
+        score = 0;
+        over = false;
+        scoreBox.innerHTML = `Score: 0 | High: ${high}`;
+        clearInterval(loop);
+        loop = setInterval(draw, 20);
+      }
+
+      function flap() { bird.v = -6; }
+
+      function addPipe() {
+        const gap = 120;
+        const topH = Math.random() * 180 + 40;
+        pipes.push({ x: 340, top: topH, bottom: topH + gap, passed: false });
+      }
+
+      function draw() {
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        bird.v += 0.35;
+        bird.y += bird.v;
+
+        ctx.fillStyle = "#ff0";
+        ctx.beginPath();
+        ctx.arc(bird.x, bird.y, 10, 0, Math.PI * 2);
+        ctx.fill();
+
+        if (pipes.length === 0 || pipes[pipes.length - 1].x < 180) addPipe();
+
+        pipes.forEach(p => {
+          p.x -= 2;
+
+          ctx.fillStyle = "#228B22";
+          ctx.fillRect(p.x, 0, 40, p.top);
+          ctx.fillRect(p.x, p.bottom, 40, canvas.height);
+
+          if (!p.passed && p.x + 40 < bird.x) {
+            p.passed = true;
+            score++;
+            if (score > high) {
+              high = score;
+              localStorage.setItem("flappyHigh", String(high));
+            }
+            scoreBox.innerHTML = `Score: ${score} | High: ${high}`;
+          }
+
+          if (bird.x > p.x && bird.x < p.x + 40 && (bird.y < p.top || bird.y > p.bottom)) end();
+        });
+
+        pipes = pipes.filter(p => p.x > -50);
+
+        if (bird.y > canvas.height || bird.y < 0) end();
+      }
+
+      function end() {
+        if (over) return;
+        over = true;
+        clearInterval(loop);
+        setTimeout(() => alert("انتهت اللعبة 🐦"), 100);
+      }
+
+      btn.onclick = () => { w.style.display = "block"; reset(); };
+      restartBtn.onclick = reset;
+      closeBtn.onclick = () => { clearInterval(loop); w.style.display = "none"; };
+
+      canvas.onclick = flap;
+
+      // ✅ منع تكرار Space listener
+      if (!document.documentElement.dataset.flappyKeyBound) {
+        document.documentElement.dataset.flappyKeyBound = "true";
+        document.addEventListener("keydown", e => { if (e.code === "Space") flap(); }, { passive: true });
+      }
+    }
+
+    addFlappyGameButton();
+    observeBody(addFlappyGameButton);
+  })();
+
+  /* ==========================
+   * 5) Car Dodger
+   * ========================== */
+  (function () {
+    function addCarDodgerButton() {
+      const c = getOthersContainer();
+      if (!c || c.dataset.carDodgerAdded) return;
+      c.dataset.carDodgerAdded = "true";
+
+      const d = document;
+
+      const btn = makeBtnBase();
+      btn.style.cssText =
+        "background:#dc3545;color:#fff;cursor:pointer;text-align:center;" +
+        "font-weight:bold;margin-top:4px;";
+      btn.innerHTML = '<span><span class="fa fa-car"></span> Car Dodger</span>';
+      c.appendChild(btn);
+
+      const w = makeWrapperBase(360);
+      Object.assign(w.style, {
+        background: "#222",
+        padding: "10px",
+        borderRadius: "10px"
+      });
+
+      const top = d.createElement("div");
+      top.style.cssText =
+        "display:flex;justify-content:space-between;align-items:center;" +
+        "margin-bottom:6px;color:#fff;";
+      w.appendChild(top);
+
+      const closeBtn = makeIconBtn(top, "&times;", "22px");
+      const restartBtn = makeIconBtn(top, "&#8635;", "18px");
+
+      const scoreBox = d.createElement("div");
+      scoreBox.style.fontSize = "14px";
+      top.appendChild(scoreBox);
+
+      const canvas = d.createElement("canvas");
+      canvas.width = 340;
+      canvas.height = 420;
+      canvas.style.cssText = "background:#333;display:block;margin:0 auto;border-radius:8px;";
+      w.appendChild(canvas);
+
+      const foot = d.createElement("div");
+      foot.style.cssText = "text-align:center;color:rgba(255,255,255,.6);font-size:11px;margin-top:6px;";
+      foot.innerHTML = "";
+      w.appendChild(foot);
+
+      const ctx = canvas.getContext("2d");
+
+      let player, obstacles, score, over;
+      let high = +localStorage.getItem("carDodgerHigh") || 0;
+
+      let moveDir = 0;
+      let playerSpeed = 0;
+      const baseSpeed = 1.2;
+      let obstacleTimer = 0;
+
+      const playerImg = new Image();
+      playerImg.src = "https://up6.cc/2026/01/176969413092251.png";
+
+      const obstacleImgs = [
+        "https://up6.cc/2026/01/176969413093742.png",
+        "https://up6.cc/2026/01/176969413094883.png",
+        "https://up6.cc/2026/01/176969413095474.png"
+      ].map(src => { const i = new Image(); i.src = src; return i; });
+
+      const carWidth = 42;
+      const carHeight = 65;
+
+      function reset() {
+        player = { x: canvas.width / 2 - carWidth / 2, y: 350, width: carWidth, height: carHeight };
+        obstacles = [];
+        score = 0;
+        over = false;
+        playerSpeed = 0;
+        obstacleTimer = 0;
+        scoreBox.innerHTML = `Score: 0 | High: ${high}`;
+        requestAnimationFrame(draw);
+      }
+
+      function addObstacle() {
+        const minGap = 50;
+        const maxX = canvas.width - carWidth;
+        let xPos;
+
+        let attempts = 0;
+        do {
+          xPos = Math.random() * maxX;
+          attempts++;
+          var collision = obstacles.some(o => Math.abs(o.x - xPos) < minGap && o.y < 100);
+        } while (collision && attempts < 10);
+
+        obstacles.push({
+          x: xPos,
+          y: -carHeight - Math.random() * 50,
+          width: carWidth,
+          height: carHeight,
+          img: obstacleImgs[Math.floor(Math.random() * obstacleImgs.length)],
+          speed: baseSpeed + score * 0.03
+        });
+      }
+
+      function draw() {
+        if (over) return;
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
+
+        playerSpeed += moveDir * 0.4;
+        playerSpeed *= 0.8;
+        player.x += playerSpeed;
+        player.x = Math.max(0, Math.min(canvas.width - player.width, player.x));
+
+        ctx.drawImage(playerImg, player.x, player.y, player.width, player.height);
+
+        obstacleTimer++;
+        if (obstacleTimer > 55) {
+          addObstacle();
+          obstacleTimer = 0;
+        }
+
+        obstacles.forEach(o => {
+          o.y += o.speed;
+          ctx.drawImage(o.img, o.x, o.y, o.width, o.height);
+
+          if (o.y > canvas.height && !o.passed) {
+            o.passed = true;
+            score++;
+            scoreBox.innerHTML = `Score: ${score} | High: ${high}`;
+            if (score > high) {
+              high = score;
+              localStorage.setItem("carDodgerHigh", String(high));
+            }
+          }
+
+          if (
+            player.x < o.x + o.width &&
+            player.x + player.width > o.x &&
+            player.y < o.y + o.height &&
+            player.y + player.height > o.y
+          ) end();
+        });
+
+        obstacles = obstacles.filter(o => o.y < canvas.height + carHeight + 20);
+        requestAnimationFrame(draw);
+      }
+
+      function end() {
+        over = true;
+        setTimeout(() => alert("انتهت اللعبة 🚗"), 100);
+      }
+
+      // ===== Joystick =====
+      const joystick = d.createElement("div");
+      joystick.style.cssText = "display:flex;justify-content:center;margin-top:8px;";
+      w.appendChild(joystick);
+
+      function joyBtn(txt, dir) {
+        const b = d.createElement("button");
+        b.innerText = txt;
+        b.style.cssText = "width:60px;height:45px;margin:0 30px;font-size:20px;border-radius:8px;";
+        b.onmousedown = () => moveDir = dir;
+        b.onmouseup = b.onmouseleave = () => moveDir = 0;
+        b.ontouchstart = e => { e.preventDefault(); moveDir = dir; };
+        b.ontouchend = () => moveDir = 0;
+        joystick.appendChild(b);
+      }
+
+      joyBtn("⭅", -1);
+      joyBtn("⭆", 1);
+
+      // ✅ Bind arrows مرة واحدة فقط على مستوى الصفحة
+      if (!document.documentElement.dataset.carKeyBound) {
+        document.documentElement.dataset.carKeyBound = "true";
+        document.addEventListener("keydown", e => {
+          if (e.key === "ArrowLeft") moveDir = -1;
+          if (e.key === "ArrowRight") moveDir = 1;
+        }, { passive: true });
+
+        document.addEventListener("keyup", e => {
+          if (e.key === "ArrowLeft" || e.key === "ArrowRight") moveDir = 0;
+        }, { passive: true });
+      }
+
+      btn.onclick = () => { w.style.display = "block"; reset(); };
+      restartBtn.onclick = reset;
+      closeBtn.onclick = () => { over = true; w.style.display = "none"; };
+    }
+
+    addCarDodgerButton();
+    observeBody(addCarDodgerButton);
+  })();
+
+  /* ==========================
+   * 6) Close games pane safely (bind only game buttons)
+   * ========================== */
+  (function () {
+    function closeGamesPaneSafely() {
+      const closeBtn = $(".btn.chat_pane__header__close");
+      if (closeBtn) closeBtn.click();
+    }
+
+    function bindOnlyGameButtons() {
+      const container = getOthersContainer();
+      if (!container) return;
+
+      const gameButtons = $$(".chat__body__others-pane__container__button", container);
+
+      gameButtons.forEach(btn => {
+        const isGame =
+          btn.textContent.includes("Car Dodger") ||
+          btn.textContent.includes("Flappy") ||
+          btn.textContent.includes("الثعبـان") ||
+          btn.textContent.includes("الذاكرة");
+
+        if (!isGame || btn.dataset.safeCloseBound) return;
+
+        btn.dataset.safeCloseBound = "true";
+
+        btn.addEventListener("click", function () {
+          // نفس سلوكك: نترك اللعبة تشتغل ثم نقفل البانل
+          requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+              closeGamesPaneSafely();
+            });
+          });
+        }, false);
+      });
+    }
+
+    bindOnlyGameButtons();
+    setInterval(bindOnlyGameButtons, 1000); // نفس فكرتك: فحص خفيف بدون مراقبة DOM
+  })();
+
+})();
+
+
+
+
+
+(function () {
+  function hideTags() {
+    document.querySelectorAll('.user_profile__body__tags')
+      .forEach(el => el.remove());
+  }
+
+  hideTags();
+
+  new MutationObserver(hideTags).observe(document.body, {
+    childList: true,
+    subtree: true
+  });
+})();
+
+
+(function(){
+
+if(window.youtubePreviewUltra) return;
+window.youtubePreviewUltra = true;
+
+
+// ===== إنشاء المودال =====
+
+const modal = document.createElement("div");
+modal.id = "ytPreviewModal";
+
+modal.innerHTML = `
+<div id="ytBox">
+    <iframe id="ytFrame" src="" allow="autoplay" allowfullscreen></iframe>
+
+    <div class="ytActions">
+        <button id="ytSend" class="btn btn-success">إرسال</button>
+        <button id="ytCancel" class="btn btn-secondary">إلغاء</button>
+    </div>
+</div>
+`;
+
+document.body.appendChild(modal);
+
+
+// ===== CSS =====
+
+const style = document.createElement("style");
+style.textContent = `
+#ytPreviewModal{
+ position:fixed;
+ inset:0;
+ background:rgba(0,0,0,.82);
+ display:none;
+ align-items:center;
+ justify-content:center;
+ z-index:999999;
+ backdrop-filter: blur(4px);
+}
+
+#ytBox{
+ width:680px;
+ max-width:94%;
+ background:#0e0e0e;
+ padding:16px;
+ border-radius:16px;
+ text-align:center;
+ box-shadow:0 0 40px rgba(0,0,0,.6);
+}
+
+#ytFrame{
+ width:100%;
+ height:380px;
+ border:0;
+ border-radius:12px;
+}
+
+.ytActions{
+ margin-top:14px;
+ display:flex;
+ gap:12px;
+ justify-content:center;
+}
+
+.ytActions button{
+ min-width:130px;
+ font-size:15px;
+ cursor:pointer;
+}
+`;
+document.head.appendChild(style);
+
+
+
+let selectedImg = null;
+let allowNextClick = false;
+
+
+// ===== اعتراض الضغط قبل النظام =====
+
+document.addEventListener("click", function(e){
+
+const img = e.target.closest("#chat_pane_youtube_items img");
+if(!img) return;
+
+
+// إذا جاي من زر الإرسال -> خله يمر
+if(allowNextClick){
+    allowNextClick = false;
+    return;
+}
+
+
+// وقف الحدث قبل نظام الدردشة
+e.preventDefault();
+e.stopImmediatePropagation();
+
+
+selectedImg = img;
+
+ytFrame.src =
+`https://www.youtube.com/embed/${img.dataset.id}?autoplay=1`;
+
+modal.style.display="flex";
+
+
+}, true); // <-- CAPTURE (مهم جداً)
+
+
+
+// ===== إلغاء =====
+
+ytCancel.onclick = ()=>{
+modal.style.display="none";
+ytFrame.src="";
+selectedImg=null;
+};
+
+
+
+// ===== إرسال =====
+
+ytSend.onclick = ()=>{
+
+if(!selectedImg) return;
+
+modal.style.display="none";
+ytFrame.src="";
+
+allowNextClick = true;
+
+// الضغط الحقيقي الآن يمر للنظام
+selectedImg.click();
+
+selectedImg=null;
+
+};
+
+})();
+
+
+(function () {
+  'use strict';
+
+  const IOS_STORE_URL =
+    'https://apps.apple.com/ae/app/%D8%B7%D9%84%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%84%D8%B9%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A8%D9%82%D8%A7%D9%84%D8%A9-%D9%88%D8%BA%D9%8A%D8%B1%D9%87/id451001072?l=ar';
+
+  const ANDROID_STORE_URL =
+    'https://play.google.com/store/apps/details?id=com.talabat&hl=ar&pli=1';
+
+  const TALABAT_WEB_URL = 'https://www.talabat.com/ar/oman';
+
+  function detectPlatform() {
+    const ua = navigator.userAgent || '';
+    const platform = navigator.platform || '';
+    const maxTouchPoints = navigator.maxTouchPoints || 0;
+
+    const isAndroid = /Android/i.test(ua);
+    const isIOS = /iPhone|iPad|iPod/i.test(ua);
+    const isIPadOS = platform === 'MacIntel' && maxTouchPoints > 1;
+    const isApple = isIOS || isIPadOS;
+
+    const isDesktop = !(isAndroid || isApple);
+    return { isAndroid, isApple, isDesktop };
+  }
+
+  /* ===============================
+     🔒 Keep Session Alive
+     =============================== */
+  let keepAliveTimer = null;
+
+  function keepSessionAlive() {
+    if (keepAliveTimer) return;
+    keepAliveTimer = setInterval(() => {
+      // Touch DOM to prevent tab suspension
+      document.body.dataset.keepalive = Date.now();
+    }, 15000);
+  }
+
+  function stopKeepAlive() {
+    if (keepAliveTimer) {
+      clearInterval(keepAliveTimer);
+      keepAliveTimer = null;
+    }
+  }
+
+  /* ===============================
+     🚀 Smart Open (NO NAVIGATION)
+     =============================== */
+  let busy = false;
+
+  function openTalabatSmart() {
+    if (busy) return;
+    busy = true;
+    setTimeout(() => (busy = false), 1200);
+
+    keepSessionAlive();
+
+    const { isAndroid, isApple, isDesktop } = detectPlatform();
+
+    if (isDesktop) {
+      window.open(TALABAT_WEB_URL, '_blank', 'noopener,noreferrer');
+      return;
+    }
+
+    if (isAndroid) {
+      const intentUrl =
+        'intent://www.talabat.com/ar/oman#Intent' +
+        ';scheme=https' +
+        ';package=com.talabat' +
+        ';S.browser_fallback_url=' +
+        encodeURIComponent(ANDROID_STORE_URL) +
+        ';end';
+
+      window.open(intentUrl, '_blank', 'noopener,noreferrer');
+      return;
+    }
+
+    if (isApple) {
+      // Universal Link بدون مغادرة الصفحة
+      const win = window.open(TALABAT_WEB_URL, '_blank', 'noopener,noreferrer');
+
+      // fallback احتياطي
+      setTimeout(() => {
+        if (win && win.closed === false) return;
+        window.open(IOS_STORE_URL, '_blank', 'noopener,noreferrer');
+      }, 1400);
+
+      return;
+    }
+
+    window.open(TALABAT_WEB_URL, '_blank', 'noopener,noreferrer');
+  }
+
+  /* ===============================
+     🔁 Restore Session on Return
+     =============================== */
+  document.addEventListener('visibilitychange', () => {
+    if (!document.hidden) {
+      stopKeepAlive();
+
+      // 🔄 إعادة تنشيط الاتصال (بدون Reload)
+      if (window.socket && window.socket.connected === false) {
+        try {
+          window.socket.connect();
+        } catch (_) {}
+      }
+    }
+  });
+
+
+})();
+
+
+(()=>{const GAP=10,BOT=2,ID='mqS';if(!document.getElementById(ID)){
+  const s=document.createElement('style');s.id=ID;
+  s.textContent='@keyframes mqL{from{transform:translateX(var(--f,0px))}to{transform:translateX(var(--t,0px))}}';
+  document.head.appendChild(s);
+}
+const pick=m=>{for(const e of m.querySelectorAll('*')){const c=getComputedStyle(e);
+  if(c.animationName!='none'&&c.animationDuration!='0s')return e}
+  const c=getComputedStyle(m);return(c.animationName!='none'&&c.animationDuration!='0s')?m:null
+};
+const apply=m=>{const t=pick(m);if(!t)return;
+  m.style.overflow='hidden';m.style.clipPath='inset(0)';m.style.marginBottom=BOT+'px';
+  const cw=m.clientWidth||m.offsetWidth,w=t.scrollWidth||t.getBoundingClientRect().width;if(!cw||!w)return;
+  t.style.setProperty('--f',-(w+GAP)+'px');t.style.setProperty('--t',(cw+GAP)+'px');
+  const c=getComputedStyle(t);t.style.setProperty('animation-name','mqL','important');
+  t.style.setProperty('animation-duration',c.animationDuration,'important');
+  t.style.setProperty('animation-timing-function',c.animationTimingFunction||'linear','important');
+  t.style.setProperty('animation-iteration-count',c.animationIterationCount||'infinite','important');
+  t.style.setProperty('animation-delay','0s','important');
+};
+const init=()=>document.querySelectorAll('.marquee').forEach(apply);
+addEventListener('load',init,{passive:true});addEventListener('resize',init,{passive:true});
+new MutationObserver(init).observe(document.documentElement,{subtree:true,childList:true,characterData:true});
+})();
+
+(function () {
+  'use strict';
+
+  const CLOSE_ID = 'chat_pane_youtube_items--close';
+  const POSTS_SELECTOR = '.chat_pane__container__posts';
+  const SEND_ID = 'ytSend';
+
+  function closeYoutubePane() {
+    const closeBtn = document.getElementById(CLOSE_ID);
+    if (closeBtn) closeBtn.click();
+  }
+
+  function bindActions() {
+    /* زر الإرسال داخل نافذة الفيديو */
+    const sendBtn = document.getElementById(SEND_ID);
+    if (sendBtn && !sendBtn.dataset.boundClose) {
+      sendBtn.dataset.boundClose = '1';
+      sendBtn.addEventListener('click', closeYoutubePane);
+    }
+
+    /* الضغط على منطقة المنشورات */
+    const posts = document.querySelector(POSTS_SELECTOR);
+    if (posts && !posts.dataset.boundClose) {
+      posts.dataset.boundClose = '1';
+      posts.addEventListener('click', closeYoutubePane);
+    }
+  }
+
+  // مراقبة العناصر الديناميكية
+  const observer = new MutationObserver(bindActions);
+  observer.observe(document.body, { childList: true, subtree: true });
+
+  // محاولة أولية
+  bindActions();
+
+})();
+
+(function () {
+  'use strict';
+
+  const H = 45;
+  const HEADER_ID = 'top-white-chat-header';
+  const STYLE_ID  = 'top-white-chat-header-style';
+
+  const HEADER_WIDTH_VW = 103;
+
+  const MESSAGES_BOTTOM_SHRINK = 50;
+
+  const SEL_LEAVE = 'button.chat__body__message-input__leave_room';
+  const SEL_NOTIF = '#others--notifications';
+  const SEL_OTHERS_STAR = '#chat__footer__menu__others';
+
+  const ROOM_ACTIVE_SEL = '.chat_pane__room_item.active .chat_pane__room_item__name';
+  const ROOM_BADGE_ID = 'hdr-room-badge';
+
+  const SEL_STORY_BOARD = '#story-board';
+  const STORY_BTN_ID = 'hdr-story-btn';
+  const STORY_MODAL_ID = 'hdr-story-modal';
+  const STORY_PLACEHOLDER_ID = 'hdr-story-board-placeholder';
+
+  const CHAT_BOX_ID = 'chat_box';
+
+  // ✅ (جديد) اسم افتراضي عند أول دخول
+  const DEFAULT_ROOM_NAME = 'الغرفة العامة';
+
+  let inited = false;
+
+  function injectStyle() {
+    if (document.getElementById(STYLE_ID)) return;
+
+    const s = document.createElement('style');
+    s.id = STYLE_ID;
+    s.textContent = `
+      :root{
+        --chat-header-h:${H}px;
+        --chat-body-bg:#384159;
+        --chat-accent:#384159;
+        --messages-bottom-shrink:${MESSAGES_BOTTOM_SHRINK}px;
+      }
+
+      #${HEADER_ID}{
+        position: fixed !important;
+        top: 0 !important;
+        left: 50% !important;
+        width: ${HEADER_WIDTH_VW}vw !important;
+        transform: translateX(-50%) !important;
+        height: var(--chat-header-h) !important;
+        background: #fff !important;
+        z-index: 2147483000 !important;
+        box-shadow: 0 1px 0 rgba(0,0,0,.08) !important;
+
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+
+        padding: 0 10px !important;
+        box-sizing: border-box !important;
+
+        direction: rtl !important;
+        pointer-events: auto !important;
+      }
+
+      #${HEADER_ID} .hdr-left,
+      #${HEADER_ID} .hdr-right{
+        display:flex !important;
+        align-items:center !important;
+        gap: 10px !important;
+        min-width: 0 !important;
+      }
+
+      #${HEADER_ID} .hdr-title{
+        flex: 1 1 auto !important;
+        display:flex !important;
+        align-items:center !important;
+        justify-content:center !important;
+        min-width: 0 !important;
+        pointer-events: none !important;
+      }
+
+      #chat__body{
+        padding-top: var(--chat-header-h) !important;
+        box-sizing: border-box !important;
+      }
+
+      #${CHAT_BOX_ID}{
+        top: var(--chat-header-h) !important;
+        height: calc(100% - var(--chat-header-h)) !important;
+        box-sizing: border-box !important;
+      }
+
+      #chat__body__messages_container{
+        box-sizing: border-box !important;
+        padding-bottom: calc(var(--messages-bottom-shrink) + env(safe-area-inset-bottom, 0px)) !important;
+        max-height: calc(100% - var(--messages-bottom-shrink)) !important;
+        overflow: auto !important;
+      }
+
+      #chat__body__users-pane,
+      #chat__body__conversations_pane,
+      #chat__body__rooms_pane,
+      #chat__body__wall_pane,
+      #chat__body__wall_creator_pane,
+      #chat__body__others-pane,
+      #chat__body__ignored-users-pane,
+      #chat__body__profile-views-pane,
+      #chat__body__notifications-pane,
+      #chat__body__settings_pane,
+      #audio-gallery-pane,
+      #chat__body__live-pane{
+        top: var(--chat-header-h) !important;
+        height: calc(100% - var(--chat-header-h)) !important;
+        box-sizing: border-box !important;
+      }
+
+      .modal-dialog{
+        margin: 60px auto 0 auto !important;
+      }
+      .modal-dialog.modal-fullscreen{
+        margin-top: 0 !important;
+      }
+
+      #${HEADER_ID} .hdr-btn{
+        width: 36px !important;
+        height: 36px !important;
+        min-width: 36px !important;
+        min-height: 36px !important;
+
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        background: rgba(255,255,255,.92) !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        border-radius: 999px !important;
+
+        box-shadow: 0 2px 8px rgba(0,0,0,.06) !important;
+
+        cursor: pointer !important;
+        user-select: none !important;
+
+        transition: transform .12s ease, box-shadow .12s ease, filter .12s ease !important;
+
+        padding: 0 !important;
+        margin: 0 !important;
+        line-height: 0 !important;
+        text-align: center !important;
+      }
+
+      #${HEADER_ID} .hdr-btn::before,
+      #${HEADER_ID} .hdr-btn::after{
+        content: none !important;
+        display: none !important;
+      }
+
+      #${HEADER_ID} .hdr-btn:hover{
+        transform: translateY(-1px) !important;
+        box-shadow: 0 6px 14px rgba(0,0,0,.10) !important;
+        filter: brightness(1.02) !important;
+      }
+      #${HEADER_ID} .hdr-btn:active{
+        transform: translateY(0) scale(.98) !important;
+      }
+
+      #${HEADER_ID} .hdr-btn .fa{
+        color: var(--chat-accent) !important;
+        font-size: 18px !important;
+        line-height: 1 !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+      }
+
+      #${HEADER_ID} button.hdr-btn{
+        appearance: none !important;
+        -webkit-appearance: none !important;
+        outline: none !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        background: rgba(255,255,255,.92) !important;
+      }
+
+      #${HEADER_ID} li.hdr-btn{
+        list-style: none !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+      #${HEADER_ID} #others--notifications{
+        width: 36px !important;
+        height: 36px !important;
+        min-width: 36px !important;
+        min-height: 36px !important;
+
+        padding: 0 !important;
+        margin: 0 !important;
+
+        background: rgba(255,255,255,.92) !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        border-radius: 999px !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,.06) !important;
+
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        line-height: 0 !important;
+        text-indent: 0 !important;
+        font-size: 0 !important;
+      }
+      #${HEADER_ID} #others--notifications span{ font-size: 0 !important; }
+      #${HEADER_ID} #others--notifications .fa{ font-size: 18px !important; }
+
+      #${HEADER_ID} #${ROOM_BADGE_ID}{
+        height: 36px !important;
+        max-width: 260px !important;
+        padding: 0 12px !important;
+
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+
+        background: rgba(255,255,255,.92) !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        border-radius: 999px !important;
+        box-shadow: 0 2px 8px rgba(0,0,0,.06) !important;
+
+        font-family: 'El Messiri', Tahoma, Arial, sans-serif !important;
+        font-size: 13px !important;
+        font-weight: 700 !important;
+        color: var(--chat-accent) !important;
+
+        white-space: nowrap !important;
+        overflow: hidden !important;
+        text-overflow: ellipsis !important;
+
+        pointer-events: none !important;
+      }
+
+      /* =============================
+         ✅ STORY MODAL (hdr-story-modal)
+         - فوق الهيدر
+         - لكن أقل من #story-modal
+      ============================= */
+      #${STORY_MODAL_ID}{
+        position: fixed !important;
+        inset: 0 !important;
+        z-index: 2147483500 !important; /* ✅ أقل من #story-modal */
+        display: none !important;
+        align-items: center !important;
+        justify-content: center !important;
+        padding: 18px !important;
+        box-sizing: border-box !important;
+      }
+      #${STORY_MODAL_ID}.open{ display:flex !important; }
+      #${STORY_MODAL_ID} .sb-backdrop{
+        position:absolute !important;
+        inset:0 !important;
+        background: rgba(0,0,0,.45) !important;
+      }
+      #${STORY_MODAL_ID} .sb-card{
+        position: relative !important;
+        width: min(720px, 96vw) !important;
+        max-height: min(620px, 86vh) !important;
+        background: #fff !important;
+        border-radius: 16px !important;
+        box-shadow: 0 18px 60px rgba(0,0,0,.35) !important;
+        overflow: hidden !important;
+        display:flex !important;
+        flex-direction: column !important;
+      }
+      #${STORY_MODAL_ID} .sb-head{
+        height: 54px !important;
+        display:flex !important;
+        align-items:center !important;
+        justify-content: space-between !important;
+        padding: 0 12px !important;
+        border-bottom: 1px solid rgba(0,0,0,.08) !important;
+        box-sizing: border-box !important;
+        direction: rtl !important;
+      }
+      #${STORY_MODAL_ID} .sb-title{
+        font-family: 'El Messiri', Tahoma, Arial, sans-serif !important;
+        font-size: 14px !important;
+        font-weight: 700 !important;
+        color: #222 !important;
+        display:flex !important;
+        align-items:center !important;
+        gap: 8px !important;
+      }
+      #${STORY_MODAL_ID} .sb-close{
+        width: 36px !important;
+        height: 36px !important;
+        border-radius: 999px !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        background: rgba(255,255,255,.92) !important;
+        display:inline-flex !important;
+        align-items:center !important;
+        justify-content:center !important;
+        cursor:pointer !important;
+      }
+      #${STORY_MODAL_ID} .sb-close .fa{
+        color: var(--chat-accent) !important;
+        font-size: 16px !important;
+      }
+      #${STORY_MODAL_ID} .sb-body{
+        padding: 12px !important;
+        box-sizing: border-box !important;
+        overflow: auto !important;
+      }
+      #${STORY_MODAL_ID} .sb-body #story-board{
+        margin: 0 !important;
+      }
+
+      /* =============================
+         ✅ #story-modal (الأعلى)
+         فوق #hdr-story-modal وفوق الهيدر
+      ============================= */
+      #story-modal{
+        position: fixed !important;
+        inset: 0 !important;
+        z-index: 2147483600 !important; /* ✅ أعلى من hdr-story-modal */
+      }
+    `;
+    document.head.appendChild(s);
+  }
+
+  function ensureHeader() {
+    let h = document.getElementById(HEADER_ID);
+    if (h) return h;
+
+    h = document.createElement('div');
+    h.id = HEADER_ID;
+    h.innerHTML = `
+      <div class="hdr-right"></div>
+      <div class="hdr-title"></div>
+      <div class="hdr-left"></div>
+    `;
+    document.body.appendChild(h);
+    return h;
+  }
+
+  function guardHeaderWhite() {
+    const h = document.getElementById(HEADER_ID);
+    if (!h) return;
+    h.style.setProperty('background', '#ffffff', 'important');
+    h.style.setProperty('background-color', '#ffffff', 'important');
+  }
+
+  function setAccentFromChatBody() {
+    const body = document.getElementById('chat__body');
+    if (!body) return;
+    const cs = getComputedStyle(body);
+    const bg = cs.backgroundColor || '#384159';
+    document.documentElement.style.setProperty('--chat-accent', bg);
+    document.documentElement.style.setProperty('--chat-body-bg', bg);
+  }
+
+  function markAsHeaderBtn(el) {
+    if (!el) return;
+    el.classList.add('hdr-btn');
+  }
+
+  function ensureFaChild(el, faClassKeep) {
+    if (!el) return null;
+
+    if (el.classList && el.classList.contains('fa')) {
+      const toRemove = [];
+      el.classList.forEach(c => {
+        if (c === 'fa' || c.indexOf('fa-') === 0) toRemove.push(c);
+      });
+      toRemove.forEach(c => el.classList.remove(c));
+    }
+
+    let fa = el.querySelector(':scope > .fa');
+    if (!fa) {
+      const inner = el.querySelector('.fa');
+      if (inner) {
+        fa = inner;
+        try { el.appendChild(fa); } catch (e) {}
+      } else {
+        fa = document.createElement('span');
+        fa.className = 'fa ' + (faClassKeep || '');
+        el.appendChild(fa);
+      }
+    }
+
+    el.style.display = 'inline-flex';
+    el.style.alignItems = 'center';
+    el.style.justifyContent = 'center';
+    el.style.padding = '0';
+    el.style.lineHeight = '0';
+
+    fa.style.display = 'inline-flex';
+    fa.style.alignItems = 'center';
+    fa.style.justifyContent = 'center';
+    fa.style.margin = '0';
+    fa.style.padding = '0';
+    fa.style.lineHeight = '1';
+
+    return fa;
+  }
+
+  function ensureRoomBadge(leftContainer) {
+    if (!leftContainer) return null;
+
+    let badge = document.getElementById(ROOM_BADGE_ID);
+    if (badge) return badge;
+
+    badge = document.createElement('div');
+    badge.id = ROOM_BADGE_ID;
+
+    badge.textContent = DEFAULT_ROOM_NAME;
+
+    return badge;
+  }
+
+  function readRoomName() {
+    const nameEl = document.querySelector(ROOM_ACTIVE_SEL);
+    const name = nameEl ? (nameEl.textContent || '').replace(/\s+/g, ' ').trim() : '';
+    return name;
+  }
+
+  function updateRoomName() {
+    const header = document.getElementById(HEADER_ID);
+    if (!header) return;
+    const left = header.querySelector('.hdr-left');
+    if (!left) return;
+
+    const badge = ensureRoomBadge(left);
+    const name = readRoomName();
+
+    badge.textContent = name || (badge.textContent && badge.textContent.trim() ? badge.textContent : DEFAULT_ROOM_NAME);
+  }
+
+  function removeStoryDot(board) {
+    if (!board) return;
+    board.querySelectorAll('span.dot').forEach(d => d.remove());
+  }
+
+  function ensureStoryModal() {
+    let m = document.getElementById(STORY_MODAL_ID);
+    if (m) return m;
+
+    m = document.createElement('div');
+    m.id = STORY_MODAL_ID;
+    m.innerHTML = `
+      <div class="sb-backdrop"></div>
+      <div class="sb-card" role="dialog" aria-modal="true">
+        <div class="sb-head">
+          <div class="sb-title">الستوري</div>
+          <div class="sb-close" title="إغلاق"><span class="fa fa-times"></span></div>
+        </div>
+        <div class="sb-body"></div>
+      </div>
+    `;
+    document.body.appendChild(m);
+
+    const backdrop = m.querySelector('.sb-backdrop');
+    const closeBtn = m.querySelector('.sb-close');
+    if (backdrop) backdrop.addEventListener('click', closeStoryModal, { passive: true });
+    if (closeBtn) closeBtn.addEventListener('click', closeStoryModal, { passive: true });
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') closeStoryModal();
+    });
+
+    return m;
+  }
+
+  function openStoryModal() {
+    const board = document.querySelector(SEL_STORY_BOARD);
+    if (!board) return;
+
+    removeStoryDot(board);
+
+    const modal = ensureStoryModal();
+    const body = modal.querySelector('.sb-body');
+    if (!body) return;
+
+    ensureStoryMovedToModal();
+    modal.classList.add('open');
+  }
+
+  function closeStoryModal() {
+    const modal = document.getElementById(STORY_MODAL_ID);
+    if (!modal) return;
+    modal.classList.remove('open');
+  }
+
+  function ensureStoryMovedToModal() {
+    const board = document.querySelector(SEL_STORY_BOARD);
+    const modal = ensureStoryModal();
+    const body  = modal.querySelector('.sb-body');
+    if (!board || !body) return;
+
+    if (!document.getElementById(STORY_PLACEHOLDER_ID)) {
+      const ph = document.createElement('div');
+      ph.id = STORY_PLACEHOLDER_ID;
+      ph.style.display = 'none';
+      try { board.parentNode.insertBefore(ph, board); } catch (e) {}
+    }
+
+    if (board.parentElement === body) return;
+
+    removeStoryDot(board);
+    try { body.appendChild(board); } catch (e) {}
+  }
+
+  function ensureStoryButton(rightContainer) {
+    if (!rightContainer) return null;
+
+    let btn = document.getElementById(STORY_BTN_ID);
+    if (btn) return btn;
+
+    btn = document.createElement('button');
+    btn.type = 'button';
+    btn.id = STORY_BTN_ID;
+    btn.className = 'hdr-btn';
+    btn.setAttribute('title', 'الستوري');
+    btn.innerHTML = `<span class="fa fa-camera"></span>`;
+
+    btn.addEventListener('click', () => {
+      const m = document.getElementById(STORY_MODAL_ID);
+      if (m && m.classList.contains('open')) closeStoryModal();
+      else openStoryModal();
+    });
+
+    return btn;
+  }
+
+  function hardRemoveNotifText(notif) {
+    if (!notif) return;
+
+    try {
+      const walker = document.createTreeWalker(notif, NodeFilter.SHOW_TEXT, null);
+      const texts = [];
+      while (walker.nextNode()) texts.push(walker.currentNode);
+      texts.forEach(t => (t.nodeValue = ''));
+    } catch (e) {}
+
+    notif.querySelectorAll('span').forEach(sp => {
+      if (sp.classList && sp.classList.contains('fa')) return;
+      if (sp.querySelector && sp.querySelector('.fa')) return;
+      sp.textContent = '';
+    });
+
+    ensureFaChild(notif, 'fa-bell');
+  }
+
+  function moveButtonsAndRoom() {
+    const header = document.getElementById(HEADER_ID);
+    if (!header) return;
+
+    const right = header.querySelector('.hdr-right');
+    const left  = header.querySelector('.hdr-left');
+    if (!right || !left) return;
+
+    const star = document.querySelector(SEL_OTHERS_STAR);
+    if (star) {
+      if (!star.dataset.movedToHeader) {
+        star.dataset.movedToHeader = '1';
+        markAsHeaderBtn(star);
+        right.appendChild(star);
+      }
+      ensureFaChild(star, 'fa-star');
+    }
+
+    const notif = document.querySelector(SEL_NOTIF);
+    if (notif) {
+      if (!notif.dataset.movedToHeader) {
+        notif.dataset.movedToHeader = '1';
+        markAsHeaderBtn(notif);
+        right.appendChild(notif);
+      }
+      hardRemoveNotifText(notif);
+    }
+
+    const storyBtn = ensureStoryButton(right);
+    if (storyBtn && !storyBtn.dataset.movedToHeader) {
+      storyBtn.dataset.movedToHeader = '1';
+      right.appendChild(storyBtn);
+      ensureFaChild(storyBtn, 'fa-camera');
+    }
+
+    const leaveBtn = document.querySelector(SEL_LEAVE);
+    if (leaveBtn) {
+      if (!leaveBtn.dataset.movedToHeader) {
+        leaveBtn.dataset.movedToHeader = '1';
+        markAsHeaderBtn(leaveBtn);
+        left.appendChild(leaveBtn);
+      }
+      ensureFaChild(leaveBtn, 'fa-sign-out');
+    }
+
+    const badge = ensureRoomBadge(left);
+    if (badge && badge.parentElement !== left) left.appendChild(badge);
+
+    if (leaveBtn && badge) {
+      try { left.insertBefore(badge, leaveBtn); } catch (e) {}
+    }
+  }
+
+  let rafPending = false;
+  function scheduleUpdate() {
+    if (rafPending) return;
+    rafPending = true;
+    requestAnimationFrame(() => {
+      rafPending = false;
+      try {
+        guardHeaderWhite();
+        setAccentFromChatBody();
+        moveButtonsAndRoom();
+        updateRoomName();
+        ensureStoryMovedToModal();
+      } catch (e) {}
+    });
+  }
+
+  function initWhenChatReady() {
+    if (inited) return;
+    const chat = document.getElementById('chat');
+    if (!chat) return;
+
+    inited = true;
+
+    injectStyle();
+    ensureHeader();
+    ensureStoryModal();
+
+    scheduleUpdate();
+
+    const mo = new MutationObserver(() => scheduleUpdate());
+    mo.observe(document.body, { childList: true, subtree: true });
+
+    setTimeout(scheduleUpdate, 200);
+    setTimeout(scheduleUpdate, 600);
+    setTimeout(scheduleUpdate, 1200);
+  }
+
+  function waitForChatOnce() {
+    initWhenChatReady();
+    if (inited) return;
+
+    const t0 = Date.now();
+    const obs = new MutationObserver(() => {
+      initWhenChatReady();
+      if (inited) obs.disconnect();
+      if (!inited && (Date.now() - t0) > 15000) obs.disconnect();
+    });
+
+    try {
+      obs.observe(document.documentElement, { childList: true, subtree: true });
+    } catch (e) {}
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', waitForChatOnce, { once: true });
+  } else {
+    waitForChatOnce();
+  }
+})();
+
+(function () {
+  function fixChatPaneHeight() {
+    document
+      .querySelectorAll('.chat_pane__container.border')
+      .forEach(el => {
+        el.style.height = 'calc(111% - 83.4px - 2.4rem)';
+      });
+  }
+
+  // تشغيل مباشر
+  fixChatPaneHeight();
+
+  // مراقبة أي تغيير مستقبلي (لو النظام يعيد كتابة الستايل)
+  const mo = new MutationObserver(fixChatPaneHeight);
+  mo.observe(document.body, { childList: true, subtree: true });
+})();
+
+(function () {
+  'use strict';
+
+  /* =============================
+     الأساسيات
+  ============================= */
+  const PANE_ID = 'chat__body__settings_pane';
+  const CONTAINER_SEL = '#chat__body__settings_pane .chat__body__settings_pane__container';
+
+  const IDS = {
+    private: 'chat__body__settings_pane__container__button--toggle_private',
+    notifications: 'chat__body__settings_pane__container__button--toggle_notifications',
+    changePass: 'chat__body__settings_pane__container__button-change_password',
+    manageRoom: 'chat__body__settings_pane__container__button--manage_room'
+  };
+
+  const WRAP_ID   = 'np_privacy_wrap';
+  const TOGGLE_ID = 'np_privacy_toggle';
+  const BODY_ID   = 'np_privacy_body';
+  const STYLE_ID  = 'np_privacy_style';
+
+  // زر جديد
+  const MUTE_BTN_ID = 'np_mute_notifications_btn';
+  const MUTE_KEY = 'mute_popup_notifications';
+
+  // Proxy IDs
+  const PROXY_NOTI_ID = 'np_proxy_toggle_notifications';
+  const PROXY_PRIV_ID = 'np_proxy_toggle_private';
+  const PROXY_PASS_ID = 'np_proxy_change_pass';
+
+  // محاذاة/مساحات
+  const PAD_L = 48;
+  const PAD_R = 78;
+  const SW_RIGHT = 12;
+
+  /* =============================
+     حالة الكتم
+  ============================= */
+  function isMuteOn() {
+    return localStorage.getItem(MUTE_KEY) === '1';
+  }
+  function setMute(on) {
+    localStorage.setItem(MUTE_KEY, on ? '1' : '0');
+    applyGlobalMuteState();
+  }
+
+  /* =============================
+     CSS
+  ============================= */
+  function injectStyle() {
+    if (document.getElementById(STYLE_ID)) return;
+
+    const style = document.createElement('style');
+    style.id = STYLE_ID;
+    style.textContent = `
+      #${WRAP_ID}{ margin-top:.15rem; }
+
+      /* زر الإشعارات والخصوصية */
+      #${TOGGLE_ID}{
+        position:relative;
+        display:block;
+        padding:.55rem .65rem;
+        cursor:pointer;
+        user-select:none;
+        line-height:1.2;
+      }
+
+      /* السهم (مكانه وحجمه يضبطه JS) */
+      #${TOGGLE_ID} .np_caret{
+        position:absolute;
+        top:50%;
+        transform: translateY(-50%);
+        opacity:.9;
+        pointer-events:none;
+        transition: transform .18s ease;
+      }
+
+      #${WRAP_ID}.open #${TOGGLE_ID} .np_caret{
+        transform: translateY(-50%) rotate(180deg);
+      }
+
+      #${TOGGLE_ID} .np_title{
+        display:block;
+        width:100%;
+        text-align:center;
+        font-weight:800;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        padding-left:${PAD_L}px;
+        padding-right:${PAD_L}px;
+      }
+
+      /* جسم القائمة */
+      #${BODY_ID}{
+        overflow:hidden;
+        max-height:0;
+        opacity:0;
+        transform: translateY(-2px);
+        transition:max-height .22s ease, opacity .18s ease, transform .18s ease;
+        margin-top:.2rem;
+        padding:0 .15rem;
+      }
+      #${WRAP_ID}.open #${BODY_ID}{
+        max-height:560px;
+        opacity:1;
+        transform: translateY(0);
+      }
+
+      /* توحيد شكل الأزرار الداخلية */
+      #${BODY_ID} .np_unified{
+        background:#ffffff !important;
+        color:#111111 !important;
+        border-color:rgba(0,0,0,.18) !important;
+        position:relative !important;
+        overflow:hidden !important;
+      }
+
+      /* واجهتنا فوق الأزرار */
+      #${BODY_ID} .np_ui{
+        position:absolute;
+        inset:0;
+        pointer-events:none;
+      }
+      #${BODY_ID} .np_icon{
+        position:absolute;
+        left:12px;
+        top:50%;
+        transform:translateY(-50%);
+        opacity:.9;
+        font-size:16px;
+      }
+      #${BODY_ID} .np_center_text{
+        position:absolute;
+        left:0; right:0;
+        top:50%;
+        transform:translateY(-50%);
+        text-align:center;
+        font-weight:800;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        padding-left:${PAD_L}px;
+        padding-right:${PAD_R}px;
+        pointer-events:none;
+      }
+
+      /* iOS Switch */
+      #${BODY_ID} .np_sw{
+        position:absolute;
+        right:${SW_RIGHT}px;
+        top:50%;
+        transform:translateY(-50%);
+        width:46px;
+        height:26px;
+        border-radius:999px;
+        background: rgba(0,0,0,.16);
+        box-shadow: inset 0 0 0 1px rgba(0,0,0,.12);
+        pointer-events:auto;
+        cursor:pointer;
+        transition: background .18s ease;
+      }
+      #${BODY_ID} .np_sw::after{
+        content:"";
+        position:absolute;
+        top:3px;
+        right:3px;
+        width:20px;
+        height:20px;
+        border-radius:999px;
+        background:#fff;
+        box-shadow:0 4px 12px rgba(0,0,0,.25);
+        transition: transform .18s ease;
+      }
+      #${BODY_ID} .np_sw.on{ background:#34C759; }
+      #${BODY_ID} .np_sw.on::after{ transform:translateX(-20px); }
+
+      /* كلمة المرور: بدون سويتش */
+      #${BODY_ID} .np_pass .np_center_text{
+        padding-right:${PAD_L}px;
+      }
+      #${BODY_ID} .np_pass .np_center_text{
+        padding-right:${PAD_L}px;
+      }
+
+      /* نخفي الأزرار الأصلية لكن نبقيها بمكانها عشان Event Delegation يشتغل */
+      .np_hidden_original{
+        display:none !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
+  /* =============================
+     إغلاق القائمة الداخلية عند إغلاق الإعدادات الأساسية ✅
+  ============================= */
+  function closePrivacyMenu() {
+    const wrap = document.getElementById(WRAP_ID);
+    if (wrap) wrap.classList.remove('open');
+  }
+
+  function isPaneVisible() {
+    const pane = document.getElementById(PANE_ID);
+    if (!pane) return false;
+    const cs = window.getComputedStyle(pane);
+    if (cs.display === 'none' || cs.visibility === 'hidden' || parseFloat(cs.opacity || '1') === 0) return false;
+    return !!(pane.offsetWidth || pane.offsetHeight || pane.getClientRects().length);
+  }
+
+  function watchPaneClose() {
+    if (watchPaneClose._started) return;
+    watchPaneClose._started = true;
+
+    let lastVisible = isPaneVisible();
+
+    const obs = new MutationObserver(() => {
+      const nowVisible = isPaneVisible();
+      if (lastVisible && !nowVisible) closePrivacyMenu();
+      lastVisible = nowVisible;
+    });
+
+    const pane = document.getElementById(PANE_ID);
+    if (pane) {
+      obs.observe(pane, { attributes:true, attributeFilter:['style','class'] });
+    }
+
+    const obs2 = new MutationObserver(() => {
+      const nowVisible = isPaneVisible();
+      if (lastVisible && !nowVisible) closePrivacyMenu();
+      lastVisible = nowVisible;
+    });
+    obs2.observe(document.body, { childList:true, subtree:true });
+  }
+
+  /* =============================
+     محاذاة سهم زر "الإشعارات والخصوصية"
+  ============================= */
+  function alignCaretToMenuIcon() {
+    const toggle = document.getElementById(TOGGLE_ID);
+    if (!toggle) return;
+
+    const caret = toggle.querySelector('.np_caret');
+    if (!caret) return;
+
+    const refBtn = document.getElementById(IDS.manageRoom);
+    if (!refBtn) return;
+
+    const refIcon = refBtn.querySelector('.fa');
+    if (!refIcon) return;
+
+    const refBtnRect = refBtn.getBoundingClientRect();
+    const refIconRect = refIcon.getBoundingClientRect();
+
+    let leftInside = refIconRect.left - refBtnRect.left;
+
+    const cs = window.getComputedStyle(refIcon);
+    const fs = cs.fontSize || '16px';
+    const lh = cs.lineHeight || '1';
+    const iconPx = parseFloat(fs) || 16;
+
+    const toggleWidth = toggle.clientWidth || 0;
+    const minLeft = 6;
+    const maxLeft = Math.max(minLeft, toggleWidth - iconPx - 6);
+    leftInside = Math.max(minLeft, Math.min(Math.round(leftInside), maxLeft));
+
+    caret.style.left = leftInside + 'px';
+    caret.style.fontSize = fs;
+    caret.style.lineHeight = lh;
+    caret.style.width = iconPx + 'px';
+    caret.style.textAlign = 'center';
+  }
+
+  /* =============================
+     أدوات: dispatch click موثوق
+  ============================= */
+  function safeClick(el){
+    if (!el) return;
+    try {
+      el.dispatchEvent(new MouseEvent('click', { bubbles:true, cancelable:true, view:window }));
+    } catch(_) {
+      try { el.click(); } catch(__) {}
+    }
+  }
+
+  /* =============================
+     Proxy Toggle (بدل نقل الزر الأصلي)
+  ============================= */
+  function ensureProxyToggle(body, proxyId, origBtn, title, iconClass, enableSel, disableSel, activeClass) {
+    if (!body || !origBtn) return;
+
+    if (!origBtn.classList.contains('np_hidden_original')) {
+      origBtn.classList.add('np_hidden_original');
+    }
+
+    let proxy = document.getElementById(proxyId);
+    if (!proxy) {
+      proxy = document.createElement('div');
+      proxy.id = proxyId;
+      proxy.className = 'chat__body__settings_pane__container__button form-control np_unified';
+      proxy.style.position = 'relative';
+      proxy.style.overflow = 'hidden';
+
+      proxy.innerHTML = `
+        <div class="np_ui">
+          <span class="fa ${iconClass} np_icon" aria-hidden="true"></span>
+          <span class="np_center_text">${title}</span>
+          <div class="np_sw" role="switch" aria-checked="false"></div>
+        </div>
+      `;
+
+      body.appendChild(proxy);
+    }
+
+    const en = origBtn.querySelector(enableSel);
+    const dis = origBtn.querySelector(disableSel);
+    if (!en || !dis) return;
+
+    const sw = proxy.querySelector('.np_sw');
+    if (!sw) return;
+
+    function isOn() { 
+      // السويتش ON = الخاص / التنبيهات شغّالة
+      return !dis.classList.contains(activeClass); 
+    }
+
+    function sync() {
+      const on = isOn();
+      sw.classList.toggle('on', on);
+      sw.setAttribute('aria-checked', on ? 'true' : 'false');
+    }
+
+    function toggle() {
+      const wasOn = isOn();
+      safeClick(wasOn ? en : dis);
+      setTimeout(sync, 60);
+      setTimeout(sync, 180);
+    }
+
+    if (!proxy.dataset.np_bound) {
+      proxy.dataset.np_bound = '1';
+
+      sw.addEventListener('click', (e) => {
+        e.preventDefault(); e.stopPropagation();
+        toggle();
+      });
+
+      proxy.addEventListener('click', (e) => {
+        e.preventDefault(); e.stopPropagation();
+        if (e.target === sw || sw.contains(e.target)) return;
+        toggle();
+      }, { passive:false });
+
+      new MutationObserver(sync).observe(en,  { attributes:true, attributeFilter:['class'] });
+      new MutationObserver(sync).observe(dis, { attributes:true, attributeFilter:['class'] });
+    }
+
+    sync();
+  }
+
+  /* =============================
+     Proxy Password (بدل نقل زر كلمة المرور)
+  ============================= */
+  function ensureProxyPassword(body, origBtn){
+    if (!body || !origBtn) return;
+
+    if (!origBtn.classList.contains('np_hidden_original')) {
+      origBtn.classList.add('np_hidden_original');
+    }
+
+    let proxy = document.getElementById(PROXY_PASS_ID);
+    if (!proxy) {
+      proxy = document.createElement('div');
+      proxy.id = PROXY_PASS_ID;
+      proxy.className = 'chat__body__settings_pane__container__button form-control np_unified np_pass';
+      proxy.style.position = 'relative';
+      proxy.style.overflow = 'hidden';
+
+      proxy.innerHTML = `
+        <div class="np_ui">
+          <span class="fa fa-key np_icon" aria-hidden="true"></span>
+          <span class="np_center_text">تغيير كلمة المرور</span>
+        </div>
+      `;
+      body.appendChild(proxy);
+
+      proxy.addEventListener('click', (e) => {
+        e.preventDefault(); e.stopPropagation();
+        safeClick(origBtn);
+      }, { passive:false });
+    }
+  }
+
+  /* =============================
+     زر: كتم صوت الإشعارات (سويتش)
+  ============================= */
+  function ensureMuteButton(body) {
+    if (!body) return;
+
+    let btn = document.getElementById(MUTE_BTN_ID);
+    if (!btn) {
+      btn = document.createElement('div');
+      btn.id = MUTE_BTN_ID;
+      btn.className = 'chat__body__settings_pane__container__button form-control np_unified';
+      btn.style.position = 'relative';
+      btn.style.overflow = 'hidden';
+
+      btn.innerHTML = `
+        <div class="np_ui">
+          <span class="fa fa-volume-off np_icon" aria-hidden="true"></span>
+          <span class="np_center_text">كتم صوت الإشعارات</span>
+          <div class="np_sw" role="switch" aria-checked="false"></div>
+        </div>
+      `;
+
+      body.appendChild(btn);
+
+      const sw = btn.querySelector('.np_sw');
+
+      function sync() {
+        const on = isMuteOn();
+        sw.classList.toggle('on', on);
+        sw.setAttribute('aria-checked', on ? 'true' : 'false');
+        applyGlobalMuteState();
+      }
+
+      function toggle() {
+        setMute(!isMuteOn());
+        sync();
+      }
+
+      sw.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        toggle();
+      });
+
+      btn.addEventListener('click', (e) => {
+        e.preventDefault(); e.stopPropagation();
+        if (e.target === sw || sw.contains(e.target)) return;
+        toggle();
+      }, { passive: false });
+
+      sync();
+    } else {
+      const sw = btn.querySelector('.np_sw');
+      if (sw) {
+        const on = isMuteOn();
+        sw.classList.toggle('on', on);
+        sw.setAttribute('aria-checked', on ? 'true' : 'false');
+      }
+    }
+  }
+
+  /* =============================
+     كتم الصوت فعليًا (Media + WebAudio)
+  ============================= */
+  const mediaOriginal = new WeakMap();
+  function muteAllMediaElements() {
+    const els = document.querySelectorAll('audio,video');
+    els.forEach(el => {
+      try {
+        if (!mediaOriginal.has(el)) {
+          mediaOriginal.set(el, { muted: el.muted, volume: el.volume });
+        }
+        el.muted = true;
+        el.volume = 0;
+      } catch (_) {}
+    });
+  }
+  function restoreAllMediaElements() {
+    const els = document.querySelectorAll('audio,video');
+    els.forEach(el => {
+      try {
+        const prev = mediaOriginal.get(el);
+        if (prev) {
+          el.muted = prev.muted;
+          el.volume = prev.volume;
+        }
+      } catch (_) {}
+    });
+  }
+
+  let masterGains = [];
+  function setMasterGain(value) {
+    masterGains.forEach(g => {
+      try { g.gain.gain.value = value; } catch (_) {}
+    });
+  }
+
+  function patchWebAudioOnce() {
+    if (patchWebAudioOnce._patched) return;
+    patchWebAudioOnce._patched = true;
+
+    function wrapContext(CtorName) {
+      const Original = window[CtorName];
+      if (typeof Original !== 'function') return;
+
+      function Wrapped() {
+        const ctx = new Original(...arguments);
+
+        try {
+          const master = ctx.createGain();
+          master.gain.value = isMuteOn() ? 0 : 1;
+          master.connect(ctx.destination);
+
+          const originalDestination = ctx.destination;
+          Object.defineProperty(ctx, '__npMaster', { value: master });
+
+          const nodeProto = window.AudioNode && window.AudioNode.prototype;
+          if (nodeProto && !nodeProto.__npConnectPatched) {
+            const origConnect = nodeProto.connect;
+            nodeProto.connect = function () {
+              try {
+                const target = arguments[0];
+                if (target === originalDestination && ctx.__npMaster) {
+                  arguments[0] = ctx.__npMaster;
+                }
+              } catch (_) {}
+              return origConnect.apply(this, arguments);
+            };
+            nodeProto.__npConnectPatched = true;
+          }
+
+          masterGains.push({ ctx, gain: master });
+        } catch (_) {}
+
+        return ctx;
+      }
+
+      Wrapped.prototype = Original.prototype;
+      window[CtorName] = Wrapped;
+    }
+
+    wrapContext('AudioContext');
+    wrapContext('webkitAudioContext');
+  }
+
+  function patchMediaPlayOnce() {
+    if (patchMediaPlayOnce._patched) return;
+    patchMediaPlayOnce._patched = true;
+
+    const proto = window.HTMLMediaElement && window.HTMLMediaElement.prototype;
+    if (proto && typeof proto.play === 'function') {
+      const originalPlay = proto.play;
+      proto.play = function () {
+        try {
+          if (isMuteOn()) {
+            if (!mediaOriginal.has(this)) {
+              mediaOriginal.set(this, { muted: this.muted, volume: this.volume });
+            }
+            this.muted = true;
+            this.volume = 0;
+          }
+        } catch (_) {}
+        return originalPlay.apply(this, arguments);
+      };
+    }
+
+    if (typeof window.Audio === 'function') {
+      const OriginalAudio = window.Audio;
+      window.Audio = function () {
+        const a = new OriginalAudio(...arguments);
+        try {
+          if (isMuteOn()) {
+            if (!mediaOriginal.has(a)) {
+              mediaOriginal.set(a, { muted: a.muted, volume: a.volume });
+            }
+            a.muted = true;
+            a.volume = 0;
+          }
+        } catch (_) {}
+        return a;
+      };
+      window.Audio.prototype = OriginalAudio.prototype;
+    }
+  }
+
+  function applyGlobalMuteState() {
+    if (isMuteOn()) {
+      muteAllMediaElements();
+      setMasterGain(0);
+    } else {
+      restoreAllMediaElements();
+      setMasterGain(1);
+    }
+  }
+
+  /* =============================
+     بناء القائمة وتجميع الأزرار
+  ============================= */
+  function init(){
+    const pane = document.getElementById(PANE_ID);
+    if (!pane) return;
+
+    const container = pane.querySelector(CONTAINER_SEL);
+    if (!container) return;
+
+    const existingWrap = document.getElementById(WRAP_ID);
+    if (existingWrap) {
+      alignCaretToMenuIcon();
+
+      const body = document.getElementById(BODY_ID);
+      if (body) {
+        const bNoti = document.getElementById(IDS.notifications);
+        const bPriv = document.getElementById(IDS.private);
+        const bPass = document.getElementById(IDS.changePass);
+
+        ensureProxyToggle(body, PROXY_NOTI_ID, bNoti, 'تعطيل التنبيهات', 'fa-bell-o',
+          '.toggle_notifications__enable', '.toggle_notifications__disable', 'toggle_notifications--active'
+        );
+
+        ensureProxyToggle(body, PROXY_PRIV_ID, bPriv, 'تعطيل المحادثات الخاصة', 'fa-lock',
+          '.toggle_private__enable', '.toggle_private__disable', 'toggle_private--active'
+        );
+
+        ensureMuteButton(body);
+        ensureProxyPassword(body, bPass);
+      }
+      return;
+    }
+
+    injectStyle();
+
+    const bNoti = document.getElementById(IDS.notifications);
+    const bPriv = document.getElementById(IDS.private);
+    const bPass = document.getElementById(IDS.changePass);
+    if (!bNoti || !bPriv || !bPass) return;
+
+    const wrap = document.createElement('div');
+    wrap.id = WRAP_ID;
+
+    const toggle = document.createElement('div');
+    toggle.id = TOGGLE_ID;
+    toggle.className = 'chat__body__settings_pane__container__button form-control';
+    toggle.innerHTML = `
+      <span class="fa fa-angle-down np_caret" aria-hidden="true"></span>
+      <span class="np_title">الإشعارات والخصوصية</span>
+    `;
+
+    const body = document.createElement('div');
+    body.id = BODY_ID;
+
+    wrap.appendChild(toggle);
+    wrap.appendChild(body);
+
+    // ✅ التغيير الوحيد: ضع القائمة في مكان زر "المحادثات الخاصة" السابق
+    const priv = document.getElementById(IDS.private);
+    if (priv && priv.parentNode === container) container.insertBefore(wrap, priv);
+    else container.prepend(wrap);
+
+    ensureProxyToggle(body, PROXY_NOTI_ID, bNoti, 'تعطيل التنبيهات', 'fa-bell-o',
+      '.toggle_notifications__enable', '.toggle_notifications__disable', 'toggle_notifications--active'
+    );
+
+    ensureProxyToggle(body, PROXY_PRIV_ID, bPriv, 'تعطيل المحادثات الخاصة', 'fa-lock',
+      '.toggle_private__enable', '.toggle_private__disable', 'toggle_private--active'
+    );
+
+    ensureMuteButton(body);
+    ensureProxyPassword(body, bPass);
+
+    toggle.addEventListener('click', () => {
+      wrap.classList.toggle('open');
+      setTimeout(alignCaretToMenuIcon, 0);
+    });
+
+    setTimeout(alignCaretToMenuIcon, 0);
+    window.addEventListener('resize', () => setTimeout(alignCaretToMenuIcon, 0));
+
+    watchPaneClose();
+  }
+
+  /* =============================
+     تشغيل
+  ============================= */
+  patchWebAudioOnce();
+  patchMediaPlayOnce();
+
+  init();
+  new MutationObserver(init).observe(document.documentElement, { childList:true, subtree:true });
+
+  watchPaneClose();
+
+  applyGlobalMuteState();
+
+  new MutationObserver(() => {
+    if (isMuteOn()) muteAllMediaElements();
+  }).observe(document.documentElement, { childList:true, subtree:true });
+})();
+
+(function () {
+  'use strict';
+
+  /* =========================
+     CONFIG
+  ========================= */
+  const STYLE_ID = 'np_unified_inputs_full_v2';
+
+  // Main (الحقل الرئيسي)
+  const MAIN_BTN_H = 36;
+  const MAIN_RAD   = 11;
+  const MAIN_GAP   = 8;
+  const MAIN_PAD   = 6;
+  const MAIN_RAISE_PX = 14;
+
+  // Slim (wall + footer)
+  const SLIM_BTN_H = 30;
+  const SLIM_RAD   = 9;
+  const SLIM_GAP   = 6;
+  const SLIM_PAD   = 5;
+
+  // أيقونة زر الخيارات (جميلة)
+  const OPTIONS_ICON_HTML = `<span class="fa fa-ellipsis-h" aria-hidden="true"></span>`;
+
+  /* =========================
+     COLOR HELPERS
+  ========================= */
+  function clamp(n, a, b) { return Math.max(a, Math.min(b, n)); }
+
+  function getAccentRGB() {
+    const el = document.getElementById('chat__body') || document.body;
+    return getComputedStyle(el).backgroundColor || 'rgb(56,65,89)';
+  }
+
+  function rgbToHex(rgb) {
+    const m = String(rgb).match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/i);
+    if (!m) return '#384159';
+    const r = clamp(+m[1], 0, 255);
+    const g = clamp(+m[2], 0, 255);
+    const b = clamp(+m[3], 0, 255);
+    return '#' + [r, g, b].map(v => v.toString(16).padStart(2, '0')).join('');
+  }
+
+  function isLight(rgb) {
+    const m = String(rgb).match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/i);
+    if (!m) return false;
+    const r = +m[1], g = +m[2], b = +m[3];
+    return (0.2126*r + 0.7152*g + 0.0722*b) / 255 > 0.62;
+  }
+
+  function setAccentVars() {
+    const rgb = getAccentRGB();
+    document.documentElement.style.setProperty('--np-accent', rgbToHex(rgb));
+    document.documentElement.style.setProperty('--np-accent-text', isLight(rgb) ? '#111' : '#fff');
+  }
+
+  /* =========================
+     STYLE INJECT (instant)
+  ========================= */
+  function injectStyles() {
+    if (document.getElementById(STYLE_ID)) return;
+
+    setAccentVars();
+
+    const style = document.createElement('style');
+    style.id = STYLE_ID;
+    style.textContent = `
+      /* =========================
+         Unified Inputs – FULL v2
+         ========================= */
+
+      /* رفع الحقل الرئيسي للأعلى فقط */
+      #chat__body__message-input{
+        transform: translateY(-${MAIN_RAISE_PX}px) !important;
+        background: transparent !important;
+      }
+
+      /* =========================
+         Base for all 3 forms
+      ========================= */
+      #chat__body__message-input > form,
+      form.chat__body__wall_pane__form,
+      footer.chat_box__footer > form{
+        direction: ltr !important;
+        display: flex !important;
+        align-items: center !important;
+        width: 100% !important;
+        margin: 0 !important;
+
+        background: #fff !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+
+        box-sizing: border-box !important;
+      }
+
+      /* =========================
+         MAIN sizing
+      ========================= */
+      #chat__body__message-input > form{
+        gap: ${MAIN_GAP}px !important;
+        padding: ${MAIN_PAD}px !important;
+        border-radius: 15px !important;
+        box-shadow: 0 8px 22px rgba(0,0,0,.08) !important;
+      }
+
+      #chat__body__message-input > form button,
+      #chat__body__message-input > form .np-options-btn{
+        height: ${MAIN_BTN_H}px !important;
+        min-height: ${MAIN_BTN_H}px !important;
+        border-radius: ${MAIN_RAD}px !important;
+        box-sizing: border-box !important;
+      }
+
+      #chat__body__message-input__input{
+        direction: rtl !important;
+        text-align: right !important;
+        unicode-bidi: plaintext !important;
+
+        flex: 1 1 auto !important;
+        min-height: ${MAIN_BTN_H}px !important;
+        max-height: 110px !important;
+
+        padding: 7px 10px !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        border-radius: ${MAIN_RAD}px !important;
+        outline: none !important;
+
+        background: #fff !important;
+        color: #111 !important;
+        resize: none !important;
+        line-height: 1.6 !important;
+      }
+      #chat__body__message-input__input::placeholder{
+        direction: rtl !important;
+        text-align: right !important;
+      }
+
+      /* إرسال الرئيسي */
+      #chat__body__message-input > form .fa-send,
+      #chat__body__message-input > form button.chat__body__message-input__submit{
+        background: var(--np-accent, #384159) !important;
+        color: var(--np-accent-text, #fff) !important;
+        border: 0 !important;
+        padding: 0 14px !important;
+        white-space: nowrap !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        box-shadow: 0 8px 18px rgba(0,0,0,.10) !important;
+      }
+
+      /* فيس الرئيسي */
+      #chat__body__message-input__face{
+        width: ${MAIN_BTN_H}px !important;
+        height: ${MAIN_BTN_H}px !important;
+        border-radius: ${MAIN_RAD}px !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        background: #fff !important;
+        object-fit: cover !important;
+        cursor: pointer !important;
+      }
+
+      /* =========================
+         SLIM sizing (wall + footer)
+      ========================= */
+      form.chat__body__wall_pane__form,
+      footer.chat_box__footer > form{
+        gap: ${SLIM_GAP}px !important;
+        padding: ${SLIM_PAD}px !important;
+        border-radius: 13px !important;
+        box-shadow: 0 6px 16px rgba(0,0,0,.07) !important;
+      }
+
+      form.chat__body__wall_pane__form button,
+      form.chat__body__wall_pane__form .np-options-btn,
+      footer.chat_box__footer > form button,
+      footer.chat_box__footer > form .np-options-btn{
+        height: ${SLIM_BTN_H}px !important;
+        min-height: ${SLIM_BTN_H}px !important;
+        border-radius: ${SLIM_RAD}px !important;
+        line-height: ${SLIM_BTN_H}px !important;
+        font-size: 13px !important;
+      }
+
+      #chat__body__wall_pane__form__input,
+      #chat_box__footer__input,
+      footer.chat_box__footer .chat_box__footer__input{
+        direction: rtl !important;
+        text-align: right !important;
+        unicode-bidi: plaintext !important;
+
+        flex: 1 1 auto !important;
+        min-height: ${SLIM_BTN_H}px !important;
+        max-height: 92px !important;
+
+        padding: 6px 9px !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        border-radius: ${SLIM_RAD}px !important;
+        outline: none !important;
+
+        background: #fff !important;
+        color: #111 !important;
+        resize: none !important;
+        line-height: 1.45 !important;
+        font-size: 13px !important;
+      }
+      #chat__body__wall_pane__form__input::placeholder,
+      #chat_box__footer__input::placeholder,
+      footer.chat_box__footer .chat_box__footer__input::placeholder{
+        direction: rtl !important;
+        text-align: right !important;
+      }
+
+      /* إرسال slim */
+      form.chat__body__wall_pane__form .fa-send,
+      footer.chat_box__footer > form .fa-send,
+      form.chat__body__wall_pane__form button.chat__body__wall_pane__form__send{
+        background: var(--np-accent, #384159) !important;
+        color: var(--np-accent-text, #fff) !important;
+        border: 0 !important;
+        padding: 0 12px !important;
+        white-space: nowrap !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        box-shadow: 0 7px 14px rgba(0,0,0,.10) !important;
+      }
+
+/* فيس slim – تصغير الفيس فقط (بدون تغيير الزر) */
+#chat__body__wall_pane__form__attach__face,
+footer.chat_box__footer #chat_box__footer__smile,
+footer.chat_box__footer .chat_box__footer__smile{
+  width: ${SLIM_BTN_H}px !important;      /* ❌ لا تغيير */
+  height: ${SLIM_BTN_H}px !important;     /* ❌ لا تغيير */
+  border-radius: ${SLIM_RAD}px !important;
+  border: 1px solid rgba(0,0,0,.10) !important;
+  background: #fff !important;
+
+  /* ⭐ التعديل الحقيقي هنا */
+  padding: 4px !important;                /* صغّر الفيس */
+  box-sizing: border-box !important;
+  object-fit: contain !important;
+
+  cursor: pointer !important;
+}
+
+
+
+
+      /* FontAwesome icons slim */
+      form.chat__body__wall_pane__form .fa,
+      footer.chat_box__footer > form .fa{
+        font-size: 14px !important;
+      }
+
+      /* =========================
+         OPTIONS (common)
+      ========================= */
+      .np-options-wrap{
+        position: relative !important;
+        display: inline-flex !important;
+        align-items: center !important;
+      }
+
+      .np-options-btn{
+        background: #fff !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        color: #222 !important;
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        cursor: pointer !important;
+        user-select: none !important;
+      }
+
+      /* عرض زر الخيارات حسب الحجم */
+      #chat__body__message-input > form .np-options-btn{ width: ${MAIN_BTN_H}px !important; }
+      form.chat__body__wall_pane__form .np-options-btn,
+      footer.chat_box__footer > form .np-options-btn{ width: ${SLIM_BTN_H}px !important; }
+
+      /* Menu base */
+      .np-options-menu{
+        position: absolute !important;
+        bottom: calc(100% + 10px) !important;
+        left: 0 !important;
+        display: none !important;
+
+        background: #fff !important;
+        border: 1px solid rgba(0,0,0,.10) !important;
+        z-index: 99999 !important;
+      }
+      .np-options-menu.is-open{ display: block !important; }
+
+      /* MAIN menu size */
+      #chat__body__message-input > form .np-options-menu{
+        min-width: 190px !important;
+        padding: 8px !important;
+        border-radius: 14px !important;
+        box-shadow: 0 18px 45px rgba(0,0,0,.14) !important;
+      }
+
+      /* SLIM menu size */
+      form.chat__body__wall_pane__form .np-options-menu,
+      footer.chat_box__footer > form .np-options-menu{
+        min-width: 165px !important;
+        padding: 6px !important;
+        border-radius: 12px !important;
+        box-shadow: 0 14px 35px rgba(0,0,0,.13) !important;
+      }
+
+      .np-options-item{
+        width: 100% !important;
+        display: flex !important;
+        align-items: center !important;
+        border: 0 !important;
+        background: #fff !important;
+        color: #111 !important;
+        cursor: pointer !important;
+        text-align: right !important;
+      }
+      .np-options-item:hover{ background: rgba(0,0,0,.05) !important; }
+
+      /* MAIN item */
+      #chat__body__message-input > form .np-options-item{
+        gap: 10px !important;
+        padding: 10px 10px !important;
+        border-radius: 12px !important;
+      }
+      #chat__body__message-input > form .np-options-ico{
+        width: 26px !important;
+        height: 26px !important;
+        border-radius: 9px !important;
+      }
+      #chat__body__message-input > form .np-options-title{
+        font-size: 13px !important;
+        font-weight: 700 !important;
+      }
+
+      /* SLIM item */
+      form.chat__body__wall_pane__form .np-options-item,
+      footer.chat_box__footer > form .np-options-item{
+        gap: 9px !important;
+        padding: 8px 9px !important;
+        border-radius: 10px !important;
+      }
+      form.chat__body__wall_pane__form .np-options-ico,
+      footer.chat_box__footer > form .np-options-ico{
+        width: 22px !important;
+        height: 22px !important;
+        border-radius: 8px !important;
+      }
+      form.chat__body__wall_pane__form .np-options-title,
+      footer.chat_box__footer > form .np-options-title{
+        font-size: 12.5px !important;
+        font-weight: 700 !important;
+      }
+      .np-options-ico{
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        background: rgba(0,0,0,.06) !important;
+        color: #111 !important;
+        flex: 0 0 auto !important;
+      }
+
+      /* =========================
+         Hide original buttons after merge
+      ========================= */
+      /* main */
+      #chat__body__message-input .chat__body__message-input__share,
+      #chat__body__message-input .chat__body__message-input__clear{
+        display: none !important;
+      }
+
+      /* ==================================================
+         ✅ SLIM ALIGN PATCH (wall + footer only)
+         - لا يغير ترتيب/أماكن العناصر
+         - فقط يخليهم على نفس الخط
+         ================================================== */
+
+      form.chat__body__wall_pane__form > *,
+      footer.chat_box__footer > form > *{
+        align-self: center !important;
+        vertical-align: middle !important;
+        margin-top: 0 !important;
+        margin-bottom: 0 !important;
+      }
+
+      /* السبان اللي فيها percent + loader تسبب نزول/طلوع */
+      form.chat__body__wall_pane__form > span,
+      footer.chat_box__footer > form > span{
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        height: ${SLIM_BTN_H}px !important;
+        line-height: 1 !important;
+      }
+
+      /* ملاحظة مهمة: ما لمسنا display حق اللودر نهائياً */
+      .chat__body__wall_pane__form__loader,
+      #chat_box__footer__loader{
+        vertical-align: middle !important;
+        align-self: center !important;
+        margin: 0 !important;
+      }
+    `;
+    document.head.appendChild(style);
+  }
+
+  /* =========================
+     OPTIONS BUILDER (dynamic)
+  ========================= */
+  function buildOptionsForForm(form, items) {
+    if (!form || form.querySelector('.np-options-wrap')) return;
+
+    const available = items
+      .map(it => ({ ...it, el: it.get() }))
+      .filter(it => !!it.el);
+
+    if (!available.length) return;
+
+    // hide originals
+    available.forEach(it => it.hide && it.hide(it.el));
+
+    const wrap = document.createElement('span');
+    wrap.className = 'np-options-wrap';
+
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'np-options-btn';
+    btn.setAttribute('aria-label', 'خيارات');
+    btn.innerHTML = OPTIONS_ICON_HTML;
+
+    const menu = document.createElement('div');
+    menu.className = 'np-options-menu';
+
+    function makeItem(icon, text, cb) {
+      const b = document.createElement('button');
+      b.type = 'button';
+      b.className = 'np-options-item';
+      b.innerHTML = `
+        <span class="np-options-ico"><span class="fa ${icon}"></span></span>
+        <span class="np-options-title">${text}</span>
+      `;
+      b.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        menu.classList.remove('is-open');
+        cb();
+      });
+      return b;
+    }
+
+    available.forEach(it => {
+      menu.append(makeItem(it.icon, it.label, () => it.click(it.el)));
+    });
+
+    if (!menu.children.length) return;
+
+    wrap.append(btn, menu);
+    form.insertBefore(wrap, form.firstChild);
+
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      menu.classList.toggle('is-open');
+    });
+
+    document.addEventListener('click', () => menu.classList.remove('is-open'), { passive: true });
+  }
+
+  /* =========================
+     ORDER APPLIER
+  ========================= */
+  function applyOrder(form, selectors) {
+    try {
+      const optionsWrap = form.querySelector('.np-options-wrap');
+      if (optionsWrap) optionsWrap.style.order = '1';
+
+      const face = selectors.face ? form.querySelector(selectors.face) : null;
+      if (face) face.style.order = '2';
+
+      const textarea = selectors.textarea ? form.querySelector(selectors.textarea) : null;
+      if (textarea) textarea.style.order = '3';
+
+      const send = selectors.send ? form.querySelector(selectors.send) : null;
+      if (send) send.style.order = '4';
+    } catch (_) {}
+  }
+
+  /* =========================
+     MOUNT ALL
+  ========================= */
+  function mountAll() {
+    setAccentVars();
+
+    // MAIN form
+    const mainForm = document.querySelector('#chat__body__message-input > form');
+    if (mainForm) {
+      buildOptionsForForm(mainForm, [
+        {
+          get: () => mainForm.querySelector('.chat__body__message-input__share'),
+          icon: 'fa-share-alt',
+          label: 'مشاركة',
+          hide: (el) => (el.style.display = 'none'),
+          click: (el) => el.click()
+        },
+        {
+          get: () => mainForm.querySelector('.chat__body__message-input__clear'),
+          icon: 'fa-trash',
+          label: 'حذف حقل الدردشة',
+          hide: (el) => (el.style.display = 'none'),
+          click: (el) => el.click()
+        }
+      ]);
+
+      applyOrder(mainForm, {
+        face: '#chat__body__message-input__face',
+        textarea: '#chat__body__message-input__input',
+        send: '.chat__body__message-input__submit'
+      });
+    }
+
+    // WALL form (Slim)
+    const wallForm = document.querySelector('form.chat__body__wall_pane__form');
+    if (wallForm) {
+      buildOptionsForForm(wallForm, [
+        {
+          get: () => wallForm.querySelector('.chat__body__wall_pane__form__attach'),
+          icon: 'fa-share-alt',
+          label: 'مشاركة',
+          hide: (el) => (el.style.display = 'none'),
+          click: (el) => el.click()
+        },
+        {
+          get: () => wallForm.querySelector('.chat__body__wall_pane__form__clear'),
+          icon: 'fa-trash',
+          label: 'حذف حقل الدردشة',
+          hide: (el) => (el.style.display = 'none'),
+          click: (el) => el.click()
+        }
+      ]);
+
+      applyOrder(wallForm, {
+        face: '#chat__body__wall_pane__form__attach__face',
+        textarea: '#chat__body__wall_pane__form__input',
+        send: '.chat__body__wall_pane__form__send'
+      });
+    }
+
+    // FOOTER form (Slim)
+    const footerForm = document.querySelector('footer.chat_box__footer > form');
+    if (footerForm) {
+      buildOptionsForForm(footerForm, [
+        {
+          get: () => footerForm.querySelector('#chat_box__footer__call'),
+          icon: 'fa-phone',
+          label: 'اتصال',
+          click: (el) => el.click()
+        },
+        {
+          get: () => footerForm.querySelector('#chat_box__footer__share'),
+          icon: 'fa-share-alt',
+          label: 'مشاركة',
+          hide: (el) => (el.style.display = 'none'),
+          click: (el) => el.click()
+        }
+      ]);
+
+      applyOrder(footerForm, {
+        face: '#chat_box__footer__smile',
+        textarea: '#chat_box__footer__input',
+        send: '#chat_box__footer__submit'
+      });
+    }
+  }
+
+  /* =========================
+     START
+  ========================= */
+  injectStyles();
+  mountAll();
+
+  // مراقبة خفيفة مؤقتة (SPA)
+  const obs = new MutationObserver(() => {
+    try { mountAll(); } catch (_) {}
+  });
+  obs.observe(document.documentElement, { childList: true, subtree: true });
+  setTimeout(() => { try { obs.disconnect(); } catch (_) {} }, 8000);
+
+})();
+
+(function () {
+  'use strict';
+
+  const BELL_SEL  = '#others--notifications';
+  const POP_CONT  = '#popup_container';
+  const TITLE_SEL = '.popup__title';
+
+  // ✅ الكلمات اللي تفعّل النقطة
+  const WATCH_TITLES = new Set(['تنبيه', 'إعجاب', 'ترقية']);
+
+  const DOT_ID = 'np_noti_body_dot';
+  const LS_SEEN_POPUP_ID = 'np_last_seen_popup_id_v3';
+
+  const DOT_SIZE = 10;
+
+  const $ = (s, root = document) => root.querySelector(s);
+
+  /* ---------- Dot overlay (forced) ---------- */
+  function ensureDot() {
+    let dot = document.getElementById(DOT_ID);
+    if (!dot) {
+      dot = document.createElement('div');
+      dot.id = DOT_ID;
+      document.body.appendChild(dot);
+    }
+
+    dot.style.setProperty('position', 'fixed', 'important');
+    dot.style.setProperty('z-index', '2147483647', 'important');
+    dot.style.setProperty('pointer-events', 'none', 'important');
+    dot.style.setProperty('width', DOT_SIZE + 'px', 'important');
+    dot.style.setProperty('height', DOT_SIZE + 'px', 'important');
+    dot.style.setProperty('border-radius', '999px', 'important');
+    dot.style.setProperty('background', '#e53935', 'important');
+    dot.style.setProperty('box-shadow', '0 0 0 2px #fff', 'important');
+    dot.style.setProperty('opacity', '1', 'important');
+    dot.style.setProperty('visibility', 'visible', 'important');
+
+    return dot;
+  }
+
+  /* ✅ تموضع احترافي: الزاوية العلوية اليسرى للجرس (مكان السهم) */
+  function placeDot() {
+    const bell = $(BELL_SEL);
+    const dot = ensureDot();
+    if (!bell) return;
+
+    const r = bell.getBoundingClientRect();
+    if (r.width <= 0 || r.height <= 0) return;
+
+    // 🔴 Top-left corner placement (tweak values if needed)
+    dot.style.setProperty('left', Math.round(r.right - 1) + 'px', 'important'); // يسار شوي
+    dot.style.setProperty('top',  Math.round(r.top  - 0) + 'px', 'important'); // فوق شوي
+  }
+
+  function showDot() {
+    const dot = ensureDot();
+    placeDot();
+    dot.style.setProperty('display', 'block', 'important');
+  }
+
+  function hideDot() {
+    const dot = ensureDot();
+    dot.style.setProperty('display', 'none', 'important');
+  }
+
+  /* ---------- Storage ---------- */
+  function getSeenPopupId() {
+    try { return Number(localStorage.getItem(LS_SEEN_POPUP_ID) || 0) || 0; }
+    catch (_) { return 0; }
+  }
+
+  function setSeenPopupId(v) {
+    try { localStorage.setItem(LS_SEEN_POPUP_ID, String(v || 0)); } catch (_) {}
+  }
+
+  /* ---------- Popup detection ---------- */
+  function latestPopupInfo() {
+    const cont = $(POP_CONT);
+    if (!cont) return null;
+
+    const pops = cont.querySelectorAll('.popup');
+    if (!pops.length) return null;
+
+    const last = pops[pops.length - 1];
+
+    const id = Number(last.getAttribute('data-id') || 0) || 0;
+    const titleEl = last.querySelector(TITLE_SEL);
+    const title = (titleEl ? (titleEl.textContent || '') : '').trim();
+
+    return { id, title };
+  }
+
+  function onNewPopup() {
+    const info = latestPopupInfo();
+    if (!info) return;
+
+    // ✅ لازم يكون من الكلمات المراقبة
+    if (!WATCH_TITLES.has(info.title)) return;
+
+    const seenId = getSeenPopupId();
+
+    // ✅ Popup جديد (data-id أكبر)
+    if (info.id && info.id > seenId) {
+      showDot();
+    }
+  }
+
+  /* ---------- Clear when user clicks bell ---------- */
+  function markSeen() {
+    const info = latestPopupInfo();
+    if (info && info.id) setSeenPopupId(info.id);
+    hideDot();
+  }
+
+  function bindBell() {
+    const bell = $(BELL_SEL);
+    if (bell && !bell.__npBellBoundPopupV3) {
+      bell.__npBellBoundPopupV3 = true;
+      bell.addEventListener('click', markSeen, { passive: true });
+    }
+  }
+
+  /* ---------- Observe popup container ---------- */
+  function startObservers() {
+    const attach = () => {
+      const cont = $(POP_CONT);
+      if (!cont || cont.__npObsAttachedV3) return false;
+
+      cont.__npObsAttachedV3 = true;
+
+      const mo = new MutationObserver(() => {
+        bindBell();
+        onNewPopup();
+      });
+
+      mo.observe(cont, { childList: true, subtree: true, characterData: true });
+      return true;
+    };
+
+    // Retry attach (container might be injected later)
+    let tries = 0;
+    const t = setInterval(() => {
+      tries++;
+      attach();
+      bindBell();
+
+      // keep dot aligned if visible
+      const dot = ensureDot();
+      if (dot.style.display !== 'none') placeDot();
+
+      if (tries > 300) clearInterval(t);
+    }, 200);
+
+    window.addEventListener('scroll', placeDot, { passive: true });
+    window.addEventListener('resize', placeDot, { passive: true });
+  }
+
+  /* ---------- Boot ---------- */
+  let tries = 0;
+  const boot = setInterval(() => {
+    tries++;
+    if ($(BELL_SEL) && document.body) {
+      clearInterval(boot);
+
+      ensureDot();
+      bindBell();
+      startObservers();
+
+      // ✅ أول مرة: اعتبر آخر popup الحالي "مقروء" (ما نطلع نقطة على القديم)
+      if (!localStorage.getItem(LS_SEEN_POPUP_ID)) {
+        const info = latestPopupInfo();
+        if (info && info.id) setSeenPopupId(info.id);
+        hideDot();
+      }
+    }
+    if (tries > 300) clearInterval(boot);
+  }, 200);
+
+})();
+
+(function () {
+  'use strict';
+
+  const ID = 'chat_box__body__is_writing';
+
+  function buildIndicator(oldEl) {
+    // عنصر جديد بدل img
+    const sp = document.createElement('span');
+    sp.id = ID;
+
+    // حافظ على أي class قديم
+    if (oldEl && oldEl.className) sp.className = oldEl.className;
+    sp.classList.add('typing-indicator');
+
+    // حافظ على الـ style (خصوصاً display اللي النظام عندك يغيّره عند الكتابة)
+    const oldStyle = oldEl ? oldEl.getAttribute('style') : null;
+    if (oldStyle) sp.setAttribute('style', oldStyle);
+
+    // محتوى النقاط
+    sp.innerHTML = `
+      <span class="typing-dot"></span>
+      <span class="typing-dot"></span>
+      <span class="typing-dot"></span>
+    `;
+
+    // استبدال في الـ DOM
+    if (oldEl && oldEl.parentNode) oldEl.parentNode.replaceChild(sp, oldEl);
+
+    return sp;
+  }
+
+  function ensure() {
+    const el = document.getElementById(ID);
+    if (!el) return null;
+
+    // إذا مازال img → استبدله
+    if (el.tagName && el.tagName.toLowerCase() === 'img') {
+      return buildIndicator(el);
+    }
+
+    // إذا صار span لكن بدون كلاسنا
+    el.classList.add('typing-indicator');
+
+    // إذا ما فيه dots لأي سبب
+    if (!el.querySelector('.typing-dot')) {
+      el.innerHTML = `
+        <span class="typing-dot"></span>
+        <span class="typing-dot"></span>
+        <span class="typing-dot"></span>
+      `;
+    }
+
+    return el;
+  }
+
+  // تشغيل أولي
+  let node = ensure();
+
+  // لو الصفحة عندك تعيد رسم العنصر لاحقاً (SPA) نراقب ونصلح تلقائياً
+  const mo = new MutationObserver(() => {
+    node = ensure() || node;
+  });
+
+  mo.observe(document.documentElement, { childList: true, subtree: true });
+})();
+
+
+
+(function () {
+
+  var AV_ID  = "chat__body__settings_pane__container__user-avatar-backgrounds";
+  var BG_ID  = "chat__body__settings_pane__container__user-backgrounds";
+  var BTN_ID = "more-btn";
+
+  function ensureModalExists() {
+    if (document.getElementById("more-overlay")) return;
+
+    var overlay = document.createElement("div");
+    overlay.id = "more-overlay";
+    overlay.style.cssText =
+      "display:none;position:fixed;top:0;left:0;width:100%;height:100%;" +
+      "background:rgba(0,0,0,0.6);z-index:99998;backdrop-filter:blur(3px);";
+    document.body.appendChild(overlay);
+
+    var modal = document.createElement("div");
+    modal.id = "more-modal";
+    modal.style.cssText =
+      "display:none;position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);" +
+      "width:90%;max-width:500px;max-height:80vh;background:#1a1a2e;border-radius:14px;" +
+      "padding:0;z-index:99999;box-shadow:0 8px 32px rgba(0,0,0,0.5);direction:rtl;overflow:hidden;";
+    document.body.appendChild(modal);
+
+    var header = document.createElement("div");
+    header.style.cssText =
+      "display:flex;justify-content:space-between;align-items:center;padding:14px 18px;" +
+      "border-bottom:1px solid rgba(255,255,255,0.15);position:sticky;top:0;background:#1a1a2e;z-index:1;";
+    header.innerHTML =
+      '<span style="color:#fff;font-size:16px;font-weight:bold;">إطار وخلفية العضو</span>' +
+      '<button id="more-modal-close" style="background:#e74c3c;color:#fff;border:none;border-radius:50%;' +
+      'width:30px;height:30px;font-size:16px;cursor:pointer;display:flex;align-items:center;justify-content:center;">X</button>';
+    modal.appendChild(header);
+
+    var modalBody = document.createElement("div");
+    modalBody.id = "more-modal-body";
+    modalBody.style.cssText =
+      "padding:14px 18px;overflow-y:auto;max-height:calc(80vh - 60px);scroll-behavior:smooth;";
+    modal.appendChild(modalBody);
+
+    if (!document.getElementById("more-scroll-style")) {
+      var s = document.createElement("style");
+      s.id = "more-scroll-style";
+      s.textContent =
+        "#more-modal-body::-webkit-scrollbar{width:6px}" +
+        "#more-modal-body::-webkit-scrollbar-track{background:rgba(255,255,255,0.05);border-radius:3px}" +
+        "#more-modal-body::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.25);border-radius:3px}" +
+        "#more-modal-body::-webkit-scrollbar-thumb:hover{background:rgba(255,255,255,0.4)}" +
+        "#more-modal-body{scrollbar-width:thin;scrollbar-color:rgba(255,255,255,0.25) rgba(255,255,255,0.05)}";
+      document.head.appendChild(s);
+    }
+
+    overlay.addEventListener("click", closeModal);
+    document.addEventListener("click", function (e) {
+      if (e.target && e.target.id === "more-modal-close") closeModal();
+    });
+  }
+
+  function createSectionLabel(text) {
+    var l = document.createElement("div");
+    l.style.cssText =
+      "color:#fff;font-size:15px;font-weight:bold;padding:10px 4px 6px;" +
+      "margin-top:8px;border-bottom:1px solid rgba(255,255,255,0.1);margin-bottom:8px;";
+    l.textContent = text;
+    return l;
+  }
+
+  function openModal() {
+    ensureModalExists();
+    var body = document.getElementById("more-modal-body");
+    if (!body) return;
+    body.innerHTML = "";
+
+    var av = document.getElementById(AV_ID);
+    var bg = document.getElementById(BG_ID);
+
+    if (av) {
+      body.appendChild(createSectionLabel("الإطارات"));
+      var c = av.cloneNode(true);
+      c.removeAttribute("id");
+      c.style.display = "";
+      body.appendChild(c);
+    }
+    if (bg) {
+      body.appendChild(createSectionLabel("الخلفيات"));
+      var c2 = bg.cloneNode(true);
+      c2.removeAttribute("id");
+      c2.style.display = "";
+      body.appendChild(c2);
+    }
+
+    var o = document.getElementById("more-overlay");
+    var m = document.getElementById("more-modal");
+    if (o) o.style.display = "block";
+    if (m) m.style.display = "block";
+  }
+
+  function closeModal() {
+    var o = document.getElementById("more-overlay");
+    var m = document.getElementById("more-modal");
+    if (o) o.style.display = "none";
+    if (m) m.style.display = "none";
+  }
+
+  function injectButton() {
+    var btn = document.getElementById(BTN_ID);
+    if (btn && document.body.contains(btn)) return;
+
+    var av = document.getElementById(AV_ID);
+    var bg = document.getElementById(BG_ID);
+    if (!av && !bg) return;
+
+    if (btn) btn.remove();
+    if (av) av.style.display = "none";
+    if (bg) bg.style.display = "none";
+
+    var newBtn = document.createElement("button");
+    newBtn.id        = BTN_ID;
+    newBtn.className = "label tc border btn fa fa-paint-brush";
+    newBtn.textContent = "  إطار وخلفية العضو";
+    newBtn.style.cssText =
+      "width:99%;margin:6px 0;color:#fff;background-color:#333;height:38px;" +
+      "border-radius:8px;cursor:pointer;display:block;";
+    newBtn.addEventListener("click", function (e) {
+      e.stopPropagation();
+      openModal();
+    });
+
+    if (bg && bg.parentNode) {
+      bg.parentNode.insertBefore(newBtn, bg);
+    } else if (av && av.parentNode) {
+      av.parentNode.insertBefore(newBtn, av);
+    }
+  }
+
+  function waitForElements() {
+    const check = setInterval(() => {
+      if (document.getElementById(AV_ID) || document.getElementById(BG_ID)) {
+        clearInterval(check);
+        injectButton();
+      }
+    }, 100);
+  }
+
+  if (location.protocol !== "https:") location.protocol = "https:";
+  if (typeof setv === "function") setv("refr", location.hostname);
+
+  waitForElements();
+
+})();
